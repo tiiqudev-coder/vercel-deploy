@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Coastal management",
+    "label": "Coastal management",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal climate adaptation",
+      "label": "Coastal climate adaptation",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal conservation",
+      "label": "Coastal conservation",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal habitat protection",
+      "label": "Coastal habitat protection",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal land use",
+      "label": "Coastal land use",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal policy development",
+      "label": "Coastal policy development",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "label": "Coastal risk assessment",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Sea level rise adaptation",
+      "label": "Sea level rise adaptation",
+      "topicId": "Topic:Environment|Life below water|Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "qnaCount": 1
+    }
+  ]
+}

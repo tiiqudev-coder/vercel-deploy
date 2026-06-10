@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Smart grids",
+    "label": "Smart grids",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Energy market integration",
+      "label": "Energy market integration",
+      "topicId": "Topic:Environment|Smart cities|Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid data analytics",
+      "label": "Grid data analytics",
+      "topicId": "Topic:Environment|Smart cities|Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms",
+      "label": "Grid optimization algorithms",
+      "topicId": "Topic:Environment|Smart cities|Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "label": "Intelligent substation automation",
+      "topicId": "Topic:Environment|Smart cities|Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration",
+      "label": "Renewable energy integration",
+      "topicId": "Topic:Environment|Smart cities|Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "qnaCount": 4
+    }
+  ]
+}

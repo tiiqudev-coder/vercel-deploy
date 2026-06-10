@@ -1,0 +1,221 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+    "label": "Water purification techniques",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption",
+      "label": "Activated carbon adsorption",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "label": "Aeration techniques",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "label": "Biological filtration",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "label": "Chemical precipitation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chlorination processes",
+      "label": "Chlorination processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Desalination methods",
+      "label": "Desalination methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "label": "Distillation methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrochemical methods",
+      "label": "Electrochemical methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods",
+      "label": "Electrodialysis methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification",
+      "label": "Graphene-based purification",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Membrane filtration",
+      "label": "Membrane filtration",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "label": "Microfiltration systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "label": "Moringa seed purification",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Nanofiltration processes",
+      "label": "Nanofiltration processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ozonation techniques",
+      "label": "Ozonation techniques",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "label": "Photocatalytic purification",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Silver ionization disinfection",
+      "label": "Silver ionization disinfection",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes",
+      "label": "Ultrafiltration membranes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "label": "Zeolite filtration",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "qnaCount": 2
+    }
+  ]
+}

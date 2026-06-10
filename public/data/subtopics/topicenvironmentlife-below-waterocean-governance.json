@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Ocean governance",
+    "label": "Ocean governance",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones",
+      "label": "Exclusive economic zones",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|High seas governance",
+      "label": "High seas governance",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|International ocean governance",
+      "label": "International ocean governance",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Marine protected areas",
+      "label": "Marine protected areas",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance coordination",
+      "label": "Ocean governance coordination",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks",
+      "label": "Ocean governance frameworks",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance institutions",
+      "label": "Ocean governance institutions",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy",
+      "label": "Sustainable blue economy",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Transboundary cooperation",
+      "label": "Transboundary cooperation",
+      "topicId": "Topic:Environment|Life below water|Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "qnaCount": 15
+    }
+  ]
+}

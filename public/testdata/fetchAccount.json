@@ -1,0 +1,78 @@
+{
+    "user": {
+        "first_name": "Qutii",
+        "last_name": "Dev",
+        "email": "tiiqudev@gmail.com",
+        "password": "********",
+        "language": "English (UK)",
+        "Time_zone": "",
+        "email_notifications": {
+            "email_notes": "never",
+            "options": [
+                {
+                    "label": "Send me email nofitications",
+                    "value": "email"
+                },
+                {
+                    "label": "One an hour at most",
+                    "value": "hour"
+                },
+                {
+                    "label": "Never",
+                    "value": "never"
+                }
+            ]
+        },
+        "updates": [
+            {
+                "label": "Tips and Tricks",
+                "value": true
+            },
+            {
+                "label": "Offers and Promotions",
+                "value": true
+            },
+            {
+                "label": "Research Opportunities",
+                "value": true
+            }
+        ],
+        "sign_in_notifications": {
+            "sign_in_notes": "secure",
+            "options": [
+                {
+                    "label": "Most secure",
+                    "value": "secure"
+                },
+                {
+                    "label": "Standard",
+                    "value": "standard"
+                },
+                {
+                    "label": "Don't send me any sign-in notifications",
+                    "value": "none"
+                }
+            ]
+        },
+        "privacy": [
+            {
+                "heading": "Data research",
+                "tagline": "Can we enable trusted third-party partners to use data about you for social, economic, and workplace research?",
+                "label": "Use data for research",
+                "value": false
+            },
+            {
+                "heading": "Research invitations",
+                "tagline": "Allow TiiQu to send you invitations for participating in product feedback surveys, market research, and other studies?",
+                "label": "Research invitations",
+                "value": true
+            },
+            {
+                "heading": "Detect harmful content",
+                "tagline": "Do you want TiiQu’s automated processes to detect certain policy violations by others, such as harassment, for the messages that are sent to you?",
+                "label": "Automated detection of harmful content",
+                "value": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+    "label": "Water scarcity mitigation strategies",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Demand management programs",
+      "label": "Demand management programs",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Desalination technologies",
+      "label": "Desalination technologies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "label": "Ecosystem restoration projects",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Groundwater recharge methods",
+      "label": "Groundwater recharge methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Wastewater reuse initiatives",
+      "label": "Wastewater reuse initiatives",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water footprint reduction efforts",
+      "label": "Water footprint reduction efforts",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "label": "Water pricing policies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "qnaCount": 2
+    }
+  ]
+}

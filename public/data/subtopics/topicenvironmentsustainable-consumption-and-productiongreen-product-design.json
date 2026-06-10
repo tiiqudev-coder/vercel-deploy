@@ -1,0 +1,177 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Green product design",
+    "label": "Green product design",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations",
+      "label": "Accessibility considerations",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Biodegradable materials incorporation",
+      "label": "Biodegradable materials incorporation",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design",
+      "label": "Consumer education and engagement in design",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Design for environmental justice",
+      "label": "Design for environmental justice",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design",
+      "label": "Durability-focused design",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Ethical sourcing considerations",
+      "label": "Ethical sourcing considerations",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Life cycle assessment integration",
+      "label": "Life cycle assessment integration",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Lightweight product design",
+      "label": "Lightweight product design",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Low-impact manufacturing processes",
+      "label": "Low-impact manufacturing processes",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Multi-functional product design",
+      "label": "Multi-functional product design",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage",
+      "label": "Recyclable materials usage",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design",
+      "label": "Repairable product design",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Socially responsible design practices",
+      "label": "Socially responsible design practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection",
+      "label": "Sustainable materials selection",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles",
+      "label": "User-friendly design principles",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Remote learning",
+    "label": "Remote learning",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Remote learning|Interactive learning",
+      "label": "Interactive learning",
+      "topicId": "Topic:Social|Quality education|Remote learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Remote learning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Remote learning|Remote collaboration",
+      "label": "Remote collaboration",
+      "topicId": "Topic:Social|Quality education|Remote learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Remote learning",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+    "label": "Waste reduction strategies",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction",
+      "label": "Construction waste reduction",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Food waste prevention",
+      "label": "Food waste prevention",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Hazardous waste management",
+      "label": "Hazardous waste management",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Source reduction methods",
+      "label": "Source reduction methods",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Waste auditing procedures",
+      "label": "Waste auditing procedures",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Waste segregation systems",
+      "label": "Waste segregation systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    }
+  ]
+}

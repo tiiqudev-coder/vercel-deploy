@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Gender identity",
+    "label": "Gender identity",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Intersectionality and gender identity",
+      "label": "Intersectionality and gender identity",
+      "topicId": "Topic:Social|Gender equity|Gender identity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition",
+      "label": "Legal gender recognition",
+      "topicId": "Topic:Social|Gender equity|Gender identity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Non-binary identities",
+      "label": "Non-binary identities",
+      "topicId": "Topic:Social|Gender equity|Gender identity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity",
+      "qnaCount": 1
+    }
+  ]
+}

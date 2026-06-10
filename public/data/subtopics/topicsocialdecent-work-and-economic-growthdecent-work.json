@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Decent work",
+    "label": "Decent work",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Decent work|Training and skills development",
+      "label": "Training and skills development",
+      "topicId": "Topic:Social|Decent work and economic growth|Decent work",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Decent work",
+      "qnaCount": 1
+    }
+  ]
+}

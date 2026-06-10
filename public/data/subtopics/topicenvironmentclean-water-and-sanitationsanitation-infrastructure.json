@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+    "label": "Sanitation infrastructure",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters",
+      "label": "Biogas digesters",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention",
+      "label": "Combined sewer overflow (cso) prevention",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Composting toilets",
+      "label": "Composting toilets",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets",
+      "label": "Flush toilets",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Low-cost sanitation solutions",
+      "label": "Low-cost sanitation solutions",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|On-site sanitation facilities",
+      "label": "On-site sanitation facilities",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "label": "Pit latrines",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Public restrooms",
+      "label": "Public restrooms",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Sanitation facilities in healthcare settings",
+      "label": "Sanitation facilities in healthcare settings",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "qnaCount": 1
+    }
+  ]
+}

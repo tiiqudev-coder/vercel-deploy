@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+    "label": "Product life-cycle analysis",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Continuous improvement initiatives",
+      "label": "Continuous improvement initiatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Disposal methods",
+      "label": "Disposal methods",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics",
+      "label": "Distribution logistics",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Eco-labeling",
+      "label": "Eco-labeling",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Economic analysis",
+      "label": "Economic analysis",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Energy consumption",
+      "label": "Energy consumption",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Environmental impact assessment",
+      "label": "Environmental impact assessment",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Environmental labeling",
+      "label": "Environmental labeling",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Green marketing strategies",
+      "label": "Green marketing strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Life cycle cost analysis",
+      "label": "Life cycle cost analysis",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "label": "Manufacturing processes",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Product use phase",
+      "label": "Product use phase",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Raw material extraction",
+      "label": "Raw material extraction",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Social impact assessment",
+      "label": "Social impact assessment",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Transportation emissions",
+      "label": "Transportation emissions",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Waste generation",
+      "label": "Waste generation",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Water footprint calculation",
+      "label": "Water footprint calculation",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Water usage",
+      "label": "Water usage",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "qnaCount": 11
+    }
+  ]
+}

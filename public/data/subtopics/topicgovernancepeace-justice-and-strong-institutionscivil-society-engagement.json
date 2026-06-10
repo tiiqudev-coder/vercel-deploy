@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+    "label": "Civil society engagement",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civic participation platforms",
+      "label": "Civic participation platforms",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions",
+      "label": "Civil society coalitions",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Grassroots movements",
+      "label": "Grassroots movements",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Nonprofit organizations",
+      "label": "Nonprofit organizations",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Participatory decision-making processes",
+      "label": "Participatory decision-making processes",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums",
+      "label": "Policy consultation forums",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Public awareness campaigns",
+      "label": "Public awareness campaigns",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "qnaCount": 1
+    }
+  ]
+}

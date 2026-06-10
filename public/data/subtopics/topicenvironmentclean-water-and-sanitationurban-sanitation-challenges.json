@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+    "label": "Urban sanitation challenges",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated food markets",
+      "label": "Contaminated food markets",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "label": "Contaminated water sources",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection",
+      "label": "Inadequate waste collection",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "label": "Limited public toilets",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Overcrowded public restrooms",
+      "label": "Overcrowded public restrooms",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Pollution in water bodies",
+      "label": "Pollution in water bodies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Poor sanitation awareness",
+      "label": "Poor sanitation awareness",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "label": "Rapid urbanization impact",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 23
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban planning challenges",
+      "label": "Urban planning challenges",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks",
+      "label": "Urban waterborne disease outbreaks",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Waste management issues",
+      "label": "Waste management issues",
+      "topicId": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "qnaCount": 11
+    }
+  ]
+}

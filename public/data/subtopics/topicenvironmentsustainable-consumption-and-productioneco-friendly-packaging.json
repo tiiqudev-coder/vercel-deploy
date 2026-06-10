@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+    "label": "Eco-friendly packaging",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Biodegradable packaging materials",
+      "label": "Biodegradable packaging materials",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Bioplastic packaging solutions",
+      "label": "Bioplastic packaging solutions",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Compostable packaging options",
+      "label": "Compostable packaging options",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Dissolvable packaging materials",
+      "label": "Dissolvable packaging materials",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Eco-friendly ink and dyes",
+      "label": "Eco-friendly ink and dyes",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "label": "Edible packaging innovations",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Fsc-certified packaging materials",
+      "label": "Fsc-certified packaging materials",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Life cycle assessment of packaging materials",
+      "label": "Life cycle assessment of packaging materials",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Minimalist labeling and branding",
+      "label": "Minimalist labeling and branding",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Non-toxic packaging materials",
+      "label": "Non-toxic packaging materials",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint",
+      "label": "Packaging with reduced carbon footprint",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced plastic content",
+      "label": "Packaging with reduced plastic content",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Paper-based packaging alternatives",
+      "label": "Paper-based packaging alternatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Plant-based packaging solutions",
+      "label": "Plant-based packaging solutions",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Recyclable packaging designs",
+      "label": "Recyclable packaging designs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Renewable packaging resources",
+      "label": "Renewable packaging resources",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Sustainable packaging sourcing",
+      "label": "Sustainable packaging sourcing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Water-based coatings for packaging",
+      "label": "Water-based coatings for packaging",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "qnaCount": 1
+    }
+  ]
+}

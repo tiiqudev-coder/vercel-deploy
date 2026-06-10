@@ -1,0 +1,177 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Habitat restoration",
+    "label": "Habitat restoration",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Bog restoration programs",
+      "label": "Bog restoration programs",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "label": "Forest understory restoration",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation",
+      "label": "Grassland reclamation",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "label": "Grassland restoration",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "label": "Mountain habitat restoration",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "label": "Pond restoration initiatives",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration",
+      "label": "Prairie restoration",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Reef building activities",
+      "label": "Reef building activities",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "label": "River restoration efforts",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Riverine habitat enhancement",
+      "label": "Riverine habitat enhancement",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement",
+      "label": "Stream habitat enhancement",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Urban forest regeneration",
+      "label": "Urban forest regeneration",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Urban greening projects",
+      "label": "Urban greening projects",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Urban wetland creation",
+      "label": "Urban wetland creation",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects",
+      "label": "Woodland regeneration projects",
+      "topicId": "Topic:Environment|Life on land|Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "qnaCount": 2
+    }
+  ]
+}

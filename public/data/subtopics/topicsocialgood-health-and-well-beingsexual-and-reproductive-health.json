@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Sexual and reproductive health",
+    "label": "Sexual and reproductive health",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Sexual and reproductive health|Fertility awareness",
+      "label": "Fertility awareness",
+      "topicId": "Topic:Social|Good health and well-being|Sexual and reproductive health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Sexual and reproductive health",
+      "qnaCount": 1
+    }
+  ]
+}

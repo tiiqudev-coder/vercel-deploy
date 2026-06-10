@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Distributed energy resources",
+    "label": "Distributed energy resources",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy",
+      "label": "Blockchain applications in distributed energy",
+      "topicId": "Topic:Environment|Clean energy|Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Combined heat and power (chp)",
+      "label": "Combined heat and power (chp)",
+      "topicId": "Topic:Environment|Clean energy|Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas",
+      "label": "Distributed energy resources in rural areas",
+      "topicId": "Topic:Environment|Clean energy|Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Energy-efficient building design",
+      "label": "Energy-efficient building design",
+      "topicId": "Topic:Environment|Clean energy|Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Peer-to-peer energy trading platforms",
+      "label": "Peer-to-peer energy trading platforms",
+      "topicId": "Topic:Environment|Clean energy|Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "label": "Smart grid technologies",
+      "topicId": "Topic:Environment|Clean energy|Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "qnaCount": 4
+    }
+  ]
+}

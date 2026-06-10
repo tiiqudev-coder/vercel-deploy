@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Coastal restoration",
+    "label": "Coastal restoration",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coastal habitat creation",
+      "label": "Coastal habitat creation",
+      "topicId": "Topic:Environment|Life below water|Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "label": "Coral transplantation",
+      "topicId": "Topic:Environment|Life below water|Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "label": "Ecological restoration",
+      "topicId": "Topic:Environment|Life below water|Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Mangrove restoration",
+      "label": "Mangrove restoration",
+      "topicId": "Topic:Environment|Life below water|Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Seagrass bed restoration",
+      "label": "Seagrass bed restoration",
+      "topicId": "Topic:Environment|Life below water|Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "qnaCount": 1
+    }
+  ]
+}

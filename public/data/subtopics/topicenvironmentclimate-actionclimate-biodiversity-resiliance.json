@@ -1,0 +1,254 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+    "label": "Climate biodiversity resiliance",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Biodiversity hotspot preservation",
+      "label": "Biodiversity hotspot preservation",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 33
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Climate-resilient ecosystems",
+      "label": "Climate-resilient ecosystems",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Community-based conservation initiatives",
+      "label": "Community-based conservation initiatives",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation and sustainable fisheries",
+      "label": "Conservation and sustainable fisheries",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation breeding programs",
+      "label": "Conservation breeding programs",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation finance mechanisms",
+      "label": "Conservation finance mechanisms",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation of endemic species",
+      "label": "Conservation of endemic species",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 21
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation of microbial biodiversity",
+      "label": "Conservation of microbial biodiversity",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation of migratory species",
+      "label": "Conservation of migratory species",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation of pollinators",
+      "label": "Conservation of pollinators",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy",
+      "label": "Conservation policy advocacy",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Eco-friendly agriculture practices",
+      "label": "Eco-friendly agriculture practices",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Genetic diversity conservation",
+      "label": "Genetic diversity conservation",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Habitat restoration projects",
+      "label": "Habitat restoration projects",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Impact of climate change on species migration",
+      "label": "Impact of climate change on species migration",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 32
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Indigenous knowledge in biodiversity conservation",
+      "label": "Indigenous knowledge in biodiversity conservation",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Integrated conservation and development projects (icdps)",
+      "label": "Integrated conservation and development projects (icdps)",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Protected area connectivity",
+      "label": "Protected area connectivity",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Rewilding initiatives",
+      "label": "Rewilding initiatives",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of citizen science in biodiversity monitoring",
+      "label": "Role of citizen science in biodiversity monitoring",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "label": "Role of technology in biodiversity monitoring",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection",
+      "label": "Threatened and endangered species protection",
+      "topicId": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "qnaCount": 2
+    }
+  ]
+}

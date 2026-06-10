@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Labor rights",
+    "label": "Labor rights",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication",
+      "label": "Child labor eradication",
+      "topicId": "Topic:Social|Decent work and economic growth|Labor rights",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Freedom of association",
+      "label": "Freedom of association",
+      "topicId": "Topic:Social|Decent work and economic growth|Labor rights",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Non-discrimination",
+      "label": "Non-discrimination",
+      "topicId": "Topic:Social|Decent work and economic growth|Labor rights",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Safe workplaces",
+      "label": "Safe workplaces",
+      "topicId": "Topic:Social|Decent work and economic growth|Labor rights",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "qnaCount": 1
+    }
+  ]
+}

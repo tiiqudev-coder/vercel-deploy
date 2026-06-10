@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Coastal tourism",
+    "label": "Coastal tourism",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal tourism|Coastal destinations",
+      "label": "Coastal destinations",
+      "topicId": "Topic:Environment|Life below water|Coastal tourism",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal tourism",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal tourism|Coastal villages",
+      "label": "Coastal villages",
+      "topicId": "Topic:Environment|Life below water|Coastal tourism",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal tourism",
+      "qnaCount": 1
+    }
+  ]
+}

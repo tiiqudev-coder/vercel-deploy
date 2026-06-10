@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+    "label": "Inclusive prosperity",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all",
+      "label": "Economic prosperity for all",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity",
+      "label": "Equitable prosperity",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Prosperity equity",
+      "label": "Prosperity equity",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Prosperity redistribution",
+      "label": "Prosperity redistribution",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity",
+      "label": "Shared prosperity",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "qnaCount": 3
+    }
+  ]
+}

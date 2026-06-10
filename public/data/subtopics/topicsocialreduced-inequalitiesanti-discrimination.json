@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Anti-discrimination",
+    "label": "Anti-discrimination",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination elimination",
+      "label": "Discrimination elimination",
+      "topicId": "Topic:Social|Reduced inequalities|Anti-discrimination",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination eradication",
+      "label": "Discrimination eradication",
+      "topicId": "Topic:Social|Reduced inequalities|Anti-discrimination",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination-free society",
+      "label": "Discrimination-free society",
+      "topicId": "Topic:Social|Reduced inequalities|Anti-discrimination",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination",
+      "qnaCount": 1
+    }
+  ]
+}

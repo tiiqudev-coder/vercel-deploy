@@ -1,0 +1,170 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Sustainable consumption and production",
+    "label": "Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "label": "Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "label": "Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "label": "Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "label": "Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "label": "Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Ethical labor practices",
+      "label": "Ethical labor practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "label": "Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "label": "Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "label": "Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "label": "Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "label": "Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "label": "Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "label": "Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "label": "Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "label": "Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "label": "Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "label": "Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "label": "Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "label": "Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "label": "Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    }
+  ]
+}

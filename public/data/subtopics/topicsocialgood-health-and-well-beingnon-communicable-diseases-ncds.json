@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+    "label": "Non-communicable diseases (NCDs)",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Environmental impacts",
+      "label": "Environmental impacts",
+      "topicId": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits",
+      "label": "Healthy eating habits",
+      "topicId": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics",
+      "label": "NCDs global statistics",
+      "topicId": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Obesity and health risks",
+      "label": "Obesity and health risks",
+      "topicId": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Physical activity benefits",
+      "label": "Physical activity benefits",
+      "topicId": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Tobacco cessation",
+      "label": "Tobacco cessation",
+      "topicId": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "qnaCount": 1
+    }
+  ]
+}

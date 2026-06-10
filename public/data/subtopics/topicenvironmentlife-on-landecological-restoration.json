@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Ecological restoration",
+    "label": "Ecological restoration",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "label": "Alpine ecosystem restoration",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "label": "Dam removal initiatives",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management",
+      "label": "Ecological succession management",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Erosion control planting",
+      "label": "Erosion control planting",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "label": "Fauna and flora diversity restoration",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion",
+      "label": "Fungi and mycorrhizae promotion",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "label": "Soil microbial community restoration",
+      "topicId": "Topic:Environment|Life on land|Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "qnaCount": 5
+    }
+  ]
+}

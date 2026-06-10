@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+    "label": "Institutional strengthening",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures",
+      "label": "Administrative reform measures",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Continuous improvement processes",
+      "label": "Continuous improvement processes",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms",
+      "label": "Coordination mechanisms",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Digital transformation projects",
+      "label": "Digital transformation projects",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Efficiency enhancement measures",
+      "label": "Efficiency enhancement measures",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Governance reform initiatives",
+      "label": "Governance reform initiatives",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Institutional development plans",
+      "label": "Institutional development plans",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Performance improvement strategies",
+      "label": "Performance improvement strategies",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "qnaCount": 1
+    }
+  ]
+}

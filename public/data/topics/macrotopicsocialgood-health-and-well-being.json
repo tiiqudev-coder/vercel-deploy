@@ -1,0 +1,154 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Good health and well-being",
+    "label": "Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Good health and well-being|Child and adolescent health",
+      "label": "Child and adolescent health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "label": "Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "label": "Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "label": "Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Global health collaboration",
+      "label": "Global health collaboration",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Global health security",
+      "label": "Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Health literacy and education",
+      "label": "Health literacy and education",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Health policy and systems",
+      "label": "Health policy and systems",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Health research and innovation",
+      "label": "Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "label": "Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+      "label": "Mental health and wellbeing",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "label": "Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "label": "Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Physical activity and fitness",
+      "label": "Physical activity and fitness",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Sexual and reproductive health",
+      "label": "Sexual and reproductive health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Social determinants of health",
+      "label": "Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Substance abuse and addiction",
+      "label": "Substance abuse and addiction",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Universal health coverage",
+      "label": "Universal health coverage",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    }
+  ]
+}

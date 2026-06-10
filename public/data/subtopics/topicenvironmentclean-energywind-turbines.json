@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Wind turbines",
+    "label": "Wind turbines",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Advances in wind turbine materials",
+      "label": "Advances in wind turbine materials",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind energy policy and regulations",
+      "label": "Wind energy policy and regulations",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "label": "Wind turbine design and efficiency",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes",
+      "label": "Wind turbine gearboxes",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics",
+      "label": "Wind turbine monitoring and diagnostics",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact",
+      "label": "Wind turbine noise and environmental impact",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbines and bird conservation",
+      "label": "Wind turbines and bird conservation",
+      "topicId": "Topic:Environment|Clean energy|Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "qnaCount": 16
+    }
+  ]
+}

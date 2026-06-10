@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Poverty alleviation",
+    "label": "Poverty alleviation",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Poverty alleviation|Poverty solutions",
+      "label": "Poverty solutions",
+      "topicId": "Topic:Social|Reduced inequalities|Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Poverty alleviation",
+      "qnaCount": 1
+    }
+  ]
+}

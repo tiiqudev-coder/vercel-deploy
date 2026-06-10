@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Green buildings",
+    "label": "Green buildings",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices",
+      "label": "Economic viability of green building practices",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "label": "Green roof systems",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|High-performance insulation",
+      "label": "High-performance insulation",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Indoor air quality and ventilation strategies",
+      "label": "Indoor air quality and ventilation strategies",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Life-cycle assessment of building materials",
+      "label": "Life-cycle assessment of building materials",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 21
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Net zero energy buildings",
+      "label": "Net zero energy buildings",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "label": "Passive solar design",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "label": "Sustainable landscaping design",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives",
+      "label": "Zero carbon building initiatives",
+      "topicId": "Topic:Environment|Clean energy|Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "qnaCount": 3
+    }
+  ]
+}

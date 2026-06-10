@@ -1,0 +1,146 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "label": "Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance"
+  },
+  "topics": [
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Access to justice",
+      "label": "Access to justice",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+      "label": "Accountability systems",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+      "label": "Anti-corruption measures",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "label": "Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Conflict prevention",
+      "label": "Conflict prevention",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+      "label": "Conflict resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Democratic practices",
+      "label": "Democratic practices",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Dispute resolution",
+      "label": "Dispute resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Equality before law",
+      "label": "Equality before law",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "label": "Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Human rights",
+      "label": "Human rights",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "label": "Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Judicial independence",
+      "label": "Judicial independence",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Peacebuilding efforts",
+      "label": "Peacebuilding efforts",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Reconciliation processes",
+      "label": "Reconciliation processes",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Social cohesion",
+      "label": "Social cohesion",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Transparent institutions",
+      "label": "Transparent institutions",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    }
+  ]
+}

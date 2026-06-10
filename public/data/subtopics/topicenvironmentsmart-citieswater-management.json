@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Water management",
+    "label": "Water management",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Blockchain for transparent water transactions",
+      "label": "Blockchain for transparent water transactions",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms",
+      "label": "Cloud-based water data platforms",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Flood prediction and early warning systems",
+      "label": "Flood prediction and early warning systems",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping",
+      "label": "Gis for water mapping",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels",
+      "label": "Real-time monitoring of reservoir levels",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics",
+      "label": "Real-time water consumption analytics",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Remote sensing for water resource assessment",
+      "label": "Remote sensing for water resource assessment",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water recycling and reuse technologies",
+      "label": "Water recycling and reuse technologies",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "label": "Water scarcity prediction models",
+      "topicId": "Topic:Environment|Smart cities|Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "qnaCount": 4
+    }
+  ]
+}

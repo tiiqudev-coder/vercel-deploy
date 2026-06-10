@@ -1,0 +1,199 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Air quality monitoring",
+    "label": "Air quality monitoring",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "label": "Air data sharing",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics",
+      "label": "Air quality analytics",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality policies",
+      "label": "Air quality policies",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "label": "Air quality prediction",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "label": "Aqi visualization",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion",
+      "label": "Atmospheric dispersion",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection",
+      "label": "Citizen air data collection",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage",
+      "label": "Health-air linkage",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "label": "Industrial emissions monitor",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industry emission collaboration",
+      "label": "Industry emission collaboration",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "label": "Ml air quality recognition",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 27
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map",
+      "label": "Real-time pollution map",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing",
+      "label": "Remote air sensing",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Traffic-emission integration",
+      "label": "Traffic-emission integration",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Urban planning for air",
+      "label": "Urban planning for air",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "label": "Vehicle emission monitoring",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration",
+      "label": "Weather-air quality integration",
+      "topicId": "Topic:Environment|Smart cities|Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "qnaCount": 2
+    }
+  ]
+}

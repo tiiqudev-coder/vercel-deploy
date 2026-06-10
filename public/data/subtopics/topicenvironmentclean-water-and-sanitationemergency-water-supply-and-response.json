@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Emergency water supply and response",
+    "label": "Emergency water supply and response",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination",
+      "label": "Cross-sectoral coordination",
+      "topicId": "Topic:Environment|Clean water and sanitation|Emergency water supply and response",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring",
+      "label": "Satellite water monitoring",
+      "topicId": "Topic:Environment|Clean water and sanitation|Emergency water supply and response",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response",
+      "qnaCount": 1
+    }
+  ]
+}

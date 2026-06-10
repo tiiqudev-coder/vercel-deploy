@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+    "label": "Wastewater treatment",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Advanced oxidation processes",
+      "label": "Advanced oxidation processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems",
+      "label": "Aerobic treatment systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "label": "Anaerobic digestion",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes",
+      "label": "Biological treatment processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Chemical wastewater treatment",
+      "label": "Chemical wastewater treatment",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Chlorination of effluent",
+      "label": "Chlorination of effluent",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands",
+      "label": "Constructed wetlands",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Denitrification processes",
+      "label": "Denitrification processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 71
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater",
+      "label": "Disinfection of wastewater",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "label": "Electrochemical treatment",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment",
+      "label": "Green infrastructure for treatment",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "label": "Microbial treatment technologies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors",
+      "label": "Rotating biological contactors",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants",
+      "label": "Sewage treatment plants",
+      "topicId": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "qnaCount": 3
+    }
+  ]
+}

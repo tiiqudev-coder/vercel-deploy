@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Fair wages",
+    "label": "Fair wages",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Hourly rates",
+      "label": "Hourly rates",
+      "topicId": "Topic:Social|Decent work and economic growth|Fair wages",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Living wage",
+      "label": "Living wage",
+      "topicId": "Topic:Social|Decent work and economic growth|Fair wages",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Wage standards",
+      "label": "Wage standards",
+      "topicId": "Topic:Social|Decent work and economic growth|Fair wages",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Global financial governance",
+    "label": "Global financial governance",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Anti-corruption initiatives",
+      "label": "Anti-corruption initiatives",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Capital market regulations",
+      "label": "Capital market regulations",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Central banking systems",
+      "label": "Central banking systems",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Economic stability measures",
+      "label": "Economic stability measures",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Financial accountability",
+      "label": "Financial accountability",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Financial oversight bodies",
+      "label": "Financial oversight bodies",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Financial transparency standards",
+      "label": "Financial transparency standards",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "label": "Global monetary policies",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|International taxation rules",
+      "label": "International taxation rules",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Regulatory frameworks",
+      "label": "Regulatory frameworks",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "qnaCount": 1
+    }
+  ]
+}

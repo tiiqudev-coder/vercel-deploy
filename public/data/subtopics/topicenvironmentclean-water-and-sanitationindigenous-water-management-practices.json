@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+    "label": "Indigenous water management practices",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Biocultural water conservation",
+      "label": "Biocultural water conservation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Cultural water knowledge",
+      "label": "Cultural water knowledge",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Customary fishing techniques",
+      "label": "Customary fishing techniques",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Ethnobotanical water practices",
+      "label": "Ethnobotanical water practices",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous fisheries management",
+      "label": "Indigenous fisheries management",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights",
+      "label": "Indigenous water rights",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water stories",
+      "label": "Indigenous water stories",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Intergenerational water teachings",
+      "label": "Intergenerational water teachings",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "label": "Local hydrological knowledge",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "label": "Medicinal water plants",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Water catchment practices",
+      "label": "Water catchment practices",
+      "topicId": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "qnaCount": 1
+    }
+  ]
+}

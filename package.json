@@ -1,0 +1,70 @@
+{
+  "name": "front-end-graph-viz-two",
+  "private": true,
+  "type": "module",
+  "imports": {
+    "#/*": "./src/*"
+  },
+  "scripts": {
+    "generate:main": "tsx scripts/generateMainGraph.ts",
+    "generate:macrotopics": "tsx scripts/generateMacrotopics.ts",
+    "generate:topics": "tsx scripts/generateTopics.ts",
+    "generate:subtopics": "tsx scripts/generateSubtopics.ts",
+    "generate:qnas": "tsx scripts/generateSubtopicQnas.ts",
+    "generate:all": "npm run generate:main && npm run generate:qnas && npm run generate:macrotopics && npm run generate:topics && npm run generate:subtopics",
+    "dev": "vite dev --port 3000",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "lint": "eslint",
+    "format": "prettier --check .",
+    "check": "prettier --write . && eslint --fix"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@tanstack/react-devtools": "latest",
+    "@tanstack/react-form": "^1.32.0",
+    "@tanstack/react-router": "latest",
+    "@tanstack/react-router-devtools": "latest",
+    "@tanstack/react-router-ssr-query": "latest",
+    "@tanstack/react-start": "latest",
+    "@tanstack/router-plugin": "^1.132.0",
+    "csvtojson": "^2.0.14",
+    "d3": "^7.9.0",
+    "d3-scale": "^4.0.2",
+    "graphology": "^0.26.0",
+    "graphology-components": "^1.5.4",
+    "graphology-layout": "^0.6.1",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "lucide-react": "^0.545.0",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sigma": "^3.0.2",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@tanstack/devtools-vite": "latest",
+    "@tanstack/eslint-config": "latest",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/react": "^16.3.0",
+    "@types/d3": "^7.4.3",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "jsdom": "^28.1.0",
+    "prettier": "^3.8.1",
+    "typescript": "^5.7.2",
+    "vite": "^8.0.0",
+    "vitest": "^3.0.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "lightningcss"
+    ]
+  }
+}

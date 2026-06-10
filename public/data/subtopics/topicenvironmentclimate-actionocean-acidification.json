@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Ocean acidification",
+    "label": "Ocean acidification",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "label": "Acidification and coastal ecosystems",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology",
+      "label": "Acidification and fish physiology",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms",
+      "label": "Acidification and marine microorganisms",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on deep-sea ecosystems",
+      "label": "Acidification effects on deep-sea ecosystems",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on foraminifera",
+      "label": "Acidification effects on foraminifera",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on plankton",
+      "label": "Acidification effects on plankton",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "label": "Acidification effects on seagrasses",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "label": "Acidification in polar regions",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Economic consequences of ocean acidification",
+      "label": "Economic consequences of ocean acidification",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on commercial fisheries",
+      "label": "Impact on commercial fisheries",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on larval development",
+      "label": "Impact on larval development",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "label": "Impact on pteropods and mollusks",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "label": "Influence on marine biodiversity",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease",
+      "label": "Ocean acidification and coral disease",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification monitoring techniques",
+      "label": "Ocean acidification monitoring techniques",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification research initiatives",
+      "label": "Ocean acidification research initiatives",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "label": "Role of alkalinity in mitigating acidification",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching",
+      "label": "Role of ocean acidification in coral bleaching",
+      "topicId": "Topic:Environment|Climate action|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "qnaCount": 3
+    }
+  ]
+}

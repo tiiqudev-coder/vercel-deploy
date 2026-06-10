@@ -1,0 +1,254 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Deforestation and reforestation",
+    "label": "Deforestation and reforestation",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Biodiversity hotspots and conservation",
+      "label": "Biodiversity hotspots and conservation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Boreal forest conservation",
+      "label": "Boreal forest conservation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Causes and consequences of deforestation",
+      "label": "Causes and consequences of deforestation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "label": "Climate resilient tree species",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Economic drivers of deforestation",
+      "label": "Economic drivers of deforestation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 47
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests",
+      "label": "Ecosystem services provided by forests",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest carbon sequestration",
+      "label": "Forest carbon sequestration",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest certification programs",
+      "label": "Forest certification programs",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management",
+      "label": "Forest fire prevention and management",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest restoration techniques",
+      "label": "Forest restoration techniques",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "label": "Illegal logging and its impact",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Impact of logging on biodiversity",
+      "label": "Impact of logging on biodiversity",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 40
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation",
+      "label": "Indigenous practices in forest conservation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous rights in forest protection",
+      "label": "Indigenous rights in forest protection",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "label": "Payment for ecosystem services (pes)",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Reforestation as a carbon sink",
+      "label": "Reforestation as a carbon sink",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "label": "Remote sensing for deforestation monitoring",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of forests in water cycle regulation",
+      "label": "Role of forests in water cycle regulation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration",
+      "label": "Role of reforestation in wildlife habitat restoration",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Socioeconomic benefits of reforestation",
+      "label": "Socioeconomic benefits of reforestation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Sustainable logging practices",
+      "label": "Sustainable logging practices",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Tropical rainforest conservation",
+      "label": "Tropical rainforest conservation",
+      "topicId": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "qnaCount": 15
+    }
+  ]
+}

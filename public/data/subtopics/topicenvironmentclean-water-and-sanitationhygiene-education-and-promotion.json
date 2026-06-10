@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+    "label": "Hygiene education and promotion",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavior modification workshops",
+      "label": "Behavior modification workshops",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "label": "Behavioral change interventions",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Community health talks",
+      "label": "Community health talks",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Environmental sanitation promotion",
+      "label": "Environmental sanitation promotion",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Health promotion campaigns",
+      "label": "Health promotion campaigns",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene behavior promotion",
+      "label": "Hygiene behavior promotion",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene demonstration sessions",
+      "label": "Hygiene demonstration sessions",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene promotion posters",
+      "label": "Hygiene promotion posters",
+      "topicId": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "qnaCount": 1
+    }
+  ]
+}

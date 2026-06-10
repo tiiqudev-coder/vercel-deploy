@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Reproductive rights",
+    "label": "Reproductive rights",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies",
+      "label": "Gender-responsive family policies",
+      "topicId": "Topic:Social|Gender equity|Reproductive rights",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Reproductive rights",
+      "qnaCount": 3
+    }
+  ]
+}

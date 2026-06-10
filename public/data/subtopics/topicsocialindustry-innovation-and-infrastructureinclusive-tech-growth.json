@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+    "label": "Inclusive tech growth",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Inclusive tech growth|Bridging digital divide",
+      "label": "Bridging digital divide",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Inclusive tech growth",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Inclusive tech growth|Closing tech gaps",
+      "label": "Closing tech gaps",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Inclusive tech growth",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Inclusive tech growth|Equal tech opportunities",
+      "label": "Equal tech opportunities",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Inclusive tech growth",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Inclusive tech growth|Inclusive tech ecosystems",
+      "label": "Inclusive tech ecosystems",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Inclusive tech growth",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Inclusive tech growth|Inclusive tech policies",
+      "label": "Inclusive tech policies",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Inclusive tech growth",
+      "qnaCount": 1
+    }
+  ]
+}

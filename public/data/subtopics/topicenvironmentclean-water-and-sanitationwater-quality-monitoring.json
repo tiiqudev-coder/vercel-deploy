@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+    "label": "Water quality monitoring",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Adaptive management practices",
+      "label": "Adaptive management practices",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs",
+      "label": "Behavioral intervention programs",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "label": "Data-driven strategies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection",
+      "label": "Early disease detection",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Holistic health approaches",
+      "label": "Holistic health approaches",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment",
+      "label": "Nutrient level assessment",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "label": "Pathogen tracking systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "label": "Regular water testing",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Sustainable research solutions",
+      "label": "Sustainable research solutions",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+    "label": "Public-private synergy",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects",
+      "label": "Co-development projects",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-investment schemes",
+      "label": "Co-investment schemes",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Collaboration models",
+      "label": "Collaboration models",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 21
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Contractual frameworks",
+      "label": "Contractual frameworks",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Long-term partnerships",
+      "label": "Long-term partnerships",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "label": "Performance metrics",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "label": "Policy alignment",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance",
+      "label": "Project governance",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage",
+      "label": "Public funding leverage",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Regulatory cooperation",
+      "label": "Regulatory cooperation",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources",
+      "label": "Shared resources",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Stakeholder engagement",
+      "label": "Stakeholder engagement",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Sustainability standards",
+      "label": "Sustainability standards",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Transparency measures",
+      "label": "Transparency measures",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "qnaCount": 1
+    }
+  ]
+}

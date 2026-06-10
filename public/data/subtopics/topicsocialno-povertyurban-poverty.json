@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Urban poverty",
+    "label": "Urban poverty",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Environmental degradation",
+      "label": "Environmental degradation",
+      "topicId": "Topic:Social|No poverty|Urban poverty",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "qnaCount": 22
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Food insecurity",
+      "label": "Food insecurity",
+      "topicId": "Topic:Social|No poverty|Urban poverty",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Poor housing quality",
+      "label": "Poor housing quality",
+      "topicId": "Topic:Social|No poverty|Urban poverty",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Transportation challenges",
+      "label": "Transportation challenges",
+      "topicId": "Topic:Social|No poverty|Urban poverty",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "qnaCount": 15
+    }
+  ]
+}

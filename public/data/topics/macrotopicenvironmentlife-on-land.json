@@ -1,0 +1,170 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Life on land",
+    "label": "Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Life on land|Afforestation programs",
+      "label": "Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Biodiversity conservation",
+      "label": "Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Community conservation",
+      "label": "Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Conservation farming",
+      "label": "Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Deforestation prevention",
+      "label": "Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Desertification mitigation",
+      "label": "Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Ecological restoration",
+      "label": "Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Forest protection",
+      "label": "Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Habitat restoration",
+      "label": "Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Indigenous land rights",
+      "label": "Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Land degradation control",
+      "label": "Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "label": "Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Land use planning",
+      "label": "Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Protected areas management",
+      "label": "Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Reforestation initiatives",
+      "label": "Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Soil health management",
+      "label": "Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Sustainable agriculture",
+      "label": "Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Wildlife conservation",
+      "label": "Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "label": "Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "label": "Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    }
+  ]
+}

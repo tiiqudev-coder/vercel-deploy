@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Overfishing control",
+    "label": "Overfishing control",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Catch limits",
+      "label": "Catch limits",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fisheries management plans",
+      "label": "Fisheries management plans",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fisheries surveillance",
+      "label": "Fisheries surveillance",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fishery monitoring",
+      "label": "Fishery monitoring",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fishing fleet management",
+      "label": "Fishing fleet management",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fishing license regulations",
+      "label": "Fishing license regulations",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "label": "Fleet capacity reduction",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Gear restrictions",
+      "label": "Gear restrictions",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "label": "International cooperation",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Satellite surveillance",
+      "label": "Satellite surveillance",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Stock assessments",
+      "label": "Stock assessments",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Traceability systems",
+      "label": "Traceability systems",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "label": "Trawl net restrictions",
+      "topicId": "Topic:Environment|Life below water|Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "qnaCount": 5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Educational equity",
+    "label": "Educational equity",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Educational equity|Equal learning opportunities",
+      "label": "Equal learning opportunities",
+      "topicId": "Topic:Social|Reduced inequalities|Educational equity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Educational equity",
+      "qnaCount": 1
+    }
+  ]
+}

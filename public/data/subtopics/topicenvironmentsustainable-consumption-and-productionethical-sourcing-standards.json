@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+    "label": "Ethical sourcing standards",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards",
+      "label": "Animal welfare standards",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures",
+      "label": "Environmental protection measures",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Ethical sourcing partnerships",
+      "label": "Ethical sourcing partnerships",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Ethical sourcing reporting and disclosure",
+      "label": "Ethical sourcing reporting and disclosure",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Ethical sourcing training",
+      "label": "Ethical sourcing training",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Human rights due diligence",
+      "label": "Human rights due diligence",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Responsible agricultural practices",
+      "label": "Responsible agricultural practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Responsible mining practices",
+      "label": "Responsible mining practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Social compliance auditing",
+      "label": "Social compliance auditing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Stakeholder engagement strategies",
+      "label": "Stakeholder engagement strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Supply chain transparency",
+      "label": "Supply chain transparency",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Sustainable sourcing policies",
+      "label": "Sustainable sourcing policies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Working hour regulations",
+      "label": "Working hour regulations",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "qnaCount": 1
+    }
+  ]
+}

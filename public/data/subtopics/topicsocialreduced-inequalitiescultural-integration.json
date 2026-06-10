@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Cultural integration",
+    "label": "Cultural integration",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Cultural integration|Equal cultural representation",
+      "label": "Equal cultural representation",
+      "topicId": "Topic:Social|Reduced inequalities|Cultural integration",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Cultural integration",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+    "label": "Fair trade principles",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Cultural preservation efforts",
+      "label": "Cultural preservation efforts",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Environmental sustainability standards",
+      "label": "Environmental sustainability standards",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Ethical sourcing of raw materials",
+      "label": "Ethical sourcing of raw materials",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Fair pricing for products",
+      "label": "Fair pricing for products",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Fair trade impact assessments",
+      "label": "Fair trade impact assessments",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Fair trade labeling and marketing",
+      "label": "Fair trade labeling and marketing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Fair trade supply chain traceability",
+      "label": "Fair trade supply chain traceability",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Long-term trading relationships",
+      "label": "Long-term trading relationships",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers",
+      "label": "Support for smallholder farmers",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Transparent supply chains",
+      "label": "Transparent supply chains",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "qnaCount": 9
+    }
+  ]
+}

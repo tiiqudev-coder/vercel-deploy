@@ -1,0 +1,21 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.nitro
+.tanstack
+.wrangler
+.netlify
+.output
+.vinxi
+__unconfig*
+todos.json
+
+# Generated map JSON lives under public/data only
+/data/qnas/
+/data/topics/
+/data/subtopics/
+/data/macrotopics/
+/data/main_graph.json

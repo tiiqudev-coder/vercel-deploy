@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Urban mobility",
+    "label": "Urban mobility",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Micro-mobility solutions",
+      "label": "Micro-mobility solutions",
+      "topicId": "Topic:Environment|Smart cities|Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Policy planning",
+      "label": "Policy planning",
+      "topicId": "Topic:Environment|Smart cities|Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "qnaCount": 51
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Ride-sharing services",
+      "label": "Ride-sharing services",
+      "topicId": "Topic:Environment|Smart cities|Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic modeling",
+      "label": "Traffic modeling",
+      "topicId": "Topic:Environment|Smart cities|Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "label": "Traffic simulation",
+      "topicId": "Topic:Environment|Smart cities|Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+    "label": "Minimalist lifestyles",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Capsule wardrobes",
+      "label": "Capsule wardrobes",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Conscious consumerism",
+      "label": "Conscious consumerism",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Decluttering practices",
+      "label": "Decluttering practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Embracing experiences over possessions",
+      "label": "Embracing experiences over possessions",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Embracing imperfection",
+      "label": "Embracing imperfection",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Environmental consciousness",
+      "label": "Environmental consciousness",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 20
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Frugal living strategies",
+      "label": "Frugal living strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Intentional purchasing",
+      "label": "Intentional purchasing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Mindful consumption habits",
+      "label": "Mindful consumption habits",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Mindful eating habits",
+      "label": "Mindful eating habits",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Prioritizing quality over quantity",
+      "label": "Prioritizing quality over quantity",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Simplified digital lifestyles",
+      "label": "Simplified digital lifestyles",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Streamlined daily routines",
+      "label": "Streamlined daily routines",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Sustainable living practices",
+      "label": "Sustainable living practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "qnaCount": 2
+    }
+  ]
+}

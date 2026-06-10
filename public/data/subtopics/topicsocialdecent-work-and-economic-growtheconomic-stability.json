@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Economic stability",
+    "label": "Economic stability",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Consumer confidence",
+      "label": "Consumer confidence",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "label": "Economic growth",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "label": "Economic resilience",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Financial regulations",
+      "label": "Financial regulations",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Investment climate",
+      "label": "Investment climate",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "label": "Market stability",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Price stability",
+      "label": "Price stability",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Stable employment",
+      "label": "Stable employment",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "qnaCount": 1
+    }
+  ]
+}

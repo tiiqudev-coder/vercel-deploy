@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Smart street lighting",
+    "label": "Smart street lighting",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Citizen engagement platforms",
+      "label": "Citizen engagement platforms",
+      "topicId": "Topic:Environment|Smart cities|Smart street lighting",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design",
+      "label": "Collaborative design",
+      "topicId": "Topic:Environment|Smart cities|Smart street lighting",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "label": "Real-time consumption monitor",
+      "topicId": "Topic:Environment|Smart cities|Smart street lighting",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration",
+      "label": "Traffic system integration",
+      "topicId": "Topic:Environment|Smart cities|Smart street lighting",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "qnaCount": 1
+    }
+  ]
+}

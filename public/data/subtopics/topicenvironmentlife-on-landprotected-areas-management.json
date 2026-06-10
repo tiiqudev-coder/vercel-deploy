@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Protected areas management",
+    "label": "Protected areas management",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Anti-poaching initiatives",
+      "label": "Anti-poaching initiatives",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects",
+      "label": "Boundary mapping projects",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Indigenous peoples' rights",
+      "label": "Indigenous peoples' rights",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Law enforcement measures",
+      "label": "Law enforcement measures",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Research and monitoring teams",
+      "label": "Research and monitoring teams",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration",
+      "label": "Stakeholder collaboration",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Sustainable livelihood programs",
+      "label": "Sustainable livelihood programs",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Visitor management rules",
+      "label": "Visitor management rules",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "label": "Wildlife migration tracking",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "label": "Wildlife monitoring plans",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife trafficking prevention",
+      "label": "Wildlife trafficking prevention",
+      "topicId": "Topic:Environment|Life on land|Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "qnaCount": 3
+    }
+  ]
+}

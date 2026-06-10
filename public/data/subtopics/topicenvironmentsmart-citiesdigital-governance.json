@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Digital governance",
+    "label": "Digital governance",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "label": "Ai in governance",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Blockchain for government",
+      "label": "Blockchain for government",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Civic tech innovation",
+      "label": "Civic tech innovation",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Collaborative platforms",
+      "label": "Collaborative platforms",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Data privacy policies",
+      "label": "Data privacy policies",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Government analytics",
+      "label": "Government analytics",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Open data initiatives",
+      "label": "Open data initiatives",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Transparent government",
+      "label": "Transparent government",
+      "topicId": "Topic:Environment|Smart cities|Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "qnaCount": 1
+    }
+  ]
+}

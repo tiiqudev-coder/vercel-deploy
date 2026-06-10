@@ -1,0 +1,199 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Biomass energy",
+    "label": "Biomass energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "label": "Advances in biomass technology",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "label": "Biochemical conversion of biomass",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies",
+      "label": "Bioenergy conversion technologies",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "label": "Biogas production from biomass",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass combustion",
+      "label": "Biomass combustion",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy and carbon sequestration",
+      "label": "Biomass energy and carbon sequestration",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy and waste-to-energy",
+      "label": "Biomass energy and waste-to-energy",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy in rural development",
+      "label": "Biomass energy in rural development",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "label": "Biomass feedstocks",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "label": "Biomass for heat and chp",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "label": "Biomass gasification",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "label": "Biomass pellet production",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "label": "Biomass power plants",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)",
+      "label": "Biomass-to-liquid (btl)",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Economic viability of biomass energy",
+      "label": "Economic viability of biomass energy",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "label": "Land use and biomass sustainability",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "label": "Sustainable biomass harvesting",
+      "topicId": "Topic:Environment|Clean energy|Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "qnaCount": 2
+    }
+  ]
+}

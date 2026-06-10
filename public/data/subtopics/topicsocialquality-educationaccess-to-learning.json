@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Access to learning",
+    "label": "Access to learning",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "label": "Flexible learning",
+      "topicId": "Topic:Social|Quality education|Access to learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Open educational resources",
+      "label": "Open educational resources",
+      "topicId": "Topic:Social|Quality education|Access to learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "label": "Universal education",
+      "topicId": "Topic:Social|Quality education|Access to learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "qnaCount": 3
+    }
+  ]
+}

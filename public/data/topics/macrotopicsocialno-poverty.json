@@ -1,0 +1,130 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|No poverty",
+    "label": "No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|No poverty|Access to education",
+      "label": "Access to education",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Access to healthcare",
+      "label": "Access to healthcare",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Affordable housing",
+      "label": "Affordable housing",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Basic needs",
+      "label": "Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Economic empowerment",
+      "label": "Economic empowerment",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Finance accessibility",
+      "label": "Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Food accessibility",
+      "label": "Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Humanitarian aid",
+      "label": "Humanitarian aid",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Income inequality",
+      "label": "Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Livelihood opportunities",
+      "label": "Livelihood opportunities",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Microfinance",
+      "label": "Microfinance",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Poverty alleviation",
+      "label": "Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Poverty eradication programs",
+      "label": "Poverty eradication programs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Rural development",
+      "label": "Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Urban poverty",
+      "label": "Urban poverty",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    }
+  ]
+}

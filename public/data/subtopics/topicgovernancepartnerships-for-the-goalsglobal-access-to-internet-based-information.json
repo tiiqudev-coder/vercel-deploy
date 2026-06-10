@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+    "label": "Global access to internet-based information",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Digital inclusion programs",
+      "label": "Digital inclusion programs",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global access to internet-based information",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Global connectivity programs",
+      "label": "Global connectivity programs",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global access to internet-based information",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Internet infrastructure access",
+      "label": "Internet infrastructure access",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global access to internet-based information",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Online information platforms",
+      "label": "Online information platforms",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global access to internet-based information",
+      "qnaCount": 1
+    }
+  ]
+}

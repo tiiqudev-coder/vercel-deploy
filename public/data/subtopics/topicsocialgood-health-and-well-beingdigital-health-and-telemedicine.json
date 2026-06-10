@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+    "label": "Digital health and telemedicine",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "label": "Ai in healthcare",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "label": "Digital health integration",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "label": "Digital health records",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital nutrition platforms",
+      "label": "Digital nutrition platforms",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions",
+      "label": "E-prescriptions",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities",
+      "label": "Online health communities",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics",
+      "label": "Remote diagnostics",
+      "topicId": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "qnaCount": 1
+    }
+  ]
+}

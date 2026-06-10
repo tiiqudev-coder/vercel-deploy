@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+    "label": "Mental health and wellbeing",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders",
+      "label": "Anxiety disorders",
+      "topicId": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Coping mechanisms",
+      "label": "Coping mechanisms",
+      "topicId": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Mental health and technology",
+      "label": "Mental health and technology",
+      "topicId": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods",
+      "label": "Psychotherapy methods",
+      "topicId": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "qnaCount": 1
+    }
+  ]
+}

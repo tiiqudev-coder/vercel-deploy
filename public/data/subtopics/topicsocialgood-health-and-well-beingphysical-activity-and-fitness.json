@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Physical activity and fitness",
+    "label": "Physical activity and fitness",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Physical activity and fitness|Outdoor activities",
+      "label": "Outdoor activities",
+      "topicId": "Topic:Social|Good health and well-being|Physical activity and fitness",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Physical activity and fitness",
+      "qnaCount": 1
+    }
+  ]
+}

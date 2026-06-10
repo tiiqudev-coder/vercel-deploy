@@ -1,0 +1,66 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Governance|Partnerships for the goals",
+    "label": "Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance"
+  },
+  "topics": [
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+      "label": "Global access to internet-based information",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "label": "Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "label": "Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global health partnerships",
+      "label": "Global health partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "label": "Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "label": "Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "label": "Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    }
+  ]
+}

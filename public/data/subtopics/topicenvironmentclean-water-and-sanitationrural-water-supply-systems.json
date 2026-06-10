@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Rural water supply systems",
+    "label": "Rural water supply systems",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Rural water supply systems|Micro-hydro systems",
+      "label": "Micro-hydro systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Rural water supply systems",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Rural water supply systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Rural water supply systems|Small-scale desalination",
+      "label": "Small-scale desalination",
+      "topicId": "Topic:Environment|Clean water and sanitation|Rural water supply systems",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Rural water supply systems",
+      "qnaCount": 1
+    }
+  ]
+}

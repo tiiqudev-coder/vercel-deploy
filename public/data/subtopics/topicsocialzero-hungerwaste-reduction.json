@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Waste reduction",
+    "label": "Waste reduction",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Waste reduction|Excess inventory management",
+      "label": "Excess inventory management",
+      "topicId": "Topic:Social|Zero hunger|Waste reduction",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Waste reduction",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Waste reduction|Food waste tracking technology",
+      "label": "Food waste tracking technology",
+      "topicId": "Topic:Social|Zero hunger|Waste reduction",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Waste reduction",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Waste reduction|Food waste-to-energy projects",
+      "label": "Food waste-to-energy projects",
+      "topicId": "Topic:Social|Zero hunger|Waste reduction",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Waste reduction",
+      "qnaCount": 1
+    }
+  ]
+}

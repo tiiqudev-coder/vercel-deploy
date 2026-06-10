@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Forest protection",
+    "label": "Forest protection",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Biodiversity conservation on land",
+      "label": "Biodiversity conservation on land",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest biodiversity conservation",
+      "label": "Forest biodiversity conservation",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest governance",
+      "label": "Forest governance",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring",
+      "label": "Forest monitoring",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "label": "Forest preservation",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest restoration",
+      "label": "Forest restoration",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Protected forests",
+      "label": "Protected forests",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Reforestation programs",
+      "label": "Reforestation programs",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Sustainable forestry",
+      "label": "Sustainable forestry",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife corridor protection",
+      "label": "Wildlife corridor protection",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife crime prevention",
+      "label": "Wildlife crime prevention",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "label": "Wildlife monitoring in forests",
+      "topicId": "Topic:Environment|Life on land|Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "qnaCount": 8
+    }
+  ]
+}

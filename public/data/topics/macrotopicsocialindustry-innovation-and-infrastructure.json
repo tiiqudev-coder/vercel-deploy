@@ -1,0 +1,138 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "label": "Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "label": "Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+      "label": "Digital connectivity",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "label": "Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "label": "Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "label": "Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+      "label": "Industrial safety standards",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+      "label": "Infrastructure financing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "label": "Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "label": "Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "label": "Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "label": "Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "label": "SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Sustainable industry",
+      "label": "Sustainable industry",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "label": "Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "label": "Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "label": "Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Land use planning",
+    "label": "Land use planning",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Agricultural land planning",
+      "label": "Agricultural land planning",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "label": "Climate-smart land use strategies",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "label": "Conservation planning practices",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use change analysis",
+      "label": "Land use change analysis",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 29
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "label": "Land use compatibility studies",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures",
+      "label": "Land use efficiency measures",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use governance structures",
+      "label": "Land use governance structures",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use legal frameworks",
+      "label": "Land use legal frameworks",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use mapping",
+      "label": "Land use mapping",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use monitoring",
+      "label": "Land use monitoring",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use permitting systems",
+      "label": "Land use permitting systems",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use plan implementation",
+      "label": "Land use plan implementation",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use policy development",
+      "label": "Land use policy development",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use sustainability assessments",
+      "label": "Land use sustainability assessments",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Participatory planning approaches",
+      "label": "Participatory planning approaches",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Rural development plans",
+      "label": "Rural development plans",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Spatial planning initiatives",
+      "label": "Spatial planning initiatives",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries",
+      "label": "Urban growth boundaries",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban planning policies",
+      "label": "Urban planning policies",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans",
+      "label": "Watershed management plans",
+      "topicId": "Topic:Environment|Life on land|Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "qnaCount": 1
+    }
+  ]
+}

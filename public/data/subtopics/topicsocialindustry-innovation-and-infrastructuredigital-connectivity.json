@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+    "label": "Digital connectivity",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping",
+      "label": "Connectivity mapping",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards",
+      "label": "Connectivity standards",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Digital divide reduction",
+      "label": "Digital divide reduction",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "label": "Smart city connectivity",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Full employment",
+    "label": "Full employment",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment growth",
+      "label": "Employment growth",
+      "topicId": "Topic:Social|Decent work and economic growth|Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate",
+      "label": "Employment rate",
+      "topicId": "Topic:Social|Decent work and economic growth|Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Job availability",
+      "label": "Job availability",
+      "topicId": "Topic:Social|Decent work and economic growth|Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation",
+      "label": "Job creation",
+      "topicId": "Topic:Social|Decent work and economic growth|Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Labor force participation",
+      "label": "Labor force participation",
+      "topicId": "Topic:Social|Decent work and economic growth|Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "qnaCount": 1
+    }
+  ]
+}

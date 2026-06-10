@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Carbon offset programs",
+    "label": "Carbon offset programs",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "label": "Afforestation and reforestation projects",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Aviation and carbon offset initiatives",
+      "label": "Aviation and carbon offset initiatives",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Blockchain technology in carbon markets",
+      "label": "Blockchain technology in carbon markets",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon capture and storage (ccs) for offsets",
+      "label": "Carbon capture and storage (ccs) for offsets",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms",
+      "label": "Carbon credit trading platforms",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offset projects in developing countries",
+      "label": "Carbon offset projects in developing countries",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "label": "Carbon offsets in sustainable agriculture",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "label": "Innovation in carbon offset methodologies",
+      "topicId": "Topic:Environment|Clean energy|Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "qnaCount": 5
+    }
+  ]
+}

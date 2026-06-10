@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+    "label": "Innovative sanitation solutions",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Biodegradable sanitation products",
+      "label": "Biodegradable sanitation products",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "label": "Bioremediation sanitation methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Faecal sludge management",
+      "label": "Faecal sludge management",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling",
+      "label": "Human waste recycling",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Smart toilet technology",
+      "label": "Smart toilet technology",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Solar-powered toilets",
+      "label": "Solar-powered toilets",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems",
+      "label": "Sustainable sanitation systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Vacuum sewer systems",
+      "label": "Vacuum sewer systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "qnaCount": 1
+    }
+  ]
+}

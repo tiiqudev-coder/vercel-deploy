@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Civic engagement",
+    "label": "Civic engagement",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback",
+      "label": "Citizen feedback",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Citizen science",
+      "label": "Citizen science",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Civic education",
+      "label": "Civic education",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Civic engagement apps",
+      "label": "Civic engagement apps",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "label": "Community social networks",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Crowdsourced urban planning",
+      "label": "Crowdsourced urban planning",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "label": "Engagement analytics",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "label": "Geospatial tools",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Interactive art installation",
+      "label": "Interactive art installation",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Iot feedback devices",
+      "label": "Iot feedback devices",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Online voting",
+      "label": "Online voting",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Participatory platforms",
+      "label": "Participatory platforms",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "label": "Public consultation",
+      "topicId": "Topic:Environment|Smart cities|Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "qnaCount": 2
+    }
+  ]
+}

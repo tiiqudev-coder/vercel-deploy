@@ -1,0 +1,221 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Environmental monitoring",
+    "label": "Environmental monitoring",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "label": "Biodiversity trackers",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "label": "Citizen environmental data collection",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "label": "Climate change monitor",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Coastal monitoring",
+      "label": "Coastal monitoring",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Deforestation monitors",
+      "label": "Deforestation monitors",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "label": "Enviro data analytics",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting",
+      "label": "Environmental concerns reporting",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools",
+      "label": "Environmental impact tools",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins",
+      "label": "Environmental twins",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Gis environment mapping",
+      "label": "Gis environment mapping",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "label": "Greenhouse gas track",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "label": "Noise trackers",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech",
+      "label": "Pest control tech",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors",
+      "label": "Radiation monitors",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "label": "Remote sensing",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart agri practices",
+      "label": "Smart agri practices",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "label": "Smart weather stations",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "label": "Soil health monitors",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers",
+      "label": "Urban heat trackers",
+      "topicId": "Topic:Environment|Smart cities|Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "qnaCount": 1
+    }
+  ]
+}

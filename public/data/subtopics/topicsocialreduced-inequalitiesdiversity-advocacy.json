@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Diversity advocacy",
+    "label": "Diversity advocacy",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Cultural appreciation",
+      "label": "Cultural appreciation",
+      "topicId": "Topic:Social|Reduced inequalities|Diversity advocacy",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Diversity advocacy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Inclusion initiatives",
+      "label": "Inclusion initiatives",
+      "topicId": "Topic:Social|Reduced inequalities|Diversity advocacy",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Diversity advocacy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Representation equality",
+      "label": "Representation equality",
+      "topicId": "Topic:Social|Reduced inequalities|Diversity advocacy",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Diversity advocacy",
+      "qnaCount": 1
+    }
+  ]
+}

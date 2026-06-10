@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+    "label": "Global financial support mechanisms",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Development funds",
+      "label": "Development funds",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global investments",
+      "label": "Global investments",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global monetary support",
+      "label": "Global monetary support",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global philanthropy",
+      "label": "Global philanthropy",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation",
+      "label": "Global resource allocation",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Green bonds",
+      "label": "Green bonds",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "qnaCount": 1
+    }
+  ]
+}

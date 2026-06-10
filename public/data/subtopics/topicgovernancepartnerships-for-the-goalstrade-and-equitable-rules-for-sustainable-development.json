@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+    "label": "Trade and equitable rules for sustainable development",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development|Equal market opportunities",
+      "label": "Equal market opportunities",
+      "topicId": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Trade and equitable rules for sustainable development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development|Ethical sourcing standards",
+      "label": "Ethical sourcing standards",
+      "topicId": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Trade and equitable rules for sustainable development",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development|Global tariff reduction",
+      "label": "Global tariff reduction",
+      "topicId": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Trade and equitable rules for sustainable development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development|International trade agreements",
+      "label": "International trade agreements",
+      "topicId": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Trade and equitable rules for sustainable development",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development|Sustainable export practices",
+      "label": "Sustainable export practices",
+      "topicId": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Trade and equitable rules for sustainable development",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development|Sustainable trade policies",
+      "label": "Sustainable trade policies",
+      "topicId": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Trade and equitable rules for sustainable development",
+      "qnaCount": 52
+    }
+  ]
+}

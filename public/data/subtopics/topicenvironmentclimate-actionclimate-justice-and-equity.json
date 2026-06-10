@@ -1,0 +1,298 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Climate justice and equity",
+    "label": "Climate justice and equity",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to clean energy for all",
+      "label": "Access to clean energy for all",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all",
+      "label": "Access to climate information for all",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health",
+      "label": "Addressing climate injustices in health",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in policymaking",
+      "label": "Addressing climate injustices in policymaking",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate education for vulnerable communities",
+      "label": "Climate education for vulnerable communities",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement",
+      "label": "Climate refugees and displacement",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Empowerment of vulnerable populations",
+      "label": "Empowerment of vulnerable populations",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental justice advocacy",
+      "label": "Environmental justice advocacy",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "label": "Environmental racism awareness",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations",
+      "label": "Equity in global climate negotiations",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)",
+      "label": "Equity in sustainable development goals (sdgs)",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Fair access to green jobs",
+      "label": "Fair access to green jobs",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts",
+      "label": "Fair distribution of climate impacts",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Gender equality in climate policies",
+      "label": "Gender equality in climate policies",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusion of marginalized communities",
+      "label": "Inclusion of marginalized communities",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes",
+      "label": "Inclusive decision-making processes",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Indigenous land rights protection",
+      "label": "Indigenous land rights protection",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Indigenous rights in climate action",
+      "label": "Indigenous rights in climate action",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Intersectionality in climate activism",
+      "label": "Intersectionality in climate activism",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Localized climate action initiatives",
+      "label": "Localized climate action initiatives",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge",
+      "label": "Participation of indigenous knowledge",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Recognition of climate debt",
+      "label": "Recognition of climate debt",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Recognition of cultural heritage in climate policies",
+      "label": "Recognition of cultural heritage in climate policies",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Recognition of historical emissions",
+      "label": "Recognition of historical emissions",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Recognition of indigenous stewardship",
+      "label": "Recognition of indigenous stewardship",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Reducing disparities in climate impact",
+      "label": "Reducing disparities in climate impact",
+      "topicId": "Topic:Environment|Climate action|Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "qnaCount": 4
+    }
+  ]
+}

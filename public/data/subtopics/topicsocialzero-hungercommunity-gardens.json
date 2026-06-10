@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Community gardens",
+    "label": "Community gardens",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Allotment gardening",
+      "label": "Allotment gardening",
+      "topicId": "Topic:Social|Zero hunger|Community gardens",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "label": "Rooftop gardens",
+      "topicId": "Topic:Social|Zero hunger|Community gardens",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "qnaCount": 3
+    }
+  ]
+}

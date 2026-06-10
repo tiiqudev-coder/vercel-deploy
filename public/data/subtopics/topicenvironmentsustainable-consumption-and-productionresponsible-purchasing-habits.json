@@ -1,0 +1,188 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+    "label": "Responsible purchasing habits",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Advocating for sustainable practices",
+      "label": "Advocating for sustainable practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Consumer advocacy engagement",
+      "label": "Consumer advocacy engagement",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Cruelty-free product preference",
+      "label": "Cruelty-free product preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Durability consideration",
+      "label": "Durability consideration",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Education on responsible consumption",
+      "label": "Education on responsible consumption",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Longevity assessment",
+      "label": "Longevity assessment",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Organic product preference",
+      "label": "Organic product preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Plastic-free product preference",
+      "label": "Plastic-free product preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Product labeling transparency",
+      "label": "Product labeling transparency",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Renewable resource preference",
+      "label": "Renewable resource preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Repairability consideration",
+      "label": "Repairability consideration",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Secondhand shopping preference",
+      "label": "Secondhand shopping preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 49
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Social impact evaluation",
+      "label": "Social impact evaluation",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Supporting diverse suppliers",
+      "label": "Supporting diverse suppliers",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Sustainable certification recognition",
+      "label": "Sustainable certification recognition",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Vegan product preference",
+      "label": "Vegan product preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "qnaCount": 1
+    }
+  ]
+}

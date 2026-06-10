@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Youth empowerment initiatives",
+    "label": "Youth empowerment initiatives",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement",
+      "label": "Youth engagement",
+      "topicId": "Topic:Social|Reduced inequalities|Youth empowerment initiatives",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Youth empowerment initiatives",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth participation",
+      "label": "Youth participation",
+      "topicId": "Topic:Social|Reduced inequalities|Youth empowerment initiatives",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Youth empowerment initiatives",
+      "qnaCount": 13
+    }
+  ]
+}

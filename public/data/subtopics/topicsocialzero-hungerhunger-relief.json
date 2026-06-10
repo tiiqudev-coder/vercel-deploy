@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Hunger relief",
+    "label": "Hunger relief",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Hunger relief|International food assistance efforts",
+      "label": "International food assistance efforts",
+      "topicId": "Topic:Social|Zero hunger|Hunger relief",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Hunger relief",
+      "qnaCount": 1
+    }
+  ]
+}

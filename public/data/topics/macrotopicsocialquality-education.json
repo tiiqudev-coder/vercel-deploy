@@ -1,0 +1,146 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Quality education",
+    "label": "Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Quality education|Access to learning",
+      "label": "Access to learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Curriculum diversity",
+      "label": "Curriculum diversity",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Digital literacy",
+      "label": "Digital literacy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Education for all",
+      "label": "Education for all",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Education policy",
+      "label": "Education policy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Equity in quality education",
+      "label": "Equity in quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Global citizenship",
+      "label": "Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Inclusive education",
+      "label": "Inclusive education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Lifelong learning",
+      "label": "Lifelong learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Literacy programs",
+      "label": "Literacy programs",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Quality education",
+      "label": "Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Remote learning",
+      "label": "Remote learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|School infrastructure",
+      "label": "School infrastructure",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Stem education",
+      "label": "Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Student well-being",
+      "label": "Student well-being",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Teacher training",
+      "label": "Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Vocational training",
+      "label": "Vocational training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    }
+  ]
+}

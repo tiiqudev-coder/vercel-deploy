@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+    "label": "Access to clean drinking water",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Policy initiatives",
+      "label": "Policy initiatives",
+      "topicId": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Access to clean drinking water",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Rainwater harvesting",
+      "label": "Rainwater harvesting",
+      "topicId": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Access to clean drinking water",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Water equity",
+      "label": "Water equity",
+      "topicId": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Access to clean drinking water",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Water quality monitoring",
+      "label": "Water quality monitoring",
+      "topicId": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Access to clean drinking water",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+    "label": "Closed-loop systems",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems",
+      "label": "Closed-loop design systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Composting systems",
+      "label": "Composting systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Material exchange platforms",
+      "label": "Material exchange platforms",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Product repair and maintenance",
+      "label": "Product repair and maintenance",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Product take-back programs",
+      "label": "Product take-back programs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Resource sharing networks",
+      "label": "Resource sharing networks",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Reuse and redistribution networks",
+      "label": "Reuse and redistribution networks",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Waste minimization strategies",
+      "label": "Waste minimization strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "qnaCount": 4
+    }
+  ]
+}

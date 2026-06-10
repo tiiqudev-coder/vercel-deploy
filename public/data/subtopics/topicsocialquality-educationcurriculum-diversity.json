@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Curriculum diversity",
+    "label": "Curriculum diversity",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning",
+      "label": "Cross-cultural learning",
+      "topicId": "Topic:Social|Quality education|Curriculum diversity",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "label": "Diverse perspectives",
+      "topicId": "Topic:Social|Quality education|Curriculum diversity",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge",
+      "label": "Indigenous knowledge",
+      "topicId": "Topic:Social|Quality education|Curriculum diversity",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "qnaCount": 4
+    }
+  ]
+}

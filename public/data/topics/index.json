@@ -1,0 +1,2366 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-05-24T19:35:39.423Z",
+  "topics": [
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+      "label": "Access to clean drinking water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Afforestation programs",
+      "label": "Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Air quality monitoring",
+      "label": "Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Aquaculture practices",
+      "label": "Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Biodiversity conservation",
+      "label": "Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Biomass energy",
+      "label": "Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Blue economy",
+      "label": "Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Carbon capture and storage",
+      "label": "Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "label": "Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Carbon offset programs",
+      "label": "Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Circular economy energy",
+      "label": "Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Circular economy initiatives",
+      "label": "Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "label": "Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Civic engagement",
+      "label": "Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Clean energy integration",
+      "label": "Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Clean energy skills",
+      "label": "Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate action for resilience",
+      "label": "Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Climate adaptation",
+      "label": "Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "label": "Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "label": "Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate justice and equity",
+      "label": "Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Climate resilience",
+      "label": "Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate resilience",
+      "label": "Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Closed-loop systems",
+      "label": "Closed-loop systems",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coastal management",
+      "label": "Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coastal restoration",
+      "label": "Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coastal tourism",
+      "label": "Coastal tourism",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Community conservation",
+      "label": "Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Community solar projects",
+      "label": "Community solar projects",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Community water management",
+      "label": "Community water management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Conservation farming",
+      "label": "Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coral reef protection",
+      "label": "Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "label": "Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Deforestation prevention",
+      "label": "Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Desertification mitigation",
+      "label": "Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Digital governance",
+      "label": "Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Distributed energy resources",
+      "label": "Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "label": "Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|E-government spaces",
+      "label": "E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "label": "Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "label": "Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Eco-friendly packaging",
+      "label": "Eco-friendly packaging",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Ecological restoration",
+      "label": "Ecological restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Emergency water supply and response",
+      "label": "Emergency water supply and response",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy efficient lighting",
+      "label": "Energy efficient lighting",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "label": "Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "label": "Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Energy management",
+      "label": "Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy management systems",
+      "label": "Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy storage technologies",
+      "label": "Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Energy transition",
+      "label": "Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "label": "Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "label": "Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Environmental monitoring",
+      "label": "Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Ethical labor practices",
+      "label": "Ethical labor practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Ethical sourcing standards",
+      "label": "Ethical sourcing standards",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Extreme weather events",
+      "label": "Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Fair trade principles",
+      "label": "Fair trade principles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "label": "Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Forest protection",
+      "label": "Forest protection",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Geothermal energy",
+      "label": "Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Green buildings",
+      "label": "Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "label": "Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Green product design",
+      "label": "Green product design",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "label": "Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Habitat restoration",
+      "label": "Habitat restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Household water filtration systems",
+      "label": "Household water filtration systems",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Hydropower plants",
+      "label": "Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "label": "Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Indigenous land rights",
+      "label": "Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "label": "Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "label": "Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "label": "Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Climate action|International climate agreements",
+      "label": "International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|IoT in cities",
+      "label": "IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Life below water|IUU fishing control",
+      "label": "IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Land degradation control",
+      "label": "Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "label": "Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Land use planning",
+      "label": "Land use planning",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Marine biodiversity",
+      "label": "Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Marine pollution",
+      "label": "Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "label": "Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Microgrids",
+      "label": "Microgrids",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Minimalist lifestyles",
+      "label": "Minimalist lifestyles",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Ocean acidification",
+      "label": "Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Ocean acidification",
+      "label": "Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Ocean governance",
+      "label": "Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Ocean research",
+      "label": "Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "label": "Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Overfishing control",
+      "label": "Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Plastic waste reduction",
+      "label": "Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Product life-cycle analysis",
+      "label": "Product life-cycle analysis",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "label": "Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Protected areas",
+      "label": "Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Protected areas management",
+      "label": "Protected areas management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "label": "Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Public safety",
+      "label": "Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Reforestation initiatives",
+      "label": "Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "label": "Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Renewable energy certification",
+      "label": "Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "label": "Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Responsible purchasing habits",
+      "label": "Responsible purchasing habits",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Rural water supply systems",
+      "label": "Rural water supply systems",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "label": "Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Sea level rise",
+      "label": "Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Seafood promotion",
+      "label": "Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart buildings",
+      "label": "Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Smart grid technologies",
+      "label": "Smart grid technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart grids",
+      "label": "Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart parking solutions",
+      "label": "Smart parking solutions",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart street lighting",
+      "label": "Smart street lighting",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Soil health management",
+      "label": "Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "label": "Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Species conservation",
+      "label": "Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "label": "Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Sustainable agriculture",
+      "label": "Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "label": "Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "label": "Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Sustainable fisheries",
+      "label": "Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "label": "Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "label": "Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Sustainable transportation",
+      "label": "Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "label": "Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Tidal and wave energy",
+      "label": "Tidal and wave energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "label": "Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban green spaces",
+      "label": "Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban mobility",
+      "label": "Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban planning analytics",
+      "label": "Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "label": "Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "label": "Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Waste management",
+      "label": "Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Waste reduction strategies",
+      "label": "Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "label": "Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "label": "Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Water management",
+      "label": "Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "label": "Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "label": "Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "label": "Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "label": "Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Wildlife conservation",
+      "label": "Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "label": "Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "label": "Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Wind farms",
+      "label": "Wind farms",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Wind turbines",
+      "label": "Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "label": "Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Access to justice",
+      "label": "Access to justice",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+      "label": "Accountability systems",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+      "label": "Anti-corruption measures",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Civil society engagement",
+      "label": "Civil society engagement",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Conflict prevention",
+      "label": "Conflict prevention",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+      "label": "Conflict resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Democratic practices",
+      "label": "Democratic practices",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Dispute resolution",
+      "label": "Dispute resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Equality before law",
+      "label": "Equality before law",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global access to internet-based information",
+      "label": "Global access to internet-based information",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global financial governance",
+      "label": "Global financial governance",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global financial support mechanisms",
+      "label": "Global financial support mechanisms",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global health partnerships",
+      "label": "Global health partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "label": "Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "label": "Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Human rights",
+      "label": "Human rights",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Institutional strengthening",
+      "label": "Institutional strengthening",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Judicial independence",
+      "label": "Judicial independence",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Peacebuilding efforts",
+      "label": "Peacebuilding efforts",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Reconciliation processes",
+      "label": "Reconciliation processes",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Social cohesion",
+      "label": "Social cohesion",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "label": "Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Partnerships for the goals|Trade and equitable rules for sustainable development",
+      "label": "Trade and equitable rules for sustainable development",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals"
+    },
+    {
+      "id": "Topic:Governance|Peace, justice and strong institutions|Transparent institutions",
+      "label": "Transparent institutions",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions"
+    },
+    {
+      "id": "Topic:Social|No poverty|Access to education",
+      "label": "Access to education",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|No poverty|Access to healthcare",
+      "label": "Access to healthcare",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Quality education|Access to learning",
+      "label": "Access to learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|No poverty|Affordable housing",
+      "label": "Affordable housing",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Agricultural productivity",
+      "label": "Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Anti-discrimination",
+      "label": "Anti-discrimination",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|No poverty|Basic needs",
+      "label": "Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Child and adolescent health",
+      "label": "Child and adolescent health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Child marriage",
+      "label": "Child marriage",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "label": "Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "label": "Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Community gardens",
+      "label": "Community gardens",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Cultural integration",
+      "label": "Cultural integration",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Cultural norms",
+      "label": "Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Quality education|Curriculum diversity",
+      "label": "Curriculum diversity",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Decent work",
+      "label": "Decent work",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Digital connectivity",
+      "label": "Digital connectivity",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Digital health and telemedicine",
+      "label": "Digital health and telemedicine",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Quality education|Digital literacy",
+      "label": "Digital literacy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Diversity advocacy",
+      "label": "Diversity advocacy",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|No poverty|Economic empowerment",
+      "label": "Economic empowerment",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Economic growth",
+      "label": "Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Economic justice",
+      "label": "Economic justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Economic stability",
+      "label": "Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Quality education|Education for all",
+      "label": "Education for all",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Education policy",
+      "label": "Education policy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Educational equity",
+      "label": "Educational equity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "label": "Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Employment stability",
+      "label": "Employment stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Entrepreneurship",
+      "label": "Entrepreneurship",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "label": "Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Equal access to opportunities",
+      "label": "Equal access to opportunities",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Equal economic opportunities",
+      "label": "Equal economic opportunities",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Equal health services",
+      "label": "Equal health services",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Equal opportunities",
+      "label": "Equal opportunities",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Quality education|Equity in quality education",
+      "label": "Equity in quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Fair representation",
+      "label": "Fair representation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Fair wages",
+      "label": "Fair wages",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Family planning",
+      "label": "Family planning",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Female leadership roles",
+      "label": "Female leadership roles",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Female media representation",
+      "label": "Female media representation",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Female political representation",
+      "label": "Female political representation",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|No poverty|Finance accessibility",
+      "label": "Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Financial inclusion",
+      "label": "Financial inclusion",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|No poverty|Food accessibility",
+      "label": "Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food distribution",
+      "label": "Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food justice",
+      "label": "Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food security",
+      "label": "Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food systems",
+      "label": "Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Full employment",
+      "label": "Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Gender equality",
+      "label": "Gender equality",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Gender identity",
+      "label": "Gender identity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Gender-based violence",
+      "label": "Gender-based violence",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Quality education|Global citizenship",
+      "label": "Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Global health collaboration",
+      "label": "Global health collaboration",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Global health security",
+      "label": "Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "label": "Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "label": "Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Health literacy and education",
+      "label": "Health literacy and education",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Health policy and systems",
+      "label": "Health policy and systems",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Health research and innovation",
+      "label": "Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|No poverty|Humanitarian aid",
+      "label": "Humanitarian aid",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Hunger relief",
+      "label": "Hunger relief",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Quality education|Inclusive education",
+      "label": "Inclusive education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "label": "Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "label": "Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Inclusive tech growth",
+      "label": "Inclusive tech growth",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|No poverty|Income inequality",
+      "label": "Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+      "label": "Industrial safety standards",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "label": "Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+      "label": "Infrastructure financing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "label": "Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Job security",
+      "label": "Job security",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Labor rights",
+      "label": "Labor rights",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Quality education|Lifelong learning",
+      "label": "Lifelong learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Literacy programs",
+      "label": "Literacy programs",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|No poverty|Livelihood opportunities",
+      "label": "Livelihood opportunities",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Mental health and wellbeing",
+      "label": "Mental health and wellbeing",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|No poverty|Microfinance",
+      "label": "Microfinance",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Micronutrient intake",
+      "label": "Micronutrient intake",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Non-communicable diseases (NCDs)",
+      "label": "Non-communicable diseases (NCDs)",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "label": "Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Physical activity and fitness",
+      "label": "Physical activity and fitness",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|No poverty|Poverty alleviation",
+      "label": "Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Poverty alleviation",
+      "label": "Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|No poverty|Poverty eradication programs",
+      "label": "Poverty eradication programs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Public-private synergy",
+      "label": "Public-private synergy",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Quality education|Quality education",
+      "label": "Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Quality jobs",
+      "label": "Quality jobs",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Quality education|Remote learning",
+      "label": "Remote learning",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Reproductive rights",
+      "label": "Reproductive rights",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "label": "Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Resilient farming",
+      "label": "Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "label": "Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|No poverty|Rural development",
+      "label": "Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Rural livelihoods",
+      "label": "Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Safe working conditions",
+      "label": "Safe working conditions",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Quality education|School infrastructure",
+      "label": "School infrastructure",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Seed sovereignty",
+      "label": "Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Sexual and reproductive health",
+      "label": "Sexual and reproductive health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "label": "SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Social determinants of health",
+      "label": "Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Social justice",
+      "label": "Social justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Social protection",
+      "label": "Social protection",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Social stereotypes",
+      "label": "Social stereotypes",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "label": "Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Quality education|Stem education",
+      "label": "Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Quality education|Student well-being",
+      "label": "Student well-being",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Substance abuse and addiction",
+      "label": "Substance abuse and addiction",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Sustainable diets",
+      "label": "Sustainable diets",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "label": "Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Sustainable fishing",
+      "label": "Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Sustainable industry",
+      "label": "Sustainable industry",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Quality education|Teacher training",
+      "label": "Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "label": "Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Good health and well-being|Universal health coverage",
+      "label": "Universal health coverage",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being"
+    },
+    {
+      "id": "Topic:Social|No poverty|Urban poverty",
+      "label": "Urban poverty",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty"
+    },
+    {
+      "id": "Topic:Social|Quality education|Vocational training",
+      "label": "Vocational training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Waste reduction",
+      "label": "Waste reduction",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "label": "Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "label": "Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Wealth redistribution",
+      "label": "Wealth redistribution",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Women in stem",
+      "label": "Women in stem",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Workforce equity",
+      "label": "Workforce equity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Youth empowerment initiatives",
+      "label": "Youth empowerment initiatives",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Unmapped Macrotopic|Unknown Macrotopic|Unknown Topic",
+      "label": "Unknown Topic",
+      "macrotopicId": "Macrotopic:Unmapped Macrotopic|Unknown Macrotopic",
+      "macroareaId": "MacroArea:Unmapped Macrotopic",
+      "macroArea": "Unmapped Macrotopic",
+      "macrotopic": "Unknown Macrotopic"
+    }
+  ]
+}

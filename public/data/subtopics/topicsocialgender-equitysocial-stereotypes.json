@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Social stereotypes",
+    "label": "Social stereotypes",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Social stereotypes|Cultural stereotypes",
+      "label": "Cultural stereotypes",
+      "topicId": "Topic:Social|Gender equity|Social stereotypes",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Social stereotypes",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Social stereotypes|Economic stereotypes",
+      "label": "Economic stereotypes",
+      "topicId": "Topic:Social|Gender equity|Social stereotypes",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Social stereotypes",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Social stereotypes|Intelligence stereotypes",
+      "label": "Intelligence stereotypes",
+      "topicId": "Topic:Social|Gender equity|Social stereotypes",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Social stereotypes",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Social stereotypes|Societal expectations and stereotypes",
+      "label": "Societal expectations and stereotypes",
+      "topicId": "Topic:Social|Gender equity|Social stereotypes",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Social stereotypes",
+      "qnaCount": 8
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Global health security",
+    "label": "Global health security",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Antimicrobial resistance",
+      "label": "Antimicrobial resistance",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Climate change and health",
+      "label": "Climate change and health",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Digital health technologies",
+      "label": "Digital health technologies",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Food safety and security",
+      "label": "Food safety and security",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Global disease outbreaks",
+      "label": "Global disease outbreaks",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health emergency response",
+      "label": "Health emergency response",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health financing for security",
+      "label": "Health financing for security",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health information sharing",
+      "label": "Health information sharing",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems",
+      "label": "Health surveillance systems",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|International health regulations",
+      "label": "International health regulations",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Zoonotic diseases",
+      "label": "Zoonotic diseases",
+      "topicId": "Topic:Social|Good health and well-being|Global health security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "qnaCount": 13
+    }
+  ]
+}

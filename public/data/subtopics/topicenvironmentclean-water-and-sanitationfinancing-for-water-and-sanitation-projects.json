@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+    "label": "Financing for water and sanitation projects",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Catastrophe bonds for water projects",
+      "label": "Catastrophe bonds for water projects",
+      "topicId": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Government budget allocation",
+      "label": "Government budget allocation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Project funding sources",
+      "label": "Project funding sources",
+      "topicId": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Public works funding",
+      "label": "Public works funding",
+      "topicId": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Social impact bonds",
+      "label": "Social impact bonds",
+      "topicId": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Subsidies for sanitation",
+      "label": "Subsidies for sanitation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "qnaCount": 1
+    }
+  ]
+}

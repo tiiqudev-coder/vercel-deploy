@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+    "label": "Sustainable supply chains",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Carbon-neutral shipping",
+      "label": "Carbon-neutral shipping",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Certification programs for suppliers",
+      "label": "Certification programs for suppliers",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Collaboration with ngos",
+      "label": "Collaboration with ngos",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Environmental impact assessments",
+      "label": "Environmental impact assessments",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Ethical sourcing practices",
+      "label": "Ethical sourcing practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions",
+      "label": "Green logistics solutions",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Local sourcing strategies",
+      "label": "Local sourcing strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Responsible sourcing audits",
+      "label": "Responsible sourcing audits",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supplier capacity building",
+      "label": "Supplier capacity building",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supplier sustainability assessments",
+      "label": "Supplier sustainability assessments",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supplier transparency initiatives",
+      "label": "Supplier transparency initiatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain collaboration",
+      "label": "Supply chain collaboration",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience",
+      "label": "Supply chain resilience",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain risk management",
+      "label": "Supply chain risk management",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain traceability",
+      "label": "Supply chain traceability",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 58
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships",
+      "label": "Sustainable agriculture partnerships",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable materials sourcing",
+      "label": "Sustainable materials sourcing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives",
+      "label": "Sustainable packaging alternatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable procurement policies",
+      "label": "Sustainable procurement policies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics",
+      "label": "Waste reduction in logistics",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable supply chains",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "qnaCount": 2
+    }
+  ]
+}

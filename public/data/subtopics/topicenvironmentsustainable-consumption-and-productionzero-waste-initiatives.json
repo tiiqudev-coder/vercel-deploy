@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+    "label": "Zero-waste initiatives",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options",
+      "label": "Bulk shopping options",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Circular economy adoption",
+      "label": "Circular economy adoption",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 60
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Closed-loop systems",
+      "label": "Closed-loop systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives",
+      "label": "Eco-friendly alternatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Municipal zero-waste goals",
+      "label": "Municipal zero-waste goals",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Repair cafes",
+      "label": "Repair cafes",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Swap and share programs",
+      "label": "Swap and share programs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Zero-waste initiatives",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "qnaCount": 6
+    }
+  ]
+}

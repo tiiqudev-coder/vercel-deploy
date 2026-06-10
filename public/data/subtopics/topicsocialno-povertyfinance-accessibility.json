@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Finance accessibility",
+    "label": "Finance accessibility",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "label": "Credit accessibility",
+      "topicId": "Topic:Social|No poverty|Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Digital payments",
+      "label": "Digital payments",
+      "topicId": "Topic:Social|No poverty|Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial literacy",
+      "label": "Financial literacy",
+      "topicId": "Topic:Social|No poverty|Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)",
+      "label": "Financial technology (fintech)",
+      "topicId": "Topic:Social|No poverty|Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Government subsidies",
+      "label": "Government subsidies",
+      "topicId": "Topic:Social|No poverty|Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Peer-to-peer lending",
+      "label": "Peer-to-peer lending",
+      "topicId": "Topic:Social|No poverty|Finance accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "qnaCount": 1
+    }
+  ]
+}

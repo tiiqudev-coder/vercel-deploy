@@ -1,0 +1,14 @@
+{
+  "macroarea": {
+    "id": "MacroArea:Unmapped Macrotopic",
+    "label": "Unmapped Macrotopic"
+  },
+  "macrotopics": [
+    {
+      "id": "Macrotopic:Unmapped Macrotopic|Unknown Macrotopic",
+      "label": "Unknown Macrotopic",
+      "macroareaId": "MacroArea:Unmapped Macrotopic",
+      "macroArea": "Unmapped Macrotopic"
+    }
+  ]
+}

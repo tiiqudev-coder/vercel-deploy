@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Energy management",
+    "label": "Energy management",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Cognitive buildings for energy optimization",
+      "label": "Cognitive buildings for energy optimization",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Energy conservation policies and initiatives",
+      "label": "Energy conservation policies and initiatives",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Energy consumption monitoring",
+      "label": "Energy consumption monitoring",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "label": "Predictive energy modeling",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Smart metering for energy efficiency",
+      "label": "Smart metering for energy efficiency",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy",
+      "label": "Sustainable urban planning for energy",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "label": "Virtual power plants (vpps)",
+      "topicId": "Topic:Environment|Smart cities|Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "qnaCount": 2
+    }
+  ]
+}

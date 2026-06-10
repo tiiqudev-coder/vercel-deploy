@@ -1,0 +1,320 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|International climate agreements",
+    "label": "International climate agreements",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals",
+      "label": "Adaptation and resilience goals",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements",
+      "label": "Bilateral climate agreements",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Carbon market mechanisms",
+      "label": "Carbon market mechanisms",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate action in international development",
+      "label": "Climate action in international development",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate agreements and global security",
+      "label": "Climate agreements and global security",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate agreements and sustainable development goals (sdgs)",
+      "label": "Climate agreements and sustainable development goals (sdgs)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies",
+      "label": "Climate diplomacy and negotiation strategies",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate finance commitments",
+      "label": "Climate finance commitments",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate justice in international agreements",
+      "label": "Climate justice in international agreements",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Cross-border climate migration policies",
+      "label": "Cross-border climate migration policies",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global carbon budget allocations",
+      "label": "Global carbon budget allocations",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 65
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation",
+      "label": "Global climate funds allocation",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "label": "Global climate governance",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global greenhouse gas emission targets",
+      "label": "Global greenhouse gas emission targets",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 27
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Indigenous rights and inclusion in global agreements",
+      "label": "Indigenous rights and inclusion in global agreements",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Intergovernmental panel on climate change (ipcc)",
+      "label": "Intergovernmental panel on climate change (ipcc)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|International collaboration on climate research",
+      "label": "International collaboration on climate research",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Loss and damage mechanism",
+      "label": "Loss and damage mechanism",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)",
+      "label": "Monitoring, reporting, and verification (mrv)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Multilateral environmental agreements",
+      "label": "Multilateral environmental agreements",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Nationally determined contributions (ndcs)",
+      "label": "Nationally determined contributions (ndcs)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 31
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Paris agreement implementation",
+      "label": "Paris agreement implementation",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Regional climate agreements",
+      "label": "Regional climate agreements",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Role of non-governmental organizations (ngos)",
+      "label": "Role of non-governmental organizations (ngos)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action",
+      "label": "Technology transfer for climate action",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts",
+      "label": "Transboundary climate impacts",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|United nations climate change conferences (cops)",
+      "label": "United nations climate change conferences (cops)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|United nations framework convention on climate change (unfccc)",
+      "label": "United nations framework convention on climate change (unfccc)",
+      "topicId": "Topic:Environment|Climate action|International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "qnaCount": 6
+    }
+  ]
+}

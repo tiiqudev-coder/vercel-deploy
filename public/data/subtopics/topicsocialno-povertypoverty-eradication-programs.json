@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Poverty eradication programs",
+    "label": "Poverty eradication programs",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Agricultural productivity enhancement",
+      "label": "Agricultural productivity enhancement",
+      "topicId": "Topic:Social|No poverty|Poverty eradication programs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "label": "Financial inclusion efforts",
+      "topicId": "Topic:Social|No poverty|Poverty eradication programs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Infrastructure development projects",
+      "label": "Infrastructure development projects",
+      "topicId": "Topic:Social|No poverty|Poverty eradication programs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "qnaCount": 1
+    }
+  ]
+}

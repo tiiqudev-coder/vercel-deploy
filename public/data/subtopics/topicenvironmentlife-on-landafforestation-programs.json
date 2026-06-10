@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Afforestation programs",
+    "label": "Afforestation programs",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment",
+      "label": "Afforestation impact assessment",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy",
+      "label": "Afforestation policy advocacy",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Agroforestry development",
+      "label": "Agroforestry development",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Carbon sequestration planting",
+      "label": "Carbon sequestration planting",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Climate-resilient afforestation",
+      "label": "Climate-resilient afforestation",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Community-based afforestation",
+      "label": "Community-based afforestation",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Greening programs",
+      "label": "Greening programs",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Participatory reforestation",
+      "label": "Participatory reforestation",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns",
+      "label": "Reforestation campaigns",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "label": "Reforestation monitoring",
+      "topicId": "Topic:Environment|Life on land|Afforestation programs",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "qnaCount": 5
+    }
+  ]
+}

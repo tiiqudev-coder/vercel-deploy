@@ -1,0 +1,188 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Community conservation",
+    "label": "Community conservation",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "label": "Citizen science conservation",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Collaborative conservation projects",
+      "label": "Collaborative conservation projects",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community conservation networks",
+      "label": "Community conservation networks",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "label": "Community wildlife monitoring",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community-based wildlife protection",
+      "label": "Community-based wildlife protection",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation awareness programs",
+      "label": "Conservation awareness programs",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns",
+      "label": "Conservation education campaigns",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training",
+      "label": "Conservation leadership training",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups",
+      "label": "Conservation volunteer groups",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Eco-village conservation models",
+      "label": "Eco-village conservation models",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions",
+      "label": "Grassroots conservation actions",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Indigenous conservation practices",
+      "label": "Indigenous conservation practices",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Indigenous knowledge conservation",
+      "label": "Indigenous knowledge conservation",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation",
+      "label": "Participatory conservation",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation",
+      "label": "Socially inclusive conservation",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Traditional conservation methods",
+      "label": "Traditional conservation methods",
+      "topicId": "Topic:Environment|Life on land|Community conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "qnaCount": 2
+    }
+  ]
+}

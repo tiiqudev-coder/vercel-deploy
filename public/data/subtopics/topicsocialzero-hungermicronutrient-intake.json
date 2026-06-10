@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Micronutrient intake",
+    "label": "Micronutrient intake",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products",
+      "label": "Fortified food products",
+      "topicId": "Topic:Social|Zero hunger|Micronutrient intake",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Iodized salt distribution",
+      "label": "Iodized salt distribution",
+      "topicId": "Topic:Social|Zero hunger|Micronutrient intake",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation",
+      "label": "Micronutrient monitoring and evaluation",
+      "topicId": "Topic:Social|Zero hunger|Micronutrient intake",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Targeted interventions for vulnerable groups",
+      "label": "Targeted interventions for vulnerable groups",
+      "topicId": "Topic:Social|Zero hunger|Micronutrient intake",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "qnaCount": 1
+    }
+  ]
+}

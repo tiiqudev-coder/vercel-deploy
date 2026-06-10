@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Climate adaptation",
+    "label": "Climate adaptation",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Adaptation education and training",
+      "label": "Adaptation education and training",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Adaptation strategies",
+      "label": "Adaptation strategies",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "label": "Climate change mitigation",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "label": "Climate-adaptive farming",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture",
+      "label": "Climate-resilient agriculture",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries",
+      "label": "Climate-resilient fisheries",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient habitats",
+      "label": "Climate-resilient habitats",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient land use",
+      "label": "Climate-resilient land use",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient policies",
+      "label": "Climate-resilient policies",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation",
+      "label": "Coastal zone adaptation",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Ecosystem adaptation",
+      "label": "Ecosystem adaptation",
+      "topicId": "Topic:Environment|Life below water|Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "qnaCount": 16
+    }
+  ]
+}

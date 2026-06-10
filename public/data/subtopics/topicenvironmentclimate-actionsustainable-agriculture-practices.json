@@ -1,0 +1,221 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Sustainable agriculture practices",
+    "label": "Sustainable agriculture practices",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Adoption of climate-resilient seeds",
+      "label": "Adoption of climate-resilient seeds",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Agricultural resilience planning",
+      "label": "Agricultural resilience planning",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Biodiverse agroecosystems",
+      "label": "Biodiverse agroecosystems",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices",
+      "label": "Carbon farming practices",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture",
+      "label": "Carbon trading for agriculture",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "label": "Climate-smart crop selection",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Community-supported agriculture (csa)",
+      "label": "Community-supported agriculture (csa)",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques",
+      "label": "Conservation tillage techniques",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation",
+      "label": "Cover cropping and crop rotation",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Drought-resistant crop varieties",
+      "label": "Drought-resistant crop varieties",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application",
+      "label": "Eco-friendly fertilizer application",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)",
+      "label": "Integrated pest management (ipm)",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "label": "No-till farming systems",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Precision livestock farming",
+      "label": "Precision livestock farming",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Remote sensing in precision agriculture",
+      "label": "Remote sensing in precision agriculture",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "label": "Soil health monitoring and management",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems",
+      "label": "Sustainable food distribution systems",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable livestock farming",
+      "label": "Sustainable livestock farming",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 28
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable water management in agriculture",
+      "label": "Sustainable water management in agriculture",
+      "topicId": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "qnaCount": 1
+    }
+  ]
+}

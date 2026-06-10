@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Food systems",
+    "label": "Food systems",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture",
+      "label": "Access to clean water for agriculture",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods",
+      "label": "Agroecological farming methods",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Climate-resilient crops and livestock",
+      "label": "Climate-resilient crops and livestock",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Food labeling and certification",
+      "label": "Food labeling and certification",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Food loss and waste reduction",
+      "label": "Food loss and waste reduction",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Local food production initiatives",
+      "label": "Local food production initiatives",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "label": "Nutrition-sensitive food production",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Urban agriculture projects",
+      "label": "Urban agriculture projects",
+      "topicId": "Topic:Social|Zero hunger|Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "qnaCount": 6
+    }
+  ]
+}

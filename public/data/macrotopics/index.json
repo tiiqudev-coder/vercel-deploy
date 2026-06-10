@@ -1,0 +1,114 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-05-24T19:35:38.893Z",
+  "macrotopics": [
+    {
+      "id": "Macrotopic:Environment|Clean energy",
+      "label": "Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Clean water and sanitation",
+      "label": "Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Climate action",
+      "label": "Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Life below water",
+      "label": "Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Life on land",
+      "label": "Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Smart cities",
+      "label": "Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Sustainable consumption and production",
+      "label": "Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Governance|Partnerships for the goals",
+      "label": "Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance"
+    },
+    {
+      "id": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "label": "Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance"
+    },
+    {
+      "id": "Macrotopic:Social|Decent work and economic growth",
+      "label": "Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Gender equity",
+      "label": "Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Good health and well-being",
+      "label": "Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "label": "Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|No poverty",
+      "label": "No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Quality education",
+      "label": "Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Reduced inequalities",
+      "label": "Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Zero hunger",
+      "label": "Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Unmapped Macrotopic|Unknown Macrotopic",
+      "label": "Unknown Macrotopic",
+      "macroareaId": "MacroArea:Unmapped Macrotopic",
+      "macroArea": "Unmapped Macrotopic"
+    }
+  ]
+}

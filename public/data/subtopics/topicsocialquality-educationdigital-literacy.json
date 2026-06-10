@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Digital literacy",
+    "label": "Digital literacy",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Data privacy education",
+      "label": "Data privacy education",
+      "topicId": "Topic:Social|Quality education|Digital literacy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility",
+      "label": "Digital accessibility",
+      "topicId": "Topic:Social|Quality education|Digital literacy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Online research skills",
+      "label": "Online research skills",
+      "topicId": "Topic:Social|Quality education|Digital literacy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "qnaCount": 4
+    }
+  ]
+}

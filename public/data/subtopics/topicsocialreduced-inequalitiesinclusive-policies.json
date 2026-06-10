@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Inclusive policies",
+    "label": "Inclusive policies",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration",
+      "label": "Diversity integration",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Equal policy impact",
+      "label": "Equal policy impact",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making",
+      "label": "Inclusive decision-making",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive governance",
+      "label": "Inclusive governance",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy accessibility",
+      "label": "Policy accessibility",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy equity",
+      "label": "Policy equity",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness",
+      "label": "Policy fairness",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy participation",
+      "label": "Policy participation",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Representative policies",
+      "label": "Representative policies",
+      "topicId": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "qnaCount": 1
+    }
+  ]
+}

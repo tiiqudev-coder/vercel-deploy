@@ -1,0 +1,188 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+    "label": "Sustainable agricultural practices",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroecological farming practices",
+      "label": "Agroecological farming practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems",
+      "label": "Agroforestry systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods",
+      "label": "Companion planting methods",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition",
+      "label": "Composting and organic matter addition",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop diversification",
+      "label": "Crop diversification",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques",
+      "label": "Crop rotation techniques",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-led research and innovation",
+      "label": "Farmer-led research and innovation",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing",
+      "label": "Farmer-to-farmer knowledge sharing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Food waste reduction",
+      "label": "Food waste reduction",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Livestock rotation and grazing management",
+      "label": "Livestock rotation and grazing management",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches",
+      "label": "Polyculture farming approaches",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Reduced chemical inputs",
+      "label": "Reduced chemical inputs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Regenerative agriculture techniques",
+      "label": "Regenerative agriculture techniques",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Silvopasture systems",
+      "label": "Silvopasture systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Soil health management",
+      "label": "Soil health management",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use",
+      "label": "Sustainable fertilizer use",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Sustainable agricultural practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "qnaCount": 4
+    }
+  ]
+}

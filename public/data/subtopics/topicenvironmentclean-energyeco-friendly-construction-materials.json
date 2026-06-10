@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+    "label": "Eco-friendly construction materials",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|3d printing with recycled materials",
+      "label": "3d printing with recycled materials",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Aerogel insulation for energy efficiency",
+      "label": "Aerogel insulation for energy efficiency",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material",
+      "label": "Bamboo as a sustainable building material",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Biodegradable and recyclable insulation",
+      "label": "Biodegradable and recyclable insulation",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Eco-friendly composite materials",
+      "label": "Eco-friendly composite materials",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials",
+      "label": "Energy-efficient insulation materials",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Hempcrete for sustainable construction",
+      "label": "Hempcrete for sustainable construction",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete",
+      "label": "Recycled concrete",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum",
+      "label": "Recycled steel and aluminum",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Sustainable flooring options",
+      "label": "Sustainable flooring options",
+      "topicId": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "qnaCount": 1
+    }
+  ]
+}

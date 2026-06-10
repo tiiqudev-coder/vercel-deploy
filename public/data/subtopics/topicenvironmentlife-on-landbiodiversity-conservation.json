@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Biodiversity conservation",
+    "label": "Biodiversity conservation",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity assessment",
+      "label": "Biodiversity assessment",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 35
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity education",
+      "label": "Biodiversity education",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity monitoring",
+      "label": "Biodiversity monitoring",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity research",
+      "label": "Biodiversity research",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "label": "Biodiversity stewardship",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity surveys",
+      "label": "Biodiversity surveys",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation education",
+      "label": "Conservation education",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation",
+      "label": "Conservation legislation",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy",
+      "label": "Conservation policy",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Ecosystem protection",
+      "label": "Ecosystem protection",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "label": "Endangered species",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Genetic diversity",
+      "label": "Genetic diversity",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "label": "Habitat connectivity",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control",
+      "label": "Invasive species control",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "label": "Protected habitats",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors",
+      "label": "Wildlife corridors",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management",
+      "label": "Wildlife management",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "label": "Wildlife monitoring",
+      "topicId": "Topic:Environment|Life on land|Biodiversity conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "qnaCount": 15
+    }
+  ]
+}

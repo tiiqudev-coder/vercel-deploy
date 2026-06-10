@@ -1,0 +1,130 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Zero hunger",
+    "label": "Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Zero hunger|Agricultural productivity",
+      "label": "Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "label": "Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Community gardens",
+      "label": "Community gardens",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food distribution",
+      "label": "Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food justice",
+      "label": "Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food security",
+      "label": "Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Food systems",
+      "label": "Food systems",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Hunger relief",
+      "label": "Hunger relief",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Micronutrient intake",
+      "label": "Micronutrient intake",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Resilient farming",
+      "label": "Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Rural livelihoods",
+      "label": "Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Seed sovereignty",
+      "label": "Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Sustainable diets",
+      "label": "Sustainable diets",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Sustainable fishing",
+      "label": "Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    },
+    {
+      "id": "Topic:Social|Zero hunger|Waste reduction",
+      "label": "Waste reduction",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger"
+    }
+  ]
+}

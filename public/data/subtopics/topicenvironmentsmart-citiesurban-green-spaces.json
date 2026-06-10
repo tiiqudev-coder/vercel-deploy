@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Urban green spaces",
+    "label": "Urban green spaces",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "label": "Biodiversity data collection",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "label": "Environmental education",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience",
+      "label": "Green space resilience",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Indoor e-green spaces",
+      "label": "Indoor e-green spaces",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring",
+      "label": "Microclimate monitoring",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring",
+      "label": "Plant health monitoring",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Pollinator-friendly design",
+      "label": "Pollinator-friendly design",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban agriculture",
+      "label": "Urban agriculture",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "label": "Urban canopy monitoring",
+      "topicId": "Topic:Environment|Smart cities|Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "qnaCount": 2
+    }
+  ]
+}

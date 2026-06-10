@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Basic needs",
+    "label": "Basic needs",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Clean and safe drinking water",
+      "label": "Clean and safe drinking water",
+      "topicId": "Topic:Social|No poverty|Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Personal hygiene facilities",
+      "label": "Personal hygiene facilities",
+      "topicId": "Topic:Social|No poverty|Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights",
+      "label": "Protection of fundamental human rights",
+      "topicId": "Topic:Social|No poverty|Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Reliable electricity access",
+      "label": "Reliable electricity access",
+      "topicId": "Topic:Social|No poverty|Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Satisfactory clothing provision",
+      "label": "Satisfactory clothing provision",
+      "topicId": "Topic:Social|No poverty|Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Secure and habitable shelter",
+      "label": "Secure and habitable shelter",
+      "topicId": "Topic:Social|No poverty|Basic needs",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "qnaCount": 1
+    }
+  ]
+}

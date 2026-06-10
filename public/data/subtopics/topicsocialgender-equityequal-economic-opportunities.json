@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Equal economic opportunities",
+    "label": "Equal economic opportunities",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Fair trade and gender equality",
+      "label": "Fair trade and gender equality",
+      "topicId": "Topic:Social|Gender equity|Equal economic opportunities",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Gender pay equity",
+      "label": "Gender pay equity",
+      "topicId": "Topic:Social|Gender equity|Equal economic opportunities",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property",
+      "label": "Women's access to land and property",
+      "topicId": "Topic:Social|Gender equity|Equal economic opportunities",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "qnaCount": 4
+    }
+  ]
+}

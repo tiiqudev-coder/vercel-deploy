@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Energy storage technologies",
+    "label": "Energy storage technologies",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "label": "Advanced materials for energy storage",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies",
+      "label": "Advances in energy storage technologies",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "label": "Battery energy storage systems (bess)",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "label": "Economic viability of energy storage systems",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Environmental impact of energy storage",
+      "label": "Environmental impact of energy storage",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "label": "Flow battery systems",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage",
+      "label": "Flywheel energy storage",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Molten salt energy storage",
+      "label": "Molten salt energy storage",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Supercapacitors",
+      "label": "Supercapacitors",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 34
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage",
+      "label": "Thermal energy storage",
+      "topicId": "Topic:Environment|Clean energy|Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "qnaCount": 2
+    }
+  ]
+}

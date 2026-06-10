@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Energy transition",
+    "label": "Energy transition",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy",
+      "label": "Behavior change campaigns for clean energy",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Biomass and bioenergy solutions",
+      "label": "Biomass and bioenergy solutions",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Decentralized energy systems",
+      "label": "Decentralized energy systems",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "label": "Eco-friendly industrial processes",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Green finance for clean energy projects",
+      "label": "Green finance for clean energy projects",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation",
+      "label": "Smart grid implementation",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Sustainable water and wastewater management",
+      "label": "Sustainable water and wastewater management",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transition to solar power",
+      "label": "Transition to solar power",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "label": "Transitioning from fossil fuels",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning to clean hydrogen",
+      "label": "Transitioning to clean hydrogen",
+      "topicId": "Topic:Environment|Climate action|Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "qnaCount": 1
+    }
+  ]
+}

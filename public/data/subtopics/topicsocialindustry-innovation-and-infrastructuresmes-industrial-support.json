@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+    "label": "SMEs industrial support",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to government contracts",
+      "label": "Access to government contracts",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to information",
+      "label": "Access to information",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to markets",
+      "label": "Access to markets",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology",
+      "label": "Access to technology",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Cluster development",
+      "label": "Cluster development",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance",
+      "label": "Environmental compliance",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Export promotion",
+      "label": "Export promotion",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance",
+      "label": "Regulatory compliance",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Risk management",
+      "label": "Risk management",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Supply chain development",
+      "label": "Supply chain development",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Sustainability training",
+      "label": "Sustainability training",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|SMEs industrial support",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "qnaCount": 6
+    }
+  ]
+}

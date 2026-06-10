@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+    "label": "Anti-corruption measures",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Asset recovery initiatives",
+      "label": "Asset recovery initiatives",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Anti-corruption measures",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Conflict of interest regulations",
+      "label": "Conflict of interest regulations",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Anti-corruption measures",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Corporate transparency measures",
+      "label": "Corporate transparency measures",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Anti-corruption measures",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Corruption risk assessments",
+      "label": "Corruption risk assessments",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Anti-corruption measures",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Anti-corruption measures",
+      "qnaCount": 1
+    }
+  ]
+}

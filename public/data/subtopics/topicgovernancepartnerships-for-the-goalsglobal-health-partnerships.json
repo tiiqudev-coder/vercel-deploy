@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Global health partnerships",
+    "label": "Global health partnerships",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global health partnerships|Infectious disease control networks",
+      "label": "Infectious disease control networks",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global health partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global health partnerships",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Gender equality",
+    "label": "Gender equality",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Gender equality|Equal pay scales",
+      "label": "Equal pay scales",
+      "topicId": "Topic:Social|Decent work and economic growth|Gender equality",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Gender equality",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Gender equality|Fair promotion policies",
+      "label": "Fair promotion policies",
+      "topicId": "Topic:Social|Decent work and economic growth|Gender equality",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Gender equality",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Gender equality|Gender-diverse teams",
+      "label": "Gender-diverse teams",
+      "topicId": "Topic:Social|Decent work and economic growth|Gender equality",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Gender equality",
+      "qnaCount": 1
+    }
+  ]
+}

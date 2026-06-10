@@ -1,0 +1,254 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Climate change adaptation strategies",
+    "label": "Climate change adaptation strategies",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive social protection programs",
+      "label": "Adaptive social protection programs",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities",
+      "label": "Adaptive strategies for indigenous communities",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive water resource management",
+      "label": "Adaptive water resource management",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive education programs",
+      "label": "Climate-adaptive education programs",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "label": "Climate-adaptive energy systems",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive technology innovation",
+      "label": "Climate-adaptive technology innovation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient agriculture practices",
+      "label": "Climate-resilient agriculture practices",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient biodiversity conservation",
+      "label": "Climate-resilient biodiversity conservation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods",
+      "label": "Climate-resilient livelihoods",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-smart disaster risk reduction",
+      "label": "Climate-smart disaster risk reduction",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-based adaptation",
+      "label": "Community-based adaptation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation",
+      "label": "Community-led climate adaptation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Early warning systems for extreme weather",
+      "label": "Early warning systems for extreme weather",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Ecosystem-based adaptation",
+      "label": "Ecosystem-based adaptation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Financial mechanisms for adaptation",
+      "label": "Financial mechanisms for adaptation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Health sector adaptation",
+      "label": "Health sector adaptation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "label": "Indigenous knowledge in adaptation",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Infrastructure resilience planning",
+      "label": "Infrastructure resilience planning",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Integrated climate-resilient development",
+      "label": "Integrated climate-resilient development",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Localized climate change action plans",
+      "label": "Localized climate change action plans",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems",
+      "label": "Resilient healthcare systems",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Sustainable fisheries management",
+      "label": "Sustainable fisheries management",
+      "topicId": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "qnaCount": 6
+    }
+  ]
+}

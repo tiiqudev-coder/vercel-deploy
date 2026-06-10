@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Wildlife habitat preservation",
+    "label": "Wildlife habitat preservation",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "label": "Habitat connectivity plans",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives",
+      "label": "Habitat enhancement initiatives",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation",
+      "label": "Habitat fragmentation mitigation",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs",
+      "label": "Habitat monitoring programs",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat preservation guidelines",
+      "label": "Habitat preservation guidelines",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "label": "Wildlife habitat assessment",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat conservation",
+      "label": "Wildlife habitat conservation",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "label": "Wildlife habitat evaluation",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "label": "Wildlife habitat inventories",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "label": "Wildlife habitat mapping",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat research",
+      "label": "Wildlife habitat research",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "label": "Wildlife habitat surveys",
+      "topicId": "Topic:Environment|Life on land|Wildlife habitat preservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "qnaCount": 5
+    }
+  ]
+}

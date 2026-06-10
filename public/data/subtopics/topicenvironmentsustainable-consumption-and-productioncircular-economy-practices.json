@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+    "label": "Circular economy practices",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications",
+      "label": "Biomimicry applications",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Circular business models",
+      "label": "Circular business models",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 22
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Circular procurement policies",
+      "label": "Circular procurement policies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Circular supply chains",
+      "label": "Circular supply chains",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Collaborative consumption",
+      "label": "Collaborative consumption",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 28
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Digitalization in circular economy",
+      "label": "Digitalization in circular economy",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Extended producer responsibility",
+      "label": "Extended producer responsibility",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "label": "Industrial symbiosis networks",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Material reuse initiatives",
+      "label": "Material reuse initiatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Material substitution",
+      "label": "Material substitution",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Product leasing programs",
+      "label": "Product leasing programs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Product life extension",
+      "label": "Product life extension",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Product sharing platforms",
+      "label": "Product sharing platforms",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Repair and refurbishment",
+      "label": "Repair and refurbishment",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Resource efficiency measures",
+      "label": "Resource efficiency measures",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Reverse logistics systems",
+      "label": "Reverse logistics systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Sustainable consumption practices",
+      "label": "Sustainable consumption practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Waste-to-energy technologies",
+      "label": "Waste-to-energy technologies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Circular economy practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Health policy and systems",
+    "label": "Health policy and systems",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health equity policies",
+      "label": "Health equity policies",
+      "topicId": "Topic:Social|Good health and well-being|Health policy and systems",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform",
+      "label": "Health system reform",
+      "topicId": "Topic:Social|Good health and well-being|Health policy and systems",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment",
+      "label": "Health technology assessment",
+      "topicId": "Topic:Social|Good health and well-being|Health policy and systems",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "qnaCount": 3
+    }
+  ]
+}

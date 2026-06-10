@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Tidal and wave energy",
+    "label": "Tidal and wave energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators",
+      "label": "Attenuators",
+      "topicId": "Topic:Environment|Clean energy|Tidal and wave energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "label": "Overtopping devices",
+      "topicId": "Topic:Environment|Clean energy|Tidal and wave energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "qnaCount": 3
+    }
+  ]
+}

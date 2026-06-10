@@ -1,0 +1,154 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Climate action",
+    "label": "Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Climate action|Carbon capture and storage",
+      "label": "Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "label": "Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Circular economy initiatives",
+      "label": "Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate action for resilience",
+      "label": "Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate biodiversity resiliance",
+      "label": "Climate biodiversity resiliance",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate change adaptation strategies",
+      "label": "Climate change adaptation strategies",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate justice and equity",
+      "label": "Climate justice and equity",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Climate resilience",
+      "label": "Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Deforestation and reforestation",
+      "label": "Deforestation and reforestation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Energy transition",
+      "label": "Energy transition",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Extreme weather events",
+      "label": "Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "label": "Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|International climate agreements",
+      "label": "International climate agreements",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "label": "Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Ocean acidification",
+      "label": "Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Sea level rise",
+      "label": "Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Sustainable agriculture practices",
+      "label": "Sustainable agriculture practices",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    },
+    {
+      "id": "Topic:Environment|Climate action|Sustainable transportation",
+      "label": "Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "macroarea": {
+    "id": "MacroArea:Environment",
+    "label": "Environment"
+  },
+  "macrotopics": [
+    {
+      "id": "Macrotopic:Environment|Clean energy",
+      "label": "Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Clean water and sanitation",
+      "label": "Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Climate action",
+      "label": "Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Life below water",
+      "label": "Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Life on land",
+      "label": "Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Smart cities",
+      "label": "Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    },
+    {
+      "id": "Macrotopic:Environment|Sustainable consumption and production",
+      "label": "Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment"
+    }
+  ]
+}

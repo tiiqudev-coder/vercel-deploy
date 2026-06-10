@@ -1,0 +1,122 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Reduced inequalities",
+    "label": "Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Reduced inequalities|Anti-discrimination",
+      "label": "Anti-discrimination",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Cultural integration",
+      "label": "Cultural integration",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Diversity advocacy",
+      "label": "Diversity advocacy",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Economic justice",
+      "label": "Economic justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Educational equity",
+      "label": "Educational equity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Equal access to opportunities",
+      "label": "Equal access to opportunities",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Fair representation",
+      "label": "Fair representation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Inclusive policies",
+      "label": "Inclusive policies",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Inclusive prosperity",
+      "label": "Inclusive prosperity",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Poverty alleviation",
+      "label": "Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Social justice",
+      "label": "Social justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "label": "Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Wealth redistribution",
+      "label": "Wealth redistribution",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    },
+    {
+      "id": "Topic:Social|Reduced inequalities|Youth empowerment initiatives",
+      "label": "Youth empowerment initiatives",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities"
+    }
+  ]
+}

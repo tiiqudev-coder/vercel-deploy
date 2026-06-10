@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Intelligent transportation systems",
+    "label": "Intelligent transportation systems",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Adaptive traffic signal control",
+      "label": "Adaptive traffic signal control",
+      "topicId": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)",
+      "label": "Cooperative adaptive cruise control (cacc)",
+      "topicId": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling",
+      "label": "Predictive traffic modeling",
+      "topicId": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "label": "Smart intersection technologies",
+      "topicId": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "label": "Traffic flow optimization algorithms",
+      "topicId": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "label": "Traffic simulation and modeling tools",
+      "topicId": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "qnaCount": 10
+    }
+  ]
+}

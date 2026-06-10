@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+    "label": "Innovation promotion",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Co-creation projects",
+      "label": "Co-creation projects",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Collaboration spaces",
+      "label": "Collaboration spaces",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking",
+      "label": "Design thinking",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation",
+      "label": "Digital innovation",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas",
+      "label": "Disruptive ideas",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Idea acceleration",
+      "label": "Idea acceleration",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Innovation challenges",
+      "label": "Innovation challenges",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Innovation networks",
+      "label": "Innovation networks",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support",
+      "label": "Startup support",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "label": "Sustainable solutions",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Tech transfer",
+      "label": "Tech transfer",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Innovation promotion",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "qnaCount": 1
+    }
+  ]
+}

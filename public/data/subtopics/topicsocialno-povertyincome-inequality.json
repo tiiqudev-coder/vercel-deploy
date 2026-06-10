@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Income inequality",
+    "label": "Income inequality",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "label": "Geographic income disparities",
+      "topicId": "Topic:Social|No poverty|Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Income polarization trends",
+      "label": "Income polarization trends",
+      "topicId": "Topic:Social|No poverty|Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination",
+      "label": "Labor market discrimination",
+      "topicId": "Topic:Social|No poverty|Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Social mobility barriers",
+      "label": "Social mobility barriers",
+      "topicId": "Topic:Social|No poverty|Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Wage gap disparities",
+      "label": "Wage gap disparities",
+      "topicId": "Topic:Social|No poverty|Income inequality",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "qnaCount": 1
+    }
+  ]
+}

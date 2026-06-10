@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Smart grid technologies",
+    "label": "Smart grid technologies",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid communication technologies",
+      "label": "Smart grid communication technologies",
+      "topicId": "Topic:Environment|Clean energy|Smart grid technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid cybersecurity",
+      "label": "Smart grid cybersecurity",
+      "topicId": "Topic:Environment|Clean energy|Smart grid technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "label": "Smart grid data analytics",
+      "topicId": "Topic:Environment|Clean energy|Smart grid technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid policy and regulations",
+      "label": "Smart grid policy and regulations",
+      "topicId": "Topic:Environment|Clean energy|Smart grid technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Indigenous land rights",
+    "label": "Indigenous land rights",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use",
+      "label": "Customary land use",
+      "topicId": "Topic:Environment|Life on land|Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land management plans",
+      "label": "Indigenous land management plans",
+      "topicId": "Topic:Environment|Life on land|Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "label": "Indigenous land reserves",
+      "topicId": "Topic:Environment|Life on land|Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land territories",
+      "label": "Indigenous land territories",
+      "topicId": "Topic:Environment|Life on land|Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Traditional land management",
+      "label": "Traditional land management",
+      "topicId": "Topic:Environment|Life on land|Indigenous land rights",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "qnaCount": 1
+    }
+  ]
+}

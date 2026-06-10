@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+    "label": "Industrial safety standards",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification",
+      "label": "Hazard identification",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention",
+      "label": "Heat stress prevention",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Radiation safety protocols",
+      "label": "Radiation safety protocols",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Risk assessment",
+      "label": "Risk assessment",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Industrial safety standards",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "qnaCount": 11
+    }
+  ]
+}

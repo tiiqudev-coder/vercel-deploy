@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Ocean thermal energy",
+    "label": "Ocean thermal energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Challenges in otec implementation",
+      "label": "Challenges in otec implementation",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Closed-cycle otec systems",
+      "label": "Closed-cycle otec systems",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "label": "Cold seawater pipes for energy generation",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Environmental benefits of otec",
+      "label": "Environmental benefits of otec",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems",
+      "label": "Otec for cooling systems",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec policy and regulatory considerations",
+      "label": "Otec policy and regulatory considerations",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "label": "Otec resource assessment",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "label": "Otec technology advances",
+      "topicId": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "qnaCount": 10
+    }
+  ]
+}

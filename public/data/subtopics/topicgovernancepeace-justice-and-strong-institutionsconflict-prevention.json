@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Conflict prevention",
+    "label": "Conflict prevention",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools",
+      "label": "Conflict analysis tools",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict prevention",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue",
+      "label": "Intercommunity dialogue",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict prevention",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Resource management agreements",
+      "label": "Resource management agreements",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict prevention",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "qnaCount": 1
+    }
+  ]
+}

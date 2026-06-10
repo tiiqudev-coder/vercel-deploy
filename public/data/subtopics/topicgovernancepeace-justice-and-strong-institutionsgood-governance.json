@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+    "label": "Good governance",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Citizen feedback mechanisms",
+      "label": "Citizen feedback mechanisms",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Decentralized governance models",
+      "label": "Decentralized governance models",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms",
+      "label": "E-governance platforms",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Participatory decision-making",
+      "label": "Participatory decision-making",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Policy coherence mechanisms",
+      "label": "Policy coherence mechanisms",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures",
+      "label": "Responsive governance structures",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems",
+      "label": "Rule-based governance systems",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Good governance",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "qnaCount": 3
+    }
+  ]
+}

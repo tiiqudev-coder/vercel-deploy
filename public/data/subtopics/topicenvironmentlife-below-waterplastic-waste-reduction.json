@@ -1,0 +1,188 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Plastic waste reduction",
+    "label": "Plastic waste reduction",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Biodegradable plastics",
+      "label": "Biodegradable plastics",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Microplastic prevention",
+      "label": "Microplastic prevention",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives",
+      "label": "Plastic alternatives",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans",
+      "label": "Plastic bag bans",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bottle recycling",
+      "label": "Plastic bottle recycling",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic packaging reduction",
+      "label": "Plastic packaging reduction",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic pollution awareness",
+      "label": "Plastic pollution awareness",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic recycling",
+      "label": "Plastic recycling",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic reduction campaigns",
+      "label": "Plastic reduction campaigns",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste education",
+      "label": "Plastic waste education",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy",
+      "label": "Plastic waste policy",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste reduction strategies",
+      "label": "Plastic waste reduction strategies",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste reduction targets",
+      "label": "Plastic waste reduction targets",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic-free oceans",
+      "label": "Plastic-free oceans",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Single-use bans",
+      "label": "Single-use bans",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Waste management",
+      "label": "Waste management",
+      "topicId": "Topic:Environment|Life below water|Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "qnaCount": 1
+    }
+  ]
+}

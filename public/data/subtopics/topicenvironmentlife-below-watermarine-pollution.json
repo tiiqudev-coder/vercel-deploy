@@ -1,0 +1,254 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Marine pollution",
+    "label": "Marine pollution",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Agricultural runoff",
+      "label": "Agricultural runoff",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "label": "Algal blooms",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "label": "Ballast water",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "label": "Chemical contamination",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter",
+      "label": "Coastal litter",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "label": "Heavy metals",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Microplastics",
+      "label": "Microplastics",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "label": "Noise pollution",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "label": "Nutrient pollution",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ocean dumping",
+      "label": "Ocean dumping",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Oil pollution",
+      "label": "Oil pollution",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Oil spills",
+      "label": "Oil spills",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "label": "Pesticide runoff",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Plastic debris",
+      "label": "Plastic debris",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Plastic pollution",
+      "label": "Plastic pollution",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "label": "Pollution sources",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "label": "Radioactive waste",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "label": "Sedimentation",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge",
+      "label": "Sewage discharge",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ship pollution",
+      "label": "Ship pollution",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "label": "Thermal pollution",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Toxic waste",
+      "label": "Toxic waste",
+      "topicId": "Topic:Environment|Life below water|Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "qnaCount": 1
+    }
+  ]
+}

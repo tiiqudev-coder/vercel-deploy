@@ -1,0 +1,170 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Smart cities",
+    "label": "Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Smart cities|Air quality monitoring",
+      "label": "Air quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Civic engagement",
+      "label": "Civic engagement",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Digital governance",
+      "label": "Digital governance",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|E-government spaces",
+      "label": "E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Energy management",
+      "label": "Energy management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Environmental monitoring",
+      "label": "Environmental monitoring",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Intelligent transportation systems",
+      "label": "Intelligent transportation systems",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|IoT in cities",
+      "label": "IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Public safety",
+      "label": "Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart buildings",
+      "label": "Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart grids",
+      "label": "Smart grids",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart parking solutions",
+      "label": "Smart parking solutions",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Smart street lighting",
+      "label": "Smart street lighting",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "label": "Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "label": "Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban green spaces",
+      "label": "Urban green spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban mobility",
+      "label": "Urban mobility",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Urban planning analytics",
+      "label": "Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Waste management",
+      "label": "Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    },
+    {
+      "id": "Topic:Environment|Smart cities|Water management",
+      "label": "Water management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities"
+    }
+  ]
+}

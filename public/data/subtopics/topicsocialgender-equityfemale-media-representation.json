@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Female media representation",
+    "label": "Female media representation",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female media representation|Social media influencers and empowerment",
+      "label": "Social media influencers and empowerment",
+      "topicId": "Topic:Social|Gender equity|Female media representation",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female media representation",
+      "qnaCount": 1
+    }
+  ]
+}

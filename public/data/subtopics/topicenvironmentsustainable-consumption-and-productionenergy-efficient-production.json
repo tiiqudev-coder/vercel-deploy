@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+    "label": "Energy-efficient production",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "label": "Biomass energy utilization in production",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "label": "Energy audits and assessments",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient manufacturing processes",
+      "label": "Energy-efficient manufacturing processes",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "label": "Energy-efficient motors and drives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient water treatment",
+      "label": "Energy-efficient water treatment",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies",
+      "label": "Heat recovery technologies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Industrial automation for energy savings",
+      "label": "Industrial automation for energy savings",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Life cycle analysis of products",
+      "label": "Life cycle analysis of products",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Process optimization techniques",
+      "label": "Process optimization techniques",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods",
+      "label": "Resource-efficient production methods",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Solar energy utilization in production",
+      "label": "Solar energy utilization in production",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Energy-efficient production",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "qnaCount": 1
+    }
+  ]
+}

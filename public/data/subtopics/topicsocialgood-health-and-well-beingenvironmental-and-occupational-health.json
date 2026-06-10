@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Environmental and occupational health",
+    "label": "Environmental and occupational health",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "label": "Biological hazards in work",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "label": "Chemical exposure limits",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Climate change impacts",
+      "label": "Climate change impacts",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Energy conservation methods",
+      "label": "Energy conservation methods",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Indoor air quality",
+      "label": "Indoor air quality",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "label": "Radiation safety",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues",
+      "label": "Soil contamination issues",
+      "topicId": "Topic:Social|Good health and well-being|Environmental and occupational health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "qnaCount": 2
+    }
+  ]
+}

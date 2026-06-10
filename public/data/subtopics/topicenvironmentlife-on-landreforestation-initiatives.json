@@ -1,0 +1,188 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Reforestation initiatives",
+    "label": "Reforestation initiatives",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Biodiversity enhancement",
+      "label": "Biodiversity enhancement",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives",
+      "label": "Carbon sequestration initiatives",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological buffer zone establishment",
+      "label": "Ecological buffer zone establishment",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion",
+      "label": "Ecological succession promotion",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "label": "Forest regeneration",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement",
+      "label": "Habitat connectivity enhancement",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "label": "Invasive species removal",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "label": "Mangrove reforestation",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "label": "Native plant reestablishment",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "label": "Natural habitat recovery",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Pollinator habitat restoration",
+      "label": "Pollinator habitat restoration",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 22
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "label": "Regenerative land management",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Reintroduction of native species",
+      "label": "Reintroduction of native species",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration",
+      "label": "Riverine habitat restoration",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Vegetation management",
+      "label": "Vegetation management",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Watershed restoration",
+      "label": "Watershed restoration",
+      "topicId": "Topic:Environment|Life on land|Reforestation initiatives",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "qnaCount": 1
+    }
+  ]
+}

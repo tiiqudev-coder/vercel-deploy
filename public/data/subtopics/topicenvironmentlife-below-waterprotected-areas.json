@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Protected areas",
+    "label": "Protected areas",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Biodiversity hotspots",
+      "label": "Biodiversity hotspots",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Coastal sanctuaries",
+      "label": "Coastal sanctuaries",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Ecological reserves",
+      "label": "Ecological reserves",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Fish spawning areas",
+      "label": "Fish spawning areas",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Habitat protection",
+      "label": "Habitat protection",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine conservation areas",
+      "label": "Marine conservation areas",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine parks",
+      "label": "Marine parks",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine reserves",
+      "label": "Marine reserves",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "label": "Marine wildlife reserves",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Mpa management",
+      "label": "Mpa management",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Ramsar sites",
+      "label": "Ramsar sites",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries",
+      "label": "Seabed sanctuaries",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "label": "Seagrass meadows",
+      "topicId": "Topic:Environment|Life below water|Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "qnaCount": 3
+    }
+  ]
+}

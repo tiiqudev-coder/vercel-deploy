@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Rural livelihoods",
+    "label": "Rural livelihoods",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification",
+      "label": "Agricultural diversification",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production",
+      "label": "Handicrafts and artisanal production",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Livestock rearing",
+      "label": "Livestock rearing",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development",
+      "label": "Microenterprise development",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities",
+      "label": "Non-farm employment opportunities",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "label": "Rural energy projects",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural tourism promotion",
+      "label": "Rural tourism promotion",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Sustainable forestry management",
+      "label": "Sustainable forestry management",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Value-added agricultural processing",
+      "label": "Value-added agricultural processing",
+      "topicId": "Topic:Social|Zero hunger|Rural livelihoods",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "qnaCount": 1
+    }
+  ]
+}

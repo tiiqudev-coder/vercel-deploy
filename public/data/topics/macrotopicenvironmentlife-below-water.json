@@ -1,0 +1,162 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Life below water",
+    "label": "Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Life below water|Aquaculture practices",
+      "label": "Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Blue economy",
+      "label": "Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Climate adaptation",
+      "label": "Climate adaptation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coastal management",
+      "label": "Coastal management",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coastal restoration",
+      "label": "Coastal restoration",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coastal tourism",
+      "label": "Coastal tourism",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Coral reef protection",
+      "label": "Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|IUU fishing control",
+      "label": "IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Marine biodiversity",
+      "label": "Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Marine pollution",
+      "label": "Marine pollution",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Ocean acidification",
+      "label": "Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Ocean governance",
+      "label": "Ocean governance",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Ocean research",
+      "label": "Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Overfishing control",
+      "label": "Overfishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Plastic waste reduction",
+      "label": "Plastic waste reduction",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Protected areas",
+      "label": "Protected areas",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Seafood promotion",
+      "label": "Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Species conservation",
+      "label": "Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    },
+    {
+      "id": "Topic:Environment|Life below water|Sustainable fisheries",
+      "label": "Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water"
+    }
+  ]
+}

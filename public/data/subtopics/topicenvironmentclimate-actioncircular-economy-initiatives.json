@@ -1,0 +1,276 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Circular economy initiatives",
+    "label": "Circular economy initiatives",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of circular business models",
+      "label": "Adoption of circular business models",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design",
+      "label": "Adoption of sustainable product design",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular agriculture practices",
+      "label": "Circular agriculture practices",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing",
+      "label": "Circular approaches in manufacturing",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness",
+      "label": "Circular economy education and awareness",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy finance mechanisms",
+      "label": "Circular economy finance mechanisms",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 29
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy in food systems",
+      "label": "Circular economy in food systems",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 29
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular fashion and textiles",
+      "label": "Circular fashion and textiles",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 552
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular solutions for textile waste",
+      "label": "Circular solutions for textile waste",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 174
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular supply chain management",
+      "label": "Circular supply chain management",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Collaborative consumption platforms",
+      "label": "Collaborative consumption platforms",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Eco-friendly consumer behavior",
+      "label": "Eco-friendly consumer behavior",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 22
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Eco-friendly waste-to-energy technologies",
+      "label": "Eco-friendly waste-to-energy technologies",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Eco-labeling for circular products",
+      "label": "Eco-labeling for circular products",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Extended producer responsibility programs",
+      "label": "Extended producer responsibility programs",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies",
+      "label": "Green public procurement policies",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Integration of circular design in industries",
+      "label": "Integration of circular design in industries",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Product life extension strategies",
+      "label": "Product life extension strategies",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Reduction of single-use items",
+      "label": "Reduction of single-use items",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Remanufacturing and refurbishment",
+      "label": "Remanufacturing and refurbishment",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Reusable and recyclable plastics",
+      "label": "Reusable and recyclable plastics",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Sustainable product certification",
+      "label": "Sustainable product certification",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Sustainable technologies for resource recovery",
+      "label": "Sustainable technologies for resource recovery",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery",
+      "label": "Urban mining for resource recovery",
+      "topicId": "Topic:Environment|Climate action|Circular economy initiatives",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "qnaCount": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Quality education",
+    "label": "Quality education",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Academic rigor",
+      "label": "Academic rigor",
+      "topicId": "Topic:Social|Quality education|Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Education research",
+      "label": "Education research",
+      "topicId": "Topic:Social|Quality education|Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Educational technology",
+      "label": "Educational technology",
+      "topicId": "Topic:Social|Quality education|Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Learning outcomes",
+      "label": "Learning outcomes",
+      "topicId": "Topic:Social|Quality education|Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Student engagement",
+      "label": "Student engagement",
+      "topicId": "Topic:Social|Quality education|Quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "qnaCount": 1
+    }
+  ]
+}

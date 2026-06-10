@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Urban planning analytics",
+    "label": "Urban planning analytics",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Air quality analysis",
+      "label": "Air quality analysis",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Community engagement",
+      "label": "Community engagement",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "label": "Demographic analytics",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Disaster resilience",
+      "label": "Disaster resilience",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Environmental analysis",
+      "label": "Environmental analysis",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "label": "Green space allocation",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 27
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Heritage preservation",
+      "label": "Heritage preservation",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Housing affordability",
+      "label": "Housing affordability",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis",
+      "label": "Land use pattern analysis",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Mixed-use planning",
+      "label": "Mixed-use planning",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis",
+      "label": "Mobility pattern analysis",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Parking analytics",
+      "label": "Parking analytics",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Population growth model",
+      "label": "Population growth model",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Real estate trends",
+      "label": "Real estate trends",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Smart zoning",
+      "label": "Smart zoning",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment",
+      "label": "Socio-economic assessment",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Transit ridership analytics",
+      "label": "Transit ridership analytics",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity",
+      "label": "Urban connectivity",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning",
+      "label": "Urban gis planning",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "label": "Urban planning analysis",
+      "topicId": "Topic:Environment|Smart cities|Urban planning analytics",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "qnaCount": 4
+    }
+  ]
+}

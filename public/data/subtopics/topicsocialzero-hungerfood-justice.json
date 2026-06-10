@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Food justice",
+    "label": "Food justice",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform",
+      "label": "Advocacy for food policy reform",
+      "topicId": "Topic:Social|Zero hunger|Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements",
+      "label": "Food sovereignty movements",
+      "topicId": "Topic:Social|Zero hunger|Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Gender equality in food access",
+      "label": "Gender equality in food access",
+      "topicId": "Topic:Social|Zero hunger|Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Indigenous food sovereignty",
+      "label": "Indigenous food sovereignty",
+      "topicId": "Topic:Social|Zero hunger|Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Racial equity in food systems",
+      "label": "Racial equity in food systems",
+      "topicId": "Topic:Social|Zero hunger|Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Workers' rights in food production",
+      "label": "Workers' rights in food production",
+      "topicId": "Topic:Social|Zero hunger|Food justice",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "qnaCount": 1
+    }
+  ]
+}

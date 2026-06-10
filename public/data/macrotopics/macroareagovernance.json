@@ -1,0 +1,20 @@
+{
+  "macroarea": {
+    "id": "MacroArea:Governance",
+    "label": "Governance"
+  },
+  "macrotopics": [
+    {
+      "id": "Macrotopic:Governance|Partnerships for the goals",
+      "label": "Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance"
+    },
+    {
+      "id": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "label": "Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance"
+    }
+  ]
+}

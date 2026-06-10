@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Agricultural productivity",
+    "label": "Agricultural productivity",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "label": "Access to agricultural inputs",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Adoption of digital agriculture technologies",
+      "label": "Adoption of digital agriculture technologies",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Agroecological practices",
+      "label": "Agroecological practices",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "label": "Climate-resilient crops",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Diversification of crops",
+      "label": "Diversification of crops",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Efficient water management",
+      "label": "Efficient water management",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Fertilizer application methods",
+      "label": "Fertilizer application methods",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Improved seed varieties",
+      "label": "Improved seed varieties",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Knowledge transfer and extension services",
+      "label": "Knowledge transfer and extension services",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Mechanization of farming",
+      "label": "Mechanization of farming",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Soil conservation techniques",
+      "label": "Soil conservation techniques",
+      "topicId": "Topic:Social|Zero hunger|Agricultural productivity",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "qnaCount": 7
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Land degradation control",
+    "label": "Land degradation control",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Contour plowing practices",
+      "label": "Contour plowing practices",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Control of land subsidence",
+      "label": "Control of land subsidence",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Erosion control measures",
+      "label": "Erosion control measures",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of degraded wetlands",
+      "label": "Rehabilitation of degraded wetlands",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "label": "Rehabilitation of mining sites",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded grasslands",
+      "label": "Restoration of degraded grasslands",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded hillslopes",
+      "label": "Restoration of degraded hillslopes",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands",
+      "label": "Restoration of degraded peatlands",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques",
+      "label": "Soil remediation techniques",
+      "topicId": "Topic:Environment|Life on land|Land degradation control",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "qnaCount": 4
+    }
+  ]
+}

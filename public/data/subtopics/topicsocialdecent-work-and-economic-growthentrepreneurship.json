@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Entrepreneurship",
+    "label": "Entrepreneurship",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Entrepreneurial ecosystem development",
+      "label": "Entrepreneurial ecosystem development",
+      "topicId": "Topic:Social|Decent work and economic growth|Entrepreneurship",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Entrepreneurship",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support",
+      "label": "Market research support",
+      "topicId": "Topic:Social|Decent work and economic growth|Entrepreneurship",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Entrepreneurship",
+      "qnaCount": 2
+    }
+  ]
+}

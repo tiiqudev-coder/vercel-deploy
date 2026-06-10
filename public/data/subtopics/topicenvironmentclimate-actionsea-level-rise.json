@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Sea level rise",
+    "label": "Sea level rise",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Altered ocean currents",
+      "label": "Altered ocean currents",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity",
+      "label": "Changes in coastal biodiversity",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "label": "Impact on low-lying islands",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on mangrove ecosystems",
+      "label": "Impact on mangrove ecosystems",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 37
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "label": "Influence on coastal storm surges",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "label": "Loss of coastal wetlands",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "label": "Ocean thermal expansion",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "label": "Rising groundwater tables in coastal areas",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Role of urban planning in sea level rise mitigation",
+      "label": "Role of urban planning in sea level rise mitigation",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Saltwater intrusion into freshwater aquifers",
+      "label": "Saltwater intrusion into freshwater aquifers",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "label": "Sea level rise modeling",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Socioeconomic impacts on coastal communities",
+      "label": "Socioeconomic impacts on coastal communities",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services",
+      "label": "Threats to coastal ecosystem services",
+      "topicId": "Topic:Environment|Climate action|Sea level rise",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "qnaCount": 1
+    }
+  ]
+}

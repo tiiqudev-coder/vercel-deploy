@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Dispute resolution",
+    "label": "Dispute resolution",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Dispute resolution|Conflict transformation workshops",
+      "label": "Conflict transformation workshops",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Dispute resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Dispute resolution",
+      "qnaCount": 1
+    }
+  ]
+}

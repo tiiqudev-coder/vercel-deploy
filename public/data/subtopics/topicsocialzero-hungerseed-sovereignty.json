@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Seed sovereignty",
+    "label": "Seed sovereignty",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Access to non-patented seeds",
+      "label": "Access to non-patented seeds",
+      "topicId": "Topic:Social|Zero hunger|Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Advocacy for seed sovereignty",
+      "label": "Advocacy for seed sovereignty",
+      "topicId": "Topic:Social|Zero hunger|Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding",
+      "label": "Participatory plant breeding",
+      "topicId": "Topic:Social|Zero hunger|Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "label": "Preservation of traditional seeds",
+      "topicId": "Topic:Social|Zero hunger|Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation",
+      "label": "Seed diversity conservation",
+      "topicId": "Topic:Social|Zero hunger|Seed sovereignty",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "qnaCount": 4
+    }
+  ]
+}

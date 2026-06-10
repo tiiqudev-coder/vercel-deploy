@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Public safety",
+    "label": "Public safety",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Biometric identification systems",
+      "label": "Biometric identification systems",
+      "topicId": "Topic:Environment|Smart cities|Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models",
+      "label": "Gun violence prediction models",
+      "topicId": "Topic:Environment|Smart cities|Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "label": "Gunshot detection systems",
+      "topicId": "Topic:Environment|Smart cities|Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety",
+      "label": "Smart street lighting for safety",
+      "topicId": "Topic:Environment|Smart cities|Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Surveillance-free public spaces",
+      "label": "Surveillance-free public spaces",
+      "topicId": "Topic:Environment|Smart cities|Public safety",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "qnaCount": 1
+    }
+  ]
+}

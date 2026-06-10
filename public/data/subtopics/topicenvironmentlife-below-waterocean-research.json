@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Ocean research",
+    "label": "Ocean research",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies",
+      "label": "Coastal erosion studies",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coastal studies",
+      "label": "Coastal studies",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coral reef research",
+      "label": "Coral reef research",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "label": "Marine biotechnology",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry",
+      "label": "Marine chemistry",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine climate research",
+      "label": "Marine climate research",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine conservation research",
+      "label": "Marine conservation research",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine ecology",
+      "label": "Marine ecology",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology",
+      "label": "Marine microbiology",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research",
+      "label": "Marine pollution research",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine research vessels",
+      "label": "Marine research vessels",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments",
+      "label": "Oceanographic instruments",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies",
+      "label": "Oceanographic studies",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanography research",
+      "label": "Oceanography research",
+      "topicId": "Topic:Environment|Life below water|Ocean research",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "qnaCount": 1
+    }
+  ]
+}

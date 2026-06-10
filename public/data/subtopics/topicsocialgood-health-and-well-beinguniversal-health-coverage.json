@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Universal health coverage",
+    "label": "Universal health coverage",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "label": "Health technology use",
+      "topicId": "Topic:Social|Good health and well-being|Universal health coverage",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage",
+      "qnaCount": 2
+    }
+  ]
+}

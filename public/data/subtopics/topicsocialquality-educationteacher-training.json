@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Teacher training",
+    "label": "Teacher training",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|In-service training",
+      "label": "In-service training",
+      "topicId": "Topic:Social|Quality education|Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Reflective practice",
+      "label": "Reflective practice",
+      "topicId": "Topic:Social|Quality education|Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "label": "Subject-specific training",
+      "topicId": "Topic:Social|Quality education|Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher development",
+      "label": "Teacher development",
+      "topicId": "Topic:Social|Quality education|Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "label": "Teacher professionalism",
+      "topicId": "Topic:Social|Quality education|Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Tech pedagogical training",
+      "label": "Tech pedagogical training",
+      "topicId": "Topic:Social|Quality education|Teacher training",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "qnaCount": 1
+    }
+  ]
+}

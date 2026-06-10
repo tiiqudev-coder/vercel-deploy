@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Climate resilience",
+    "label": "Climate resilience",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate resilience|Resilient energy grids",
+      "label": "Resilient energy grids",
+      "topicId": "Topic:Environment|Climate action|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate resilience",
+      "qnaCount": 1
+    }
+  ]
+}

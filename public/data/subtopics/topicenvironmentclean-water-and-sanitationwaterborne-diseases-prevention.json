@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+    "label": "Waterborne diseases prevention",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods",
+      "label": "Chlorine disinfection methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies",
+      "label": "Contaminant removal strategies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring",
+      "label": "Environmental health monitoring",
+      "topicId": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems",
+      "label": "Pathogen monitoring systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Public health awareness",
+      "label": "Public health awareness",
+      "topicId": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access",
+      "label": "Safe drinking water access",
+      "topicId": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "qnaCount": 1
+    }
+  ]
+}

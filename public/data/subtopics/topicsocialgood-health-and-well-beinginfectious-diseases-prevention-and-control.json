@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+    "label": "Infectious diseases prevention and control",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Climate change and infectious diseases",
+      "label": "Climate change and infectious diseases",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases",
+      "label": "Emerging infectious diseases",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Fungal infections prevention",
+      "label": "Fungal infections prevention",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices",
+      "label": "Hand hygiene practices",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Immunocompromised patient care",
+      "label": "Immunocompromised patient care",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction",
+      "label": "Infectious disease modeling and prediction",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Maternal and neonatal infections",
+      "label": "Maternal and neonatal infections",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach",
+      "label": "One health approach",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies",
+      "label": "Vector control strategies",
+      "topicId": "Topic:Social|Good health and well-being|Infectious diseases prevention and control",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "qnaCount": 4
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|IUU fishing control",
+    "label": "IUU fishing control",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation",
+      "label": "Catch documentation",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Data sharing",
+      "label": "Data sharing",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies",
+      "label": "Detection technologies",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Electronic monitoring",
+      "label": "Electronic monitoring",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Illegal fishing hotspots",
+      "label": "Illegal fishing hotspots",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Observer programs",
+      "label": "Observer programs",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Regional agreements",
+      "label": "Regional agreements",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Satellite tracking",
+      "label": "Satellite tracking",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "label": "Surveillance networks",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Transshipment controls",
+      "label": "Transshipment controls",
+      "topicId": "Topic:Environment|Life below water|IUU fishing control",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "qnaCount": 1
+    }
+  ]
+}

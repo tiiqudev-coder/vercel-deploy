@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+    "label": "Solar photovoltaic systems",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "label": "Advancements in solar panel materials",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Economic impact of solar photovoltaic systems",
+      "label": "Economic impact of solar photovoltaic systems",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "label": "Life cycle assessment of solar energy systems",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Net metering and feed-in tariffs",
+      "label": "Net metering and feed-in tariffs",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Photovoltaic cell efficiency",
+      "label": "Photovoltaic cell efficiency",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Solar energy policy and regulations",
+      "label": "Solar energy policy and regulations",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Solar photovoltaic technologies",
+      "label": "Solar photovoltaic technologies",
+      "topicId": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "qnaCount": 1
+    }
+  ]
+}

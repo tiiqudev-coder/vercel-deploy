@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Inclusive education",
+    "label": "Inclusive education",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Inclusive education|Students with special educational needs",
+      "label": "Students with special educational needs",
+      "topicId": "Topic:Social|Quality education|Inclusive education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Inclusive education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Inclusive education|Teacher training for inclusive education",
+      "label": "Teacher training for inclusive education",
+      "topicId": "Topic:Social|Quality education|Inclusive education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Inclusive education",
+      "qnaCount": 1
+    }
+  ]
+}

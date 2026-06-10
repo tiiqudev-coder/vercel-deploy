@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Sustainable infrstructure",
+    "label": "Sustainable infrstructure",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Carbon-neutral construction practices",
+      "label": "Carbon-neutral construction practices",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Circular economy practices",
+      "label": "Circular economy practices",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Climate-responsive architecture",
+      "label": "Climate-responsive architecture",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation",
+      "label": "Efficient public transportation",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Green building design",
+      "label": "Green building design",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation",
+      "label": "Integrated public and active transportation",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Smart grids for infrastructure",
+      "label": "Smart grids for infrastructure",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable materials recycling",
+      "label": "Sustainable materials recycling",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks",
+      "label": "Sustainable transportation networks",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable urban planning",
+      "label": "Sustainable urban planning",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "label": "Urban green spaces",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation",
+      "label": "Urban heat island mitigation",
+      "topicId": "Topic:Environment|Smart cities|Sustainable infrstructure",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "qnaCount": 2
+    }
+  ]
+}

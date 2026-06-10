@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Equity in quality education",
+    "label": "Equity in quality education",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Equity in quality education|Eliminating disparities",
+      "label": "Eliminating disparities",
+      "topicId": "Topic:Social|Quality education|Equity in quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Equity in quality education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Equity in quality education|Promoting fairness",
+      "label": "Promoting fairness",
+      "topicId": "Topic:Social|Quality education|Equity in quality education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Equity in quality education",
+      "qnaCount": 1
+    }
+  ]
+}

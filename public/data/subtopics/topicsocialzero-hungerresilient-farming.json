@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Resilient farming",
+    "label": "Resilient farming",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "label": "Agroforestry for climate resilience",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies",
+      "label": "Crop diversification strategies",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "label": "Drought-resistant crops",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Farm-level climate adaptation plans",
+      "label": "Farm-level climate adaptation plans",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Farmer field schools for resilience-building",
+      "label": "Farmer field schools for resilience-building",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Integrated crop-livestock systems",
+      "label": "Integrated crop-livestock systems",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Soil moisture conservation practices",
+      "label": "Soil moisture conservation practices",
+      "topicId": "Topic:Social|Zero hunger|Resilient farming",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "qnaCount": 1
+    }
+  ]
+}

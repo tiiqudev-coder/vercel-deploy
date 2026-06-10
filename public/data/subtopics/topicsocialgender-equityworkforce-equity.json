@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Workforce equity",
+    "label": "Workforce equity",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "label": "Bias-free recruitment",
+      "topicId": "Topic:Social|Gender equity|Workforce equity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity",
+      "qnaCount": 2
+    }
+  ]
+}

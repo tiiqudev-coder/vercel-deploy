@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Economic growth",
+    "label": "Economic growth",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability",
+      "label": "Financial stability",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Market competition",
+      "label": "Market competition",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Productivity enhancement",
+      "label": "Productivity enhancement",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Regional development",
+      "label": "Regional development",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Sustainable gdp",
+      "label": "Sustainable gdp",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Technological innovation",
+      "label": "Technological innovation",
+      "topicId": "Topic:Social|Decent work and economic growth|Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Fair representation",
+    "label": "Fair representation",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Equity in gender roles",
+      "label": "Equity in gender roles",
+      "topicId": "Topic:Social|Reduced inequalities|Fair representation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance",
+      "label": "Gender balance",
+      "topicId": "Topic:Social|Reduced inequalities|Fair representation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Gender mainstreaming",
+      "label": "Gender mainstreaming",
+      "topicId": "Topic:Social|Reduced inequalities|Fair representation",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation",
+      "qnaCount": 1
+    }
+  ]
+}

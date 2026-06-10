@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|School infrastructure",
+    "label": "School infrastructure",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities",
+      "label": "Laboratory facilities",
+      "topicId": "Topic:Social|Quality education|School infrastructure",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Outdoor learning spaces",
+      "label": "Outdoor learning spaces",
+      "topicId": "Topic:Social|Quality education|School infrastructure",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Sustainable buildings",
+      "label": "Sustainable buildings",
+      "topicId": "Topic:Social|Quality education|School infrastructure",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Technology integration",
+      "label": "Technology integration",
+      "topicId": "Topic:Social|Quality education|School infrastructure",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "qnaCount": 1
+    }
+  ]
+}

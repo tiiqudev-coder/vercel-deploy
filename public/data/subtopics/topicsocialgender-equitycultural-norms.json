@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Cultural norms",
+    "label": "Cultural norms",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment",
+      "label": "Cultural barriers to women's empowerment",
+      "topicId": "Topic:Social|Gender equity|Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural bias in education",
+      "label": "Cultural bias in education",
+      "topicId": "Topic:Social|Gender equity|Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural impact on economic opportunities",
+      "label": "Cultural impact on economic opportunities",
+      "topicId": "Topic:Social|Gender equity|Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "label": "Cultural influences on reproductive rights",
+      "topicId": "Topic:Social|Gender equity|Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health",
+      "label": "Cultural practices affecting health",
+      "topicId": "Topic:Social|Gender equity|Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles",
+      "label": "Traditional gender roles",
+      "topicId": "Topic:Social|Gender equity|Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "qnaCount": 3
+    }
+  ]
+}

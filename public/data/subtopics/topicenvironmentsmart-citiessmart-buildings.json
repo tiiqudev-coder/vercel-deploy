@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Smart buildings",
+    "label": "Smart buildings",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics",
+      "label": "Advanced building analytics",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "label": "Ai-driven building operations",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "label": "Automated temperature and climate control",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)",
+      "label": "Building information modeling (bim)",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Energy-efficient building materials",
+      "label": "Energy-efficient building materials",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "label": "Renewable energy integration in buildings",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Sustainable building design",
+      "label": "Sustainable building design",
+      "topicId": "Topic:Environment|Smart cities|Smart buildings",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "qnaCount": 3
+    }
+  ]
+}

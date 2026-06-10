@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Geothermal energy",
+    "label": "Geothermal energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Binary cycle geothermal power plants",
+      "label": "Binary cycle geothermal power plants",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Economic viability of geothermal energy",
+      "label": "Economic viability of geothermal energy",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Enhanced geothermal systems (egs)",
+      "label": "Enhanced geothermal systems (egs)",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Flash steam geothermal power plants",
+      "label": "Flash steam geothermal power plants",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal district heating",
+      "label": "Geothermal district heating",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal environmental impact",
+      "label": "Geothermal environmental impact",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal fluid chemistry",
+      "label": "Geothermal fluid chemistry",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal power plant efficiency",
+      "label": "Geothermal power plant efficiency",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering",
+      "label": "Geothermal reservoir engineering",
+      "topicId": "Topic:Environment|Clean energy|Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "qnaCount": 2
+    }
+  ]
+}

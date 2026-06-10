@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Poverty alleviation",
+    "label": "Poverty alleviation",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Poverty alleviation|Social entrepreneurship support",
+      "label": "Social entrepreneurship support",
+      "topicId": "Topic:Social|No poverty|Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty alleviation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty alleviation|Sustainable development goals (sdgs) implementation",
+      "label": "Sustainable development goals (sdgs) implementation",
+      "topicId": "Topic:Social|No poverty|Poverty alleviation",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty alleviation",
+      "qnaCount": 13
+    }
+  ]
+}

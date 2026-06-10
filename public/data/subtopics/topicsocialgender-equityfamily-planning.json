@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Family planning",
+    "label": "Family planning",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods",
+      "label": "Natural family planning methods",
+      "topicId": "Topic:Social|Gender equity|Family planning",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Family planning",
+      "qnaCount": 1
+    }
+  ]
+}

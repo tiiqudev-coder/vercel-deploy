@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Clean energy integration",
+    "label": "Clean energy integration",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency",
+      "label": "Clean energy and energy efficiency",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy",
+      "label": "Coordinated planning for clean energy",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Cross-border clean energy integration",
+      "label": "Cross-border clean energy integration",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Digital platforms for clean energy integration",
+      "label": "Digital platforms for clean energy integration",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Grid integration of renewable energy",
+      "label": "Grid integration of renewable energy",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Integration of electric vehicles",
+      "label": "Integration of electric vehicles",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies",
+      "label": "Power-to-gas technologies",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "label": "Renewable energy forecasting",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Smart grids and clean energy",
+      "label": "Smart grids and clean energy",
+      "topicId": "Topic:Environment|Clean energy|Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "qnaCount": 1
+    }
+  ]
+}

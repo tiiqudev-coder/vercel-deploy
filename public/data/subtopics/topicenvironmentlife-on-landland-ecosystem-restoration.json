@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Land ecosystem restoration",
+    "label": "Land ecosystem restoration",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery",
+      "label": "Arctic ecosystem recovery",
+      "topicId": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation",
+      "label": "Delta ecosystem renovation",
+      "topicId": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Floodplain renovation",
+      "label": "Floodplain renovation",
+      "topicId": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "label": "Grassland regeneration",
+      "topicId": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Savanna rejuvenation",
+      "label": "Savanna rejuvenation",
+      "topicId": "Topic:Environment|Life on land|Land ecosystem restoration",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "qnaCount": 1
+    }
+  ]
+}

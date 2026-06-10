@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+    "label": "Research & development",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Agile methodologies",
+      "label": "Agile methodologies",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks",
+      "label": "Collaboration networks",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Cross-disciplinary research",
+      "label": "Cross-disciplinary research",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 23
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Data analytics",
+      "label": "Data analytics",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Experimental design",
+      "label": "Experimental design",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Industry-academia linkages",
+      "label": "Industry-academia linkages",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Innovation clusters",
+      "label": "Innovation clusters",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Intellectual property",
+      "label": "Intellectual property",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "label": "Knowledge exchange",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Market research",
+      "label": "Market research",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Research partnerships",
+      "label": "Research partnerships",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Scientific publications",
+      "label": "Scientific publications",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 29
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Technology scouting",
+      "label": "Technology scouting",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Research & development",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "qnaCount": 1
+    }
+  ]
+}

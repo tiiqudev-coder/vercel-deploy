@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Energy efficient lighting",
+    "label": "Energy efficient lighting",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "label": "Economic viability of energy-efficient lighting",
+      "topicId": "Topic:Environment|Clean energy|Energy efficient lighting",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Life-cycle assessment of lighting technologies",
+      "label": "Life-cycle assessment of lighting technologies",
+      "topicId": "Topic:Environment|Clean energy|Energy efficient lighting",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Light pollution and dark sky initiatives",
+      "label": "Light pollution and dark sky initiatives",
+      "topicId": "Topic:Environment|Clean energy|Energy efficient lighting",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Smart lighting systems",
+      "label": "Smart lighting systems",
+      "topicId": "Topic:Environment|Clean energy|Energy efficient lighting",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "qnaCount": 1
+    }
+  ]
+}

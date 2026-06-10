@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Community solar projects",
+    "label": "Community solar projects",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Community solar projects|Challenges in implementing community solar",
+      "label": "Challenges in implementing community solar",
+      "topicId": "Topic:Environment|Clean energy|Community solar projects",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Community solar projects",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Community solar projects|Community engagement in solar initiatives",
+      "label": "Community engagement in solar initiatives",
+      "topicId": "Topic:Environment|Clean energy|Community solar projects",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Community solar projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Community solar projects|Innovative business models for community solar",
+      "label": "Innovative business models for community solar",
+      "topicId": "Topic:Environment|Clean energy|Community solar projects",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Community solar projects",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Community solar projects|Technological advances in community solar",
+      "label": "Technological advances in community solar",
+      "topicId": "Topic:Environment|Clean energy|Community solar projects",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Community solar projects",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+    "label": "Sustainable agriculture energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation",
+      "label": "Anaerobic digestion for energy generation",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "label": "Biomass energy for agriculture",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "label": "Carbon sequestration in agricultural soils",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Electric tractors and farm machinery",
+      "label": "Electric tractors and farm machinery",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy conservation in food processing",
+      "label": "Energy conservation in food processing",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "label": "Energy-efficient greenhouses",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-optimized crop rotation",
+      "label": "Energy-optimized crop rotation",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Methane capture from livestock",
+      "label": "Methane capture from livestock",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture",
+      "label": "Precision agriculture",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming",
+      "label": "Remote sensing for energy-efficient farming",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "label": "Renewable energy in farm operations",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Smart farming technologies",
+      "label": "Smart farming technologies",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing",
+      "label": "Solar dryers for crop processing",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable biofuel production",
+      "label": "Sustainable biofuel production",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production",
+      "label": "Sustainable fertilizer production",
+      "topicId": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "qnaCount": 2
+    }
+  ]
+}

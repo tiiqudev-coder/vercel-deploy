@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Climate-smart agriculture",
+    "label": "Climate-smart agriculture",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Crop rotation and diversification",
+      "label": "Crop rotation and diversification",
+      "topicId": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Drought-tolerant crop varieties",
+      "label": "Drought-tolerant crop varieties",
+      "topicId": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Farmer adaptation training programs",
+      "label": "Farmer adaptation training programs",
+      "topicId": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Renewable energy use in agriculture",
+      "label": "Renewable energy use in agriculture",
+      "topicId": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "label": "Soil carbon sequestration practices",
+      "topicId": "Topic:Social|Zero hunger|Climate-smart agriculture",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "qnaCount": 2
+    }
+  ]
+}

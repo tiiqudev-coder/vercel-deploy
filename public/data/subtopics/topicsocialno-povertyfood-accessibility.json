@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Food accessibility",
+    "label": "Food accessibility",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Access to seeds and fertilizers",
+      "label": "Access to seeds and fertilizers",
+      "topicId": "Topic:Social|No poverty|Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies",
+      "label": "Agricultural subsidies",
+      "topicId": "Topic:Social|No poverty|Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "label": "Food distribution networks",
+      "topicId": "Topic:Social|No poverty|Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Sustainable farming practices",
+      "label": "Sustainable farming practices",
+      "topicId": "Topic:Social|No poverty|Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives",
+      "label": "Urban agriculture initiatives",
+      "topicId": "Topic:Social|No poverty|Food accessibility",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "qnaCount": 3
+    }
+  ]
+}

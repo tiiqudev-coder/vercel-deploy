@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Social cohesion",
+    "label": "Social cohesion",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Social cohesion|Community building activities",
+      "label": "Community building activities",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Social cohesion",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Social cohesion",
+      "qnaCount": 1
+    }
+  ]
+}

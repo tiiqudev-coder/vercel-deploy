@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+    "label": "Eco-conscious consumerism",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Advocacy for sustainable practices",
+      "label": "Advocacy for sustainable practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Biodegradable household products",
+      "label": "Biodegradable household products",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Conscious clothing purchases",
+      "label": "Conscious clothing purchases",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 65
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Conscious disposal habits",
+      "label": "Conscious disposal habits",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Eco-label awareness",
+      "label": "Eco-label awareness",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation",
+      "label": "Environmental activism participation",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmentally friendly products",
+      "label": "Environmentally friendly products",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Ethical consumer choices",
+      "label": "Ethical consumer choices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Ethical investment choices",
+      "label": "Ethical investment choices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Green transportation options",
+      "label": "Green transportation options",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Locally sourced goods",
+      "label": "Locally sourced goods",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities",
+      "label": "Participating in eco-conscious communities",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Plant-based diet preferences",
+      "label": "Plant-based diet preferences",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Reduced consumption practices",
+      "label": "Reduced consumption practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Renewable energy usage preference",
+      "label": "Renewable energy usage preference",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Secondhand shopping",
+      "label": "Secondhand shopping",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 28
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Support for eco-certified brands",
+      "label": "Support for eco-certified brands",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 20
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Supporting eco-friendly businesses",
+      "label": "Supporting eco-friendly businesses",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Sustainable purchasing habits",
+      "label": "Sustainable purchasing habits",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Sustainable seafood choices",
+      "label": "Sustainable seafood choices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Eco-conscious consumerism",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "qnaCount": 4
+    }
+  ]
+}

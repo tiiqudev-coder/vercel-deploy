@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Food distribution",
+    "label": "Food distribution",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Digital food delivery platforms",
+      "label": "Digital food delivery platforms",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Distribution network optimization",
+      "label": "Distribution network optimization",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs",
+      "label": "Food accessibility programs",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives",
+      "label": "Food banking initiatives",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food security mapping",
+      "label": "Food security mapping",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food storage infrastructure",
+      "label": "Food storage infrastructure",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers",
+      "label": "Market access for farmers",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution",
+      "label": "Nutrition-sensitive food distribution",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "label": "Nutritional labeling awareness",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Retailer collaboration programs",
+      "label": "Retailer collaboration programs",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 32
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "label": "Supply chain management",
+      "topicId": "Topic:Social|Zero hunger|Food distribution",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "qnaCount": 5
+    }
+  ]
+}

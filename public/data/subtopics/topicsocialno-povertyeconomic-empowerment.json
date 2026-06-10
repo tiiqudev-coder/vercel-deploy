@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Economic empowerment",
+    "label": "Economic empowerment",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Economic empowerment|Vocational training programs",
+      "label": "Vocational training programs",
+      "topicId": "Topic:Social|No poverty|Economic empowerment",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Economic empowerment",
+      "qnaCount": 1
+    }
+  ]
+}

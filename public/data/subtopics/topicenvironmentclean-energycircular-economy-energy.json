@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Circular economy energy",
+    "label": "Circular economy energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Circular business models for energy companies",
+      "label": "Circular business models for energy companies",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Circular design in energy infrastructure",
+      "label": "Circular design in energy infrastructure",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Circular economy in energy storage solutions",
+      "label": "Circular economy in energy storage solutions",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Circular supply chains for renewable energy",
+      "label": "Circular supply chains for renewable energy",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Collaborative consumption in energy sector",
+      "label": "Collaborative consumption in energy sector",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Energy recovery from waste",
+      "label": "Energy recovery from waste",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Energy-efficient circular manufacturing",
+      "label": "Energy-efficient circular manufacturing",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Extended producer responsibility in energy",
+      "label": "Extended producer responsibility in energy",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "label": "Life cycle assessment in energy systems",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Recycling and repurposing of energy components",
+      "label": "Recycling and repurposing of energy components",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Sustainable materials for energy production",
+      "label": "Sustainable materials for energy production",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Sustainable mining practices for energy metals",
+      "label": "Sustainable mining practices for energy metals",
+      "topicId": "Topic:Environment|Clean energy|Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "qnaCount": 10
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Female leadership roles",
+    "label": "Female leadership roles",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership",
+      "label": "Cultural barriers to female leadership",
+      "topicId": "Topic:Social|Gender equity|Female leadership roles",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Female executive representation",
+      "label": "Female executive representation",
+      "topicId": "Topic:Social|Gender equity|Female leadership roles",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Gender diversity in boardrooms",
+      "label": "Gender diversity in boardrooms",
+      "topicId": "Topic:Social|Gender equity|Female leadership roles",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "label": "Women in environmental leadership",
+      "topicId": "Topic:Social|Gender equity|Female leadership roles",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "qnaCount": 2
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Conservation farming",
+    "label": "Conservation farming",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Agrobiodiversity conservation",
+      "label": "Agrobiodiversity conservation",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Agroecological farm design",
+      "label": "Agroecological farm design",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Agroforestry techniques",
+      "label": "Agroforestry techniques",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "label": "Biological pest control",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "label": "Carbon sequestration in soils",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "label": "Composting practices",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Cover cropping methods",
+      "label": "Cover cropping methods",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Crop diversity promotion",
+      "label": "Crop diversity promotion",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices",
+      "label": "Crop rotation practices",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Drought-resistant crop cultivation",
+      "label": "Drought-resistant crop cultivation",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Mulching strategies",
+      "label": "Mulching strategies",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Nutrient cycling techniques",
+      "label": "Nutrient cycling techniques",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "label": "Organic farming practices",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Permaculture principles",
+      "label": "Permaculture principles",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies",
+      "label": "Precision agriculture technologies",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "label": "Soil fertility enhancement",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Sustainable livestock integration",
+      "label": "Sustainable livestock integration",
+      "topicId": "Topic:Environment|Life on land|Conservation farming",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "qnaCount": 18
+    }
+  ]
+}

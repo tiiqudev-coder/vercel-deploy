@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+    "label": "Emergency preparedness and response",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment",
+      "label": "Biohazard containment",
+      "topicId": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication",
+      "label": "Crisis communication",
+      "topicId": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "label": "Recovery and rehabilitation",
+      "topicId": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Vulnerable populations care",
+      "label": "Vulnerable populations care",
+      "topicId": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Water and food safety",
+      "label": "Water and food safety",
+      "topicId": "Topic:Social|Good health and well-being|Emergency preparedness and response",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "qnaCount": 2
+    }
+  ]
+}

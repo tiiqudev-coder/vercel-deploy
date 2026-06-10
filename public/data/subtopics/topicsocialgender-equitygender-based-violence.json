@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Gender-based violence",
+    "label": "Gender-based violence",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge",
+      "label": "Cultural norms challenge",
+      "topicId": "Topic:Social|Gender equity|Gender-based violence",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender-based violence",
+      "qnaCount": 4
+    }
+  ]
+}

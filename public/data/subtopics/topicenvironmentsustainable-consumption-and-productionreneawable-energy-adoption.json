@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+    "label": "Reneawable energy adoption",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biofuel production facilities",
+      "label": "Biofuel production facilities",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization",
+      "label": "Biomass energy utilization",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Distributed energy systems",
+      "label": "Distributed energy systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "label": "Feed-in tariffs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Hydropower dam construction",
+      "label": "Hydropower dam construction",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy advocacy and awareness campaigns",
+      "label": "Renewable energy advocacy and awareness campaigns",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy education and training",
+      "label": "Renewable energy education and training",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy financing",
+      "label": "Renewable energy financing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy incentives",
+      "label": "Renewable energy incentives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "label": "Solar photovoltaic systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar thermal power plants",
+      "label": "Solar thermal power plants",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar water heating systems",
+      "label": "Solar water heating systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Wind turbine manufacturing",
+      "label": "Wind turbine manufacturing",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Reneawable energy adoption",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "qnaCount": 1
+    }
+  ]
+}

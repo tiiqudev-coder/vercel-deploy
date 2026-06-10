@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Social protection",
+    "label": "Social protection",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems",
+      "label": "Social security systems",
+      "topicId": "Topic:Social|Decent work and economic growth|Social protection",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Social protection",
+      "qnaCount": 1
+    }
+  ]
+}

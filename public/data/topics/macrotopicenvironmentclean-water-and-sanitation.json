@@ -1,0 +1,170 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Clean water and sanitation",
+    "label": "Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Access to clean drinking water",
+      "label": "Access to clean drinking water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Community water management",
+      "label": "Community water management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "label": "Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Emergency water supply and response",
+      "label": "Emergency water supply and response",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Financing for water and sanitation projects",
+      "label": "Financing for water and sanitation projects",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Household water filtration systems",
+      "label": "Household water filtration systems",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Hygiene education and promotion",
+      "label": "Hygiene education and promotion",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Indigenous water management practices",
+      "label": "Indigenous water management practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Innovative sanitation solutions",
+      "label": "Innovative sanitation solutions",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "label": "Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Rural water supply systems",
+      "label": "Rural water supply systems",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Sanitation infrastructure",
+      "label": "Sanitation infrastructure",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "label": "Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Urban sanitation challenges",
+      "label": "Urban sanitation challenges",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Wastewater treatment",
+      "label": "Wastewater treatment",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "label": "Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water purification techniques",
+      "label": "Water purification techniques",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water quality monitoring",
+      "label": "Water quality monitoring",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Water scarcity mitigation strategies",
+      "label": "Water scarcity mitigation strategies",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    },
+    {
+      "id": "Topic:Environment|Clean water and sanitation|Waterborne diseases prevention",
+      "label": "Waterborne diseases prevention",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation"
+    }
+  ]
+}

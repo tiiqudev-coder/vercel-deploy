@@ -1,0 +1,177 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+    "label": "Production carbon footprint reduction",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Active transportation (walking, cycling)",
+      "label": "Active transportation (walking, cycling)",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies",
+      "label": "Carbon capture and storage technologies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon labeling and disclosure",
+      "label": "Carbon labeling and disclosure",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "label": "Corporate carbon reduction strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Education and awareness campaigns",
+      "label": "Education and awareness campaigns",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Electric vehicle adoption",
+      "label": "Electric vehicle adoption",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "label": "Energy-efficient heating and cooling systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits",
+      "label": "Fuel-efficient driving habits",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Government policies and regulations",
+      "label": "Government policies and regulations",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices",
+      "label": "Green building practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Home energy efficiency improvements",
+      "label": "Home energy efficiency improvements",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Plant-based diets",
+      "label": "Plant-based diets",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Public transportation usage",
+      "label": "Public transportation usage",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Sustainable agriculture methods",
+      "label": "Sustainable agriculture methods",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Waste reduction and recycling",
+      "label": "Waste reduction and recycling",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Production carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "qnaCount": 1
+    }
+  ]
+}

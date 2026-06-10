@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Sustainable agriculture",
+    "label": "Sustainable agriculture",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Agrobiodiversity promotion",
+      "label": "Agrobiodiversity promotion",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecological farming approaches",
+      "label": "Agroecological farming approaches",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building",
+      "label": "Agroecosystem resilience building",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Aquaponics farming systems",
+      "label": "Aquaponics farming systems",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices",
+      "label": "Climate-smart agriculture practices",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Community-supported agriculture",
+      "label": "Community-supported agriculture",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Conservation tillage methods",
+      "label": "Conservation tillage methods",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Cover cropping strategies",
+      "label": "Cover cropping strategies",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems",
+      "label": "Crop rotation systems",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Farmer field schools",
+      "label": "Farmer field schools",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock grazing management",
+      "label": "Livestock grazing management",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management",
+      "label": "Livestock waste management",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems",
+      "label": "Nutrient cycling systems",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies",
+      "label": "Precision farming technologies",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices",
+      "label": "Regenerative agriculture practices",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions",
+      "label": "Small-scale farming solutions",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agri-food systems",
+      "label": "Sustainable agri-food systems",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 34
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models",
+      "label": "Sustainable agroforestry models",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "label": "Sustainable crop varieties",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Water-efficient irrigation",
+      "label": "Water-efficient irrigation",
+      "topicId": "Topic:Environment|Life on land|Sustainable agriculture",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "qnaCount": 1
+    }
+  ]
+}

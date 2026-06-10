@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Equal health services",
+    "label": "Equal health services",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research",
+      "label": "Female-specific health research",
+      "topicId": "Topic:Social|Gender equity|Equal health services",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Obstetric care access",
+      "label": "Obstetric care access",
+      "topicId": "Topic:Social|Gender equity|Equal health services",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services",
+      "qnaCount": 1
+    }
+  ]
+}

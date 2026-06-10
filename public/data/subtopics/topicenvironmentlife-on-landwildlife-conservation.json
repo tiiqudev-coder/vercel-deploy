@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Wildlife conservation",
+    "label": "Wildlife conservation",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts",
+      "label": "Anti-poaching efforts",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Community-based conservation",
+      "label": "Community-based conservation",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Ecological connectivity enhancement",
+      "label": "Ecological connectivity enhancement",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Endangered species protection",
+      "label": "Endangered species protection",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Habitat restoration for wildlife",
+      "label": "Habitat restoration for wildlife",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Species conservation",
+      "label": "Species conservation",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation awareness",
+      "label": "Wildlife conservation awareness",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation funding",
+      "label": "Wildlife conservation funding",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws",
+      "label": "Wildlife conservation laws",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation partnerships",
+      "label": "Wildlife conservation partnerships",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation policies",
+      "label": "Wildlife conservation policies",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "label": "Wildlife conservation training",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation volunteerism",
+      "label": "Wildlife conservation volunteerism",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife disease management",
+      "label": "Wildlife disease management",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement",
+      "label": "Wildlife habitat enhancement",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife population surveys",
+      "label": "Wildlife population surveys",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 26
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife rescue and release",
+      "label": "Wildlife rescue and release",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife sanctuary management",
+      "label": "Wildlife sanctuary management",
+      "topicId": "Topic:Environment|Life on land|Wildlife conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "qnaCount": 1
+    }
+  ]
+}

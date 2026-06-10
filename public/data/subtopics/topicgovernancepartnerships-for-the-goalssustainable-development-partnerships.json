@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+    "label": "Sustainable development partnerships",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global agricultural sustainability",
+      "label": "Global agricultural sustainability",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global clean energy projects",
+      "label": "Global clean energy projects",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global economic development",
+      "label": "Global economic development",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global education programs",
+      "label": "Global education programs",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global environmental conservation",
+      "label": "Global environmental conservation",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 38
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global health initiatives",
+      "label": "Global health initiatives",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global infrastructure development",
+      "label": "Global infrastructure development",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global poverty alleviation",
+      "label": "Global poverty alleviation",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Sustainable development partnerships|Global water resource management",
+      "label": "Global water resource management",
+      "topicId": "Topic:Governance|Partnerships for the goals|Sustainable development partnerships",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Sustainable development partnerships",
+      "qnaCount": 2
+    }
+  ]
+}

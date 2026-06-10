@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Deforestation prevention",
+    "label": "Deforestation prevention",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "label": "Deforestation monitoring",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest canopy protection",
+      "label": "Forest canopy protection",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "label": "Forest conservation policies",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention",
+      "label": "Forest degradation prevention",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "label": "Forest fragmentation mitigation",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "label": "Forest habitat preservation",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest protection laws",
+      "label": "Forest protection laws",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives",
+      "label": "Forest regeneration initiatives",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest resource management",
+      "label": "Forest resource management",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "label": "Forest restoration efforts",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection",
+      "label": "Forest species protection",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Old-growth forest protection",
+      "label": "Old-growth forest protection",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones",
+      "label": "Protected forest zones",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation",
+      "label": "Timber trade regulation",
+      "topicId": "Topic:Environment|Life on land|Deforestation prevention",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "qnaCount": 2
+    }
+  ]
+}

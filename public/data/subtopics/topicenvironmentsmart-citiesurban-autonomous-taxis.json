@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Urban autonomous taxis",
+    "label": "Urban autonomous taxis",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Autonomous vehicle simulation and testing",
+      "label": "Autonomous vehicle simulation and testing",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 21
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Environmental impact of autonomous transportation",
+      "label": "Environmental impact of autonomous transportation",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Last-mile autonomous transport solutions",
+      "label": "Last-mile autonomous transport solutions",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Multi-modal transportation integration",
+      "label": "Multi-modal transportation integration",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Real-time traffic flow optimization for autonomy",
+      "label": "Real-time traffic flow optimization for autonomy",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Regulations and policies for urban autonomous vehicles",
+      "label": "Regulations and policies for urban autonomous vehicles",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Ride-sharing pools with autonomous vehicles",
+      "label": "Ride-sharing pools with autonomous vehicles",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Self-driving public transportation",
+      "label": "Self-driving public transportation",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Urban planning for autonomous vehicle routes",
+      "label": "Urban planning for autonomous vehicle routes",
+      "topicId": "Topic:Environment|Smart cities|Urban autonomous taxis",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "qnaCount": 1
+    }
+  ]
+}

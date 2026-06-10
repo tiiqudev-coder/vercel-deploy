@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Wind farms",
+    "label": "Wind farms",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms",
+      "label": "Hybrid wind and solar farms",
+      "topicId": "Topic:Environment|Clean energy|Wind farms",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife",
+      "label": "Impact of wind farms on wildlife",
+      "topicId": "Topic:Environment|Clean energy|Wind farms",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Wind turbine technology advances",
+      "label": "Wind turbine technology advances",
+      "topicId": "Topic:Environment|Clean energy|Wind farms",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "qnaCount": 1
+    }
+  ]
+}

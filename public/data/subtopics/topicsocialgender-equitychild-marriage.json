@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Child marriage",
+    "label": "Child marriage",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms",
+      "label": "Ending harmful norms",
+      "topicId": "Topic:Social|Gender equity|Child marriage",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Socio-economic factors",
+      "label": "Socio-economic factors",
+      "topicId": "Topic:Social|Gender equity|Child marriage",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage",
+      "qnaCount": 1
+    }
+  ]
+}

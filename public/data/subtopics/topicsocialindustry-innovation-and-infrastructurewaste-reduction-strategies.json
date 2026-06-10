@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+    "label": "Waste reduction strategies",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Circular economy",
+      "label": "Circular economy",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Composting",
+      "label": "Composting",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Green product labeling",
+      "label": "Green product labeling",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste",
+      "label": "Household hazardous waste",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Industrial symbiosis",
+      "label": "Industrial symbiosis",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "label": "Landfill diversion",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Public education",
+      "label": "Public education",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Single-use plastic bans",
+      "label": "Single-use plastic bans",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction",
+      "label": "Source reduction",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Sustainable consumption",
+      "label": "Sustainable consumption",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 61
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste collection infrastructure",
+      "label": "Waste collection infrastructure",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations",
+      "label": "Waste management regulations",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation",
+      "label": "Waste separation",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Zero waste initiatives",
+      "label": "Zero waste initiatives",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Waste reduction strategies",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "qnaCount": 1
+    }
+  ]
+}

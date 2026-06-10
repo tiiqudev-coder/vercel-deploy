@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+    "label": "Water infrastructure",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Backflow prevention devices",
+      "label": "Backflow prevention devices",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "label": "Cathodic protection systems",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Drought resilience",
+      "label": "Drought resilience",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Flood control",
+      "label": "Flood control",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines",
+      "label": "Pipelines",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems",
+      "label": "Pressure regulation systems",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies",
+      "label": "Remote sensing and monitoring technologies",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Reservoirs",
+      "label": "Reservoirs",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Wastewater treatment",
+      "label": "Wastewater treatment",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Water meters",
+      "label": "Water meters",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Water quality",
+      "label": "Water quality",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Water infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "qnaCount": 10
+    }
+  ]
+}

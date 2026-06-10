@@ -1,0 +1,234 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Environment|Clean energy",
+    "label": "Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment"
+  },
+  "topics": [
+    {
+      "id": "Topic:Environment|Clean energy|Biomass energy",
+      "label": "Biomass energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Carbon offset programs",
+      "label": "Carbon offset programs",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Circular economy energy",
+      "label": "Circular economy energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Clean energy integration",
+      "label": "Clean energy integration",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Clean energy skills",
+      "label": "Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Climate resilience",
+      "label": "Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Community solar projects",
+      "label": "Community solar projects",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Distributed energy resources",
+      "label": "Distributed energy resources",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Eco-friendly construction materials",
+      "label": "Eco-friendly construction materials",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy efficient lighting",
+      "label": "Energy efficient lighting",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "label": "Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "label": "Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy management systems",
+      "label": "Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy storage technologies",
+      "label": "Energy storage technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "label": "Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Geothermal energy",
+      "label": "Geothermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Green buildings",
+      "label": "Green buildings",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Hydropower plants",
+      "label": "Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Microgrids",
+      "label": "Microgrids",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Ocean thermal energy",
+      "label": "Ocean thermal energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Renewable energy certification",
+      "label": "Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Smart grid technologies",
+      "label": "Smart grid technologies",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Solar photovoltaic systems",
+      "label": "Solar photovoltaic systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Sustainable agriculture energy",
+      "label": "Sustainable agriculture energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Tidal and wave energy",
+      "label": "Tidal and wave energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "label": "Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Wind farms",
+      "label": "Wind farms",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    },
+    {
+      "id": "Topic:Environment|Clean energy|Wind turbines",
+      "label": "Wind turbines",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy"
+    }
+  ]
+}

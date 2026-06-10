@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+    "label": "Socioeconomic harmony",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "label": "Balanced development",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic equity",
+      "label": "Economic equity",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic inclusivity",
+      "label": "Economic inclusivity",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic justice",
+      "label": "Economic justice",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic stability",
+      "label": "Economic stability",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society",
+      "label": "Harmony in society",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Prosperous society",
+      "label": "Prosperous society",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Social prosperity",
+      "label": "Social prosperity",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration",
+      "label": "Socioeconomic integration",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities",
+      "label": "Socioeconomic opportunities",
+      "topicId": "Topic:Social|Reduced inequalities|Socioeconomic harmony",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "qnaCount": 4
+    }
+  ]
+}

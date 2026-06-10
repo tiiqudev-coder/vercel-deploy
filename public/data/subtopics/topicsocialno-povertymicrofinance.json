@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Microfinance",
+    "label": "Microfinance",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "label": "Agriculture microfinance",
+      "topicId": "Topic:Social|No poverty|Microfinance",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "label": "Peer lending groups",
+      "topicId": "Topic:Social|No poverty|Microfinance",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Village banking initiatives",
+      "label": "Village banking initiatives",
+      "topicId": "Topic:Social|No poverty|Microfinance",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "qnaCount": 1
+    }
+  ]
+}

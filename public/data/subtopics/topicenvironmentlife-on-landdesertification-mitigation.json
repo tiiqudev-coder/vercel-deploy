@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Desertification mitigation",
+    "label": "Desertification mitigation",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Agroforestry practices",
+      "label": "Agroforestry practices",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Climate-resilient farming",
+      "label": "Climate-resilient farming",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Desert climate adaptation",
+      "label": "Desert climate adaptation",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Ecosystem restoration in drylands",
+      "label": "Ecosystem restoration in drylands",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Indigenous plant species use",
+      "label": "Indigenous plant species use",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption",
+      "label": "Permaculture adoption",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems",
+      "label": "Rainwater harvesting systems",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Soil conservation measures",
+      "label": "Soil conservation measures",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Soil erosion prevention",
+      "label": "Soil erosion prevention",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "label": "Sustainable grazing practices",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion",
+      "label": "Vegetation cover expansion",
+      "topicId": "Topic:Environment|Life on land|Desertification mitigation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "qnaCount": 4
+    }
+  ]
+}

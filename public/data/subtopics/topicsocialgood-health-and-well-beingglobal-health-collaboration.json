@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Global health collaboration",
+    "label": "Global health collaboration",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements",
+      "label": "International health agreements",
+      "topicId": "Topic:Social|Good health and well-being|Global health collaboration",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health collaboration",
+      "qnaCount": 3
+    }
+  ]
+}

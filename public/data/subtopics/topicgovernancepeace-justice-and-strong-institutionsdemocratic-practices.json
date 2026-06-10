@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Democratic practices",
+    "label": "Democratic practices",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Democratic governance workshops",
+      "label": "Democratic governance workshops",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Democratic practices",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Democratic practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Public opinion surveys",
+      "label": "Public opinion surveys",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Democratic practices",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Democratic practices",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Youth political engagement programs",
+      "label": "Youth political engagement programs",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Democratic practices",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Democratic practices",
+      "qnaCount": 1
+    }
+  ]
+}

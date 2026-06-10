@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Social justice",
+    "label": "Social justice",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Social justice|Social equity",
+      "label": "Social equity",
+      "topicId": "Topic:Social|Reduced inequalities|Social justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Social justice",
+      "qnaCount": 2
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Urban planning clean energy",
+    "label": "Urban planning clean energy",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Circular economy practices in urban planning",
+      "label": "Circular economy practices in urban planning",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Climate-resilient urban planning",
+      "label": "Climate-resilient urban planning",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Electrification of urban transportation",
+      "label": "Electrification of urban transportation",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Energy-efficient building codes",
+      "label": "Energy-efficient building codes",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Green infrastructure in urban planning",
+      "label": "Green infrastructure in urban planning",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "label": "Incentives for clean energy adoption in cities",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Integration of renewable energy in urban areas",
+      "label": "Integration of renewable energy in urban areas",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities",
+      "label": "Net-zero energy communities",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Smart cities and clean energy",
+      "label": "Smart cities and clean energy",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "label": "Sustainable urban design",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Urban rooftop solar installations",
+      "label": "Urban rooftop solar installations",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Waste-to-energy technologies in urban areas",
+      "label": "Waste-to-energy technologies in urban areas",
+      "topicId": "Topic:Environment|Clean energy|Urban planning clean energy",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "qnaCount": 2
+    }
+  ]
+}

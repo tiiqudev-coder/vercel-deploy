@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Ethical labor practices",
+    "label": "Ethical labor practices",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives",
+      "label": "Carbon farming initiatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Ethical labor practices",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical labor practices",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "macroarea": {
+    "id": "MacroArea:Social",
+    "label": "Social"
+  },
+  "macrotopics": [
+    {
+      "id": "Macrotopic:Social|Decent work and economic growth",
+      "label": "Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Gender equity",
+      "label": "Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Good health and well-being",
+      "label": "Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "label": "Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|No poverty",
+      "label": "No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Quality education",
+      "label": "Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Reduced inequalities",
+      "label": "Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    },
+    {
+      "id": "Macrotopic:Social|Zero hunger",
+      "label": "Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social"
+    }
+  ]
+}

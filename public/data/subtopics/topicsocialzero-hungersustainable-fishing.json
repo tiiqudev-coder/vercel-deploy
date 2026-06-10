@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Sustainable fishing",
+    "label": "Sustainable fishing",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management",
+      "label": "Fish stock management",
+      "topicId": "Topic:Social|Zero hunger|Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fisheries certification",
+      "label": "Fisheries certification",
+      "topicId": "Topic:Social|Zero hunger|Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries",
+      "label": "Research for fisheries",
+      "topicId": "Topic:Social|Zero hunger|Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Responsible seafood consumption",
+      "label": "Responsible seafood consumption",
+      "topicId": "Topic:Social|Zero hunger|Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability",
+      "label": "Seafood traceability",
+      "topicId": "Topic:Social|Zero hunger|Sustainable fishing",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "qnaCount": 3
+    }
+  ]
+}

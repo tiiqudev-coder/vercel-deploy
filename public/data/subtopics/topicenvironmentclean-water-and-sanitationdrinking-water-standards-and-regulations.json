@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+    "label": "Drinking water standards and regulations",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits",
+      "label": "Contaminant level limits",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations",
+      "label": "Disinfection byproduct regulations",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Drinking water guidelines",
+      "label": "Drinking water guidelines",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Health-based targets",
+      "label": "Health-based targets",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels",
+      "label": "Maximum contaminant levels",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Microbial contamination standards",
+      "label": "Microbial contamination standards",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "label": "Quality assurance protocols",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Revision and review processes",
+      "label": "Revision and review processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Risk assessment methodologies",
+      "label": "Risk assessment methodologies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "label": "Sampling frequency regulations",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Treatment process standards",
+      "label": "Treatment process standards",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "label": "Water quality criteria",
+      "topicId": "Topic:Environment|Clean water and sanitation|Drinking water standards and regulations",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "qnaCount": 5
+    }
+  ]
+}

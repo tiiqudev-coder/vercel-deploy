@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Judicial independence",
+    "label": "Judicial independence",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Judicial independence|Judicial autonomy",
+      "label": "Judicial autonomy",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Judicial independence",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Judicial independence",
+      "qnaCount": 1
+    }
+  ]
+}

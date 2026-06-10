@@ -1,0 +1,221 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Species conservation",
+    "label": "Species conservation",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Biodiversity conservation",
+      "label": "Biodiversity conservation",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "label": "Captive breeding programs",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Conservation genetics",
+      "label": "Conservation genetics",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Conservation programs",
+      "label": "Conservation programs",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection",
+      "label": "Endemic species protection",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Invasive species management",
+      "label": "Invasive species management",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation",
+      "label": "Marine species conservation",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Rare species protection",
+      "label": "Rare species protection",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation areas",
+      "label": "Species conservation areas",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "label": "Species conservation policies",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation research",
+      "label": "Species conservation research",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration",
+      "label": "Species habitat restoration",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species population surveys",
+      "label": "Species population surveys",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 33
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "label": "Species protection laws",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "label": "Species recovery efforts",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "label": "Species recovery plans",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Threatened habitat protection",
+      "label": "Threatened habitat protection",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Threatened species",
+      "label": "Threatened species",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Wildlife protection",
+      "label": "Wildlife protection",
+      "topicId": "Topic:Environment|Life below water|Species conservation",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "qnaCount": 1
+    }
+  ]
+}

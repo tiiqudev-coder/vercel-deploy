@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Humanitarian aid",
+    "label": "Humanitarian aid",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation",
+      "label": "Clean water and sanitation",
+      "topicId": "Topic:Social|No poverty|Humanitarian aid",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Humanitarian aid",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Humanitarian aid|Livelihood support programs",
+      "label": "Livelihood support programs",
+      "topicId": "Topic:Social|No poverty|Humanitarian aid",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Humanitarian aid",
+      "qnaCount": 1
+    }
+  ]
+}

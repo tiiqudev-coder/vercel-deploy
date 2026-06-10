@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Climate action for resilience",
+    "label": "Climate action for resilience",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Adaptive water supply systems",
+      "label": "Adaptive water supply systems",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure",
+      "label": "Climate-adaptive agriculture infrastructure",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient housing",
+      "label": "Climate-resilient housing",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient tourism infrastructure",
+      "label": "Climate-resilient tourism infrastructure",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "label": "Climate-resilient transportation systems",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Fire-resistant construction methods",
+      "label": "Fire-resistant construction methods",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings",
+      "label": "Flood-resistant buildings",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Green infrastructure design",
+      "label": "Green infrastructure design",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements",
+      "label": "Heat-resistant pavements",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events",
+      "label": "Infrastructure for extreme weather events",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for landslide mitigation",
+      "label": "Infrastructure for landslide mitigation",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost",
+      "label": "Infrastructure for melting permafrost",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "label": "Infrastructure risk assessment",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Integration of nature-based solutions",
+      "label": "Integration of nature-based solutions",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilience in educational infrastructure",
+      "label": "Resilience in educational infrastructure",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilience of bridges and dams",
+      "label": "Resilience of bridges and dams",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 21
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient healthcare facilities",
+      "label": "Resilient healthcare facilities",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient telecommunication networks",
+      "label": "Resilient telecommunication networks",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient urban planning",
+      "label": "Resilient urban planning",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "label": "Resilient wastewater systems",
+      "topicId": "Topic:Environment|Climate action|Climate action for resilience",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "qnaCount": 3
+    }
+  ]
+}

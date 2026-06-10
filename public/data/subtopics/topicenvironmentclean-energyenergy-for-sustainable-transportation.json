@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+    "label": "Energy for sustainable transportation",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Alternative fuels for transportation",
+      "label": "Alternative fuels for transportation",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Autonomous and connected vehicles",
+      "label": "Autonomous and connected vehicles",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility",
+      "label": "Biofuels for sustainable mobility",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Cycling and pedestrian-friendly infrastructure",
+      "label": "Cycling and pedestrian-friendly infrastructure",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Economic viability of sustainable transportation",
+      "label": "Economic viability of sustainable transportation",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Electric vehicles (evs)",
+      "label": "Electric vehicles (evs)",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Electrified public transportation",
+      "label": "Electrified public transportation",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Green logistics and freight transport",
+      "label": "Green logistics and freight transport",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|High-speed rail for sustainable transportation",
+      "label": "High-speed rail for sustainable transportation",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Hydrogen fuel cell vehicles",
+      "label": "Hydrogen fuel cell vehicles",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Life-cycle analysis of transportation systems",
+      "label": "Life-cycle analysis of transportation systems",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Sustainable aviation and air transport",
+      "label": "Sustainable aviation and air transport",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Sustainable transportation planning",
+      "label": "Sustainable transportation planning",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Sustainable urban mobility",
+      "label": "Sustainable urban mobility",
+      "topicId": "Topic:Environment|Clean energy|Energy for sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "qnaCount": 13
+    }
+  ]
+}

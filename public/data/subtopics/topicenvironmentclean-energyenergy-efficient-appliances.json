@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Energy-efficient appliances",
+    "label": "Energy-efficient appliances",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Advanced insulation technologies",
+      "label": "Advanced insulation technologies",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Economic viability of energy-efficient appliances",
+      "label": "Economic viability of energy-efficient appliances",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards",
+      "label": "Energy consumption labels and standards",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient air conditioning units",
+      "label": "Energy-efficient air conditioning units",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "label": "Energy-efficient ventilation systems",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|High-efficiency washing machines",
+      "label": "High-efficiency washing machines",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Induction cooktops and stoves",
+      "label": "Induction cooktops and stoves",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Life-cycle analysis of appliances",
+      "label": "Life-cycle analysis of appliances",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "label": "Smart home appliance technologies",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Standby power reduction in appliances",
+      "label": "Standby power reduction in appliances",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Sustainable manufacturing practices",
+      "label": "Sustainable manufacturing practices",
+      "topicId": "Topic:Environment|Clean energy|Energy-efficient appliances",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "qnaCount": 8
+    }
+  ]
+}

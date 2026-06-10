@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+    "label": "Resource conservation efforts",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Biodiversity conservation efforts",
+      "label": "Biodiversity conservation efforts",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Carbon sequestration projects",
+      "label": "Carbon sequestration projects",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Climate change mitigation efforts",
+      "label": "Climate change mitigation efforts",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption",
+      "label": "Eco-friendly technology adoption",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization",
+      "label": "Efficient resource utilization",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Energy-saving initiatives",
+      "label": "Energy-saving initiatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Environmental education programs",
+      "label": "Environmental education programs",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Marine conservation efforts",
+      "label": "Marine conservation efforts",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Natural resource stewardship",
+      "label": "Natural resource stewardship",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Recycling and circular economy",
+      "label": "Recycling and circular economy",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Renewable energy promotion",
+      "label": "Renewable energy promotion",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Soil erosion control measures",
+      "label": "Soil erosion control measures",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy",
+      "label": "Sustainable consumption advocacy",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management",
+      "label": "Sustainable land management",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable transportation initiatives",
+      "label": "Sustainable transportation initiatives",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Urban green spaces development",
+      "label": "Urban green spaces development",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Waste reduction strategies",
+      "label": "Waste reduction strategies",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Wildlife protection measures",
+      "label": "Wildlife protection measures",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Resource conservation efforts",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "qnaCount": 1
+    }
+  ]
+}

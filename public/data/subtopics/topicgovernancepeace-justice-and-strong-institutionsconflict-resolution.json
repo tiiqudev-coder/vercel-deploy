@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+    "label": "Conflict resolution",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Conflict transformation",
+      "label": "Conflict transformation",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations",
+      "label": "Diplomatic negotiations",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Multi-stakeholder dialogues",
+      "label": "Multi-stakeholder dialogues",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "qnaCount": 22
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy",
+      "label": "Track ii diplomacy",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Conflict resolution",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Energy for electric vehicles",
+    "label": "Energy for electric vehicles",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Charging station deployment and accessibility",
+      "label": "Charging station deployment and accessibility",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries",
+      "label": "Electric vehicle batteries",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Government incentives for electric vehicles",
+      "label": "Government incentives for electric vehicles",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Lifecycle analysis of electric vehicles",
+      "label": "Lifecycle analysis of electric vehicles",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Public perception and adoption of evs",
+      "label": "Public perception and adoption of evs",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 20
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies",
+      "label": "Range extension technologies",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Recycling and end-of-life management of evs",
+      "label": "Recycling and end-of-life management of evs",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing",
+      "label": "Sustainable materials in ev manufacturing",
+      "topicId": "Topic:Environment|Clean energy|Energy for electric vehicles",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "qnaCount": 4
+    }
+  ]
+}

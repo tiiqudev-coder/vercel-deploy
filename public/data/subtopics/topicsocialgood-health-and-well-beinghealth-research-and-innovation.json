@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Health research and innovation",
+    "label": "Health research and innovation",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "label": "Aging and longevity studies",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Artificial intelligence in health",
+      "label": "Artificial intelligence in health",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Environmental health impact",
+      "label": "Environmental health impact",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "label": "Epidemiological research",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs",
+      "label": "Genetic research breakthroughs",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health behavior studies",
+      "label": "Health behavior studies",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health education methods",
+      "label": "Health education methods",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis",
+      "label": "Health policy analysis",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation",
+      "label": "Medical device innovation",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Mental health therapies",
+      "label": "Mental health therapies",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "label": "Public health studies",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Vaccine development",
+      "label": "Vaccine development",
+      "topicId": "Topic:Social|Good health and well-being|Health research and innovation",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "qnaCount": 1
+    }
+  ]
+}

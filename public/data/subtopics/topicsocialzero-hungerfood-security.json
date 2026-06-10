@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Zero hunger|Food security",
+    "label": "Food security",
+    "macrotopicId": "Macrotopic:Social|Zero hunger",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Zero hunger"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Access to nutritious food",
+      "label": "Access to nutritious food",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities",
+      "label": "Addressing food deserts and inequalities",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Climate-resilient farming practices",
+      "label": "Climate-resilient farming practices",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Diversified food sources",
+      "label": "Diversified food sources",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Early warning systems for food crises",
+      "label": "Early warning systems for food crises",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food price stability measures",
+      "label": "Food price stability measures",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency",
+      "label": "Food sovereignty and self-sufficiency",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Household food availability",
+      "label": "Household food availability",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Nutrition education and awareness",
+      "label": "Nutrition education and awareness",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Resilient agricultural systems",
+      "label": "Resilient agricultural systems",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Sustainable food production",
+      "label": "Sustainable food production",
+      "topicId": "Topic:Social|Zero hunger|Food security",
+      "macrotopicId": "Macrotopic:Social|Zero hunger",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "qnaCount": 9
+    }
+  ]
+}

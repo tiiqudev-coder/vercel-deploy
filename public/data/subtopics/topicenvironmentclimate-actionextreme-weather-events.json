@@ -1,0 +1,309 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Extreme weather events",
+    "label": "Extreme weather events",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Altered el niÃ±o and la niÃ±a patterns",
+      "label": "Altered el niÃ±o and la niÃ±a patterns",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in atmospheric circulation",
+      "label": "Changes in atmospheric circulation",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in atmospheric rivers",
+      "label": "Changes in atmospheric rivers",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "label": "Changes in dust and sandstorms",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in glacial lake outburst floods (glofs)",
+      "label": "Changes in glacial lake outburst floods (glofs)",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in precipitation patterns",
+      "label": "Changes in precipitation patterns",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in snowfall patterns",
+      "label": "Changes in snowfall patterns",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "label": "Changes in thunderstorm patterns",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in tornado patterns",
+      "label": "Changes in tornado patterns",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "label": "Changes in windstorm patterns",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in winter storms",
+      "label": "Changes in winter storms",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "label": "Coastal and inland flooding",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "label": "Expansion of desertification",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Heat-related health impacts",
+      "label": "Heat-related health impacts",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on agricultural growing seasons",
+      "label": "Impact on agricultural growing seasons",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 49
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on biodiversity",
+      "label": "Impact on biodiversity",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 74
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on global hydrological cycle",
+      "label": "Impact on global hydrological cycle",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "label": "Impact on monsoon systems",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Increased frequency of heatwaves",
+      "label": "Increased frequency of heatwaves",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Intense rainfall and flash flooding",
+      "label": "Intense rainfall and flash flooding",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Intensification of hurricanes",
+      "label": "Intensification of hurricanes",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Melting permafrost and landslides",
+      "label": "Melting permafrost and landslides",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Polar vortex disruption",
+      "label": "Polar vortex disruption",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Sea surface temperature anomalies",
+      "label": "Sea surface temperature anomalies",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Shifts in ocean currents",
+      "label": "Shifts in ocean currents",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity",
+      "label": "Tropical cyclone intensity",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency",
+      "label": "Wildfire intensity and frequency",
+      "topicId": "Topic:Environment|Climate action|Extreme weather events",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+    "label": "Climate-proofing projects",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-proof infrastructure design",
+      "label": "Climate-proof infrastructure design",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-resilient buildings",
+      "label": "Climate-resilient buildings",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Disaster risk reduction",
+      "label": "Disaster risk reduction",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Ecosystem restoration",
+      "label": "Ecosystem restoration",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers",
+      "label": "Flood barriers",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Natural disaster preparedness",
+      "label": "Natural disaster preparedness",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Renewable energy deployment",
+      "label": "Renewable energy deployment",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Resilient agriculture",
+      "label": "Resilient agriculture",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Stormwater management",
+      "label": "Stormwater management",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Sustainable forestry practices",
+      "label": "Sustainable forestry practices",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation",
+      "label": "Urban heat islands mitigation",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Water conservation methods",
+      "label": "Water conservation methods",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration",
+      "label": "Wetland restoration",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Climate-proofing projects",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "qnaCount": 2
+    }
+  ]
+}

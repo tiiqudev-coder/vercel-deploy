@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Employment stability",
+    "label": "Employment stability",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Employment stability|Flexible work arrangements",
+      "label": "Flexible work arrangements",
+      "topicId": "Topic:Social|Decent work and economic growth|Employment stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Employment stability",
+      "qnaCount": 1
+    }
+  ]
+}

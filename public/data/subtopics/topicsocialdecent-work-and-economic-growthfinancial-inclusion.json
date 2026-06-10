@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Financial inclusion",
+    "label": "Financial inclusion",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "label": "Access to banking services",
+      "topicId": "Topic:Social|Decent work and economic growth|Financial inclusion",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Digital payment systems",
+      "label": "Digital payment systems",
+      "topicId": "Topic:Social|Decent work and economic growth|Financial inclusion",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Investment opportunities",
+      "label": "Investment opportunities",
+      "topicId": "Topic:Social|Decent work and economic growth|Financial inclusion",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Savings schemes",
+      "label": "Savings schemes",
+      "topicId": "Topic:Social|Decent work and economic growth|Financial inclusion",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Stem education",
+    "label": "Stem education",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Digital literacy skills",
+      "label": "Digital literacy skills",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Environmental stem education",
+      "label": "Environmental stem education",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning",
+      "label": "Inquiry-based learning",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Project-based learning",
+      "label": "Project-based learning",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Robotics curriculum",
+      "label": "Robotics curriculum",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration",
+      "label": "Stem curriculum integration",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem equity initiatives",
+      "label": "Stem equity initiatives",
+      "topicId": "Topic:Social|Quality education|Stem education",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "qnaCount": 1
+    }
+  ]
+}

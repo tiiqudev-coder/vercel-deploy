@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+    "label": "Tech-driven healthcare",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "label": "Ai-assisted diagnostics",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Artificial intelligence in healthcare",
+      "label": "Artificial intelligence in healthcare",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "label": "Digital diagnostics",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital therapeutics",
+      "label": "Digital therapeutics",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Electronic health records",
+      "label": "Electronic health records",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Health tracking wearables",
+      "label": "Health tracking wearables",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "label": "Remote medical imaging",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "label": "Remote surgery techniques",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Teleaudiology services",
+      "label": "Teleaudiology services",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services",
+      "label": "Telepathology services",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices",
+      "label": "Wearable medical devices",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Tech-driven healthcare",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "qnaCount": 2
+    }
+  ]
+}

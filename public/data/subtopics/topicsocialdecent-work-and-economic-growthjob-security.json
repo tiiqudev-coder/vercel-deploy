@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Job security",
+    "label": "Job security",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Job security|Contract stability",
+      "label": "Contract stability",
+      "topicId": "Topic:Social|Decent work and economic growth|Job security",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Job security",
+      "qnaCount": 1
+    }
+  ]
+}

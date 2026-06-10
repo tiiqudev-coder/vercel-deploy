@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+    "label": "Melting ice caps and glaciers",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat",
+      "label": "Arctic sea ice retreat",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial isostatic adjustment",
+      "label": "Glacial isostatic adjustment",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial lake outburst floods (glofs)",
+      "label": "Glacial lake outburst floods (glofs)",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier archaeology and discoveries",
+      "label": "Glacier archaeology and discoveries",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier ecosystem changes",
+      "label": "Glacier ecosystem changes",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance",
+      "label": "Glacier mass balance",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring from space",
+      "label": "Glacier monitoring from space",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "label": "Glacier monitoring technologies",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "label": "Glacier retreat patterns",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact",
+      "label": "Glacier tourism and environmental impact",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier-induced landslides",
+      "label": "Glacier-induced landslides",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice algae and microbial communities",
+      "label": "Ice algae and microbial communities",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "label": "Ice core research for climate history",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems",
+      "label": "Ice meltwater river systems",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice sheet modeling and projections",
+      "label": "Ice sheet modeling and projections",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "label": "Impact on sea level rise",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "label": "Influence on ocean circulation",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release",
+      "label": "Permafrost carbon release",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost thawing",
+      "label": "Permafrost thawing",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration",
+      "label": "Subglacial lake exploration",
+      "topicId": "Topic:Environment|Climate action|Melting ice caps and glaciers",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "qnaCount": 1
+    }
+  ]
+}

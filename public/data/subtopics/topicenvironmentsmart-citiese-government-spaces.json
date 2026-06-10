@@ -1,0 +1,188 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|E-government spaces",
+    "label": "E-government spaces",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Blockchain for secure government transactions",
+      "label": "Blockchain for secure government transactions",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Civic engagement platforms for government-community interaction",
+      "label": "Civic engagement platforms for government-community interaction",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital educational services",
+      "label": "Digital educational services",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital records management",
+      "label": "Digital records management",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery",
+      "label": "Digital social services delivery",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|E-commerce platforms for government procurement",
+      "label": "E-commerce platforms for government procurement",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|E-health services and telemedicine",
+      "label": "E-health services and telemedicine",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|E-voting platforms",
+      "label": "E-voting platforms",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Electronic document submission",
+      "label": "Electronic document submission",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning",
+      "label": "Geospatial information systems (gis) for government planning",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "label": "Government chatbots for citizen assistance",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government social media engagement",
+      "label": "Government social media engagement",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Online public consultations",
+      "label": "Online public consultations",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "label": "Open data platforms for government transparency",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "label": "Smart public safety reporting apps",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Virtual town hall meetings",
+      "label": "Virtual town hall meetings",
+      "topicId": "Topic:Environment|Smart cities|E-government spaces",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "qnaCount": 1
+    }
+  ]
+}

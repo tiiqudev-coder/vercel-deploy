@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+    "label": "Water conservation practices",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Behavior change campaigns",
+      "label": "Behavior change campaigns",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Community water conservation",
+      "label": "Community water conservation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Drought-tolerant crop cultivation",
+      "label": "Drought-tolerant crop cultivation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Efficient industrial processes",
+      "label": "Efficient industrial processes",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Efficient irrigation techniques",
+      "label": "Efficient irrigation techniques",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Public education programs",
+      "label": "Public education programs",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Water metering systems",
+      "label": "Water metering systems",
+      "topicId": "Topic:Environment|Clean water and sanitation|Water conservation practices",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "qnaCount": 1
+    }
+  ]
+}

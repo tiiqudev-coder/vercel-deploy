@@ -1,0 +1,210 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Waste management",
+    "label": "Waste management",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Advanced analytics for waste forecasting",
+      "label": "Advanced analytics for waste forecasting",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Automated waste collection systems",
+      "label": "Automated waste collection systems",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Blockchain for transparent waste transactions",
+      "label": "Blockchain for transparent waste transactions",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Circular economy practices in waste management",
+      "label": "Circular economy practices in waste management",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Community-based waste cleanup initiatives",
+      "label": "Community-based waste cleanup initiatives",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Data-driven waste management policies",
+      "label": "Data-driven waste management policies",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|E-waste management solutions",
+      "label": "E-waste management solutions",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Gps-enabled waste collection routes",
+      "label": "Gps-enabled waste collection routes",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Intelligent waste disposal units",
+      "label": "Intelligent waste disposal units",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|IoT-enabled waste collection",
+      "label": "IoT-enabled waste collection",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Municipal solid waste (msw) analytics",
+      "label": "Municipal solid waste (msw) analytics",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Public awareness programs on responsible disposal",
+      "label": "Public awareness programs on responsible disposal",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills",
+      "label": "Real-time monitoring of landfills",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Rfid-based waste tracking",
+      "label": "Rfid-based waste tracking",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Smart waste bin location optimization",
+      "label": "Smart waste bin location optimization",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Waste reduction campaigns",
+      "label": "Waste reduction campaigns",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Waste segregation at source",
+      "label": "Waste segregation at source",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Waste sorting technologies",
+      "label": "Waste sorting technologies",
+      "topicId": "Topic:Environment|Smart cities|Waste management",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "qnaCount": 1
+    }
+  ]
+}

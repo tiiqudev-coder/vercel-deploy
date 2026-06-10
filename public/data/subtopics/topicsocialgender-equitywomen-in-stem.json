@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Gender equity|Women in stem",
+    "label": "Women in stem",
+    "macrotopicId": "Macrotopic:Social|Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Gender equity"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Diversity in stem workforce",
+      "label": "Diversity in stem workforce",
+      "topicId": "Topic:Social|Gender equity|Women in stem",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Gender bias in stem",
+      "label": "Gender bias in stem",
+      "topicId": "Topic:Social|Gender equity|Women in stem",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Gender equity in stem fields",
+      "label": "Gender equity in stem fields",
+      "topicId": "Topic:Social|Gender equity|Women in stem",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem",
+      "qnaCount": 1
+    }
+  ]
+}

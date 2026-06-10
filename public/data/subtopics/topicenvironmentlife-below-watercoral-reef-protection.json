@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Coral reef protection",
+    "label": "Coral reef protection",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Bleaching prevention",
+      "label": "Bleaching prevention",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Climate resilience",
+      "label": "Climate resilience",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "label": "Coral disease control",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration",
+      "label": "Coral reef restoration",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Ecosystem preservation",
+      "label": "Ecosystem preservation",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Predation management",
+      "label": "Predation management",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "label": "Reef mapping",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring",
+      "label": "Reef monitoring",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research",
+      "label": "Scientific research",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Sustainable fishing",
+      "label": "Sustainable fishing",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "label": "Threat assessment",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "label": "Water quality management",
+      "topicId": "Topic:Environment|Life below water|Coral reef protection",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "qnaCount": 2
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Equal opportunities",
+    "label": "Equal opportunities",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction",
+      "label": "Socioeconomic inequality reduction",
+      "topicId": "Topic:Social|Decent work and economic growth|Equal opportunities",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Equal opportunities",
+      "qnaCount": 1
+    }
+  ]
+}

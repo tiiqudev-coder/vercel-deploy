@@ -1,0 +1,155 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+    "label": "Sustainable water resource management",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies",
+      "label": "Ecosystem preservation strategies",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Green infrastructure planning",
+      "label": "Green infrastructure planning",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Nature-based solutions",
+      "label": "Nature-based solutions",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "label": "Rainwater harvesting methods",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Renewable water sources",
+      "label": "Renewable water sources",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "label": "River basin management",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Sustainable development goals",
+      "label": "Sustainable development goals",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Sustainable water governance",
+      "label": "Sustainable water governance",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water conservation measures",
+      "label": "Water conservation measures",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water demand management",
+      "label": "Water demand management",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water footprint reduction",
+      "label": "Water footprint reduction",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus",
+      "label": "Water-energy nexus",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Wetland restoration efforts",
+      "label": "Wetland restoration efforts",
+      "topicId": "Topic:Environment|Clean water and sanitation|Sustainable water resource management",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "qnaCount": 1
+    }
+  ]
+}

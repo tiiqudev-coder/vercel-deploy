@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Unmapped Macrotopic|Unknown Macrotopic|Unknown Topic",
+    "label": "Unknown Topic",
+    "macrotopicId": "Macrotopic:Unmapped Macrotopic|Unknown Macrotopic",
+    "macroareaId": "MacroArea:Unmapped Macrotopic",
+    "macroArea": "Unmapped Macrotopic",
+    "macrotopic": "Unknown Macrotopic"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Unmapped Macrotopic|Unknown Macrotopic|Unknown Topic|Unknown Subtopic",
+      "label": "Unknown Subtopic",
+      "topicId": "Topic:Unmapped Macrotopic|Unknown Macrotopic|Unknown Topic",
+      "macrotopicId": "Macrotopic:Unmapped Macrotopic|Unknown Macrotopic",
+      "macroareaId": "MacroArea:Unmapped Macrotopic",
+      "macroArea": "Unmapped Macrotopic",
+      "macrotopic": "Unknown Macrotopic",
+      "topic": "Unknown Topic",
+      "qnaCount": 446
+    }
+  ]
+}

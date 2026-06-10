@@ -1,0 +1,177 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+    "label": "Green manufacturing",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Biomaterials usage",
+      "label": "Biomaterials usage",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "label": "Carbon emission reduction",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production",
+      "label": "Clean production",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes",
+      "label": "Energy-efficient processes",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Green supply chain",
+      "label": "Green supply chain",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Low carbon footprint",
+      "label": "Low carbon footprint",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "label": "Pollution control",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Renewable energy usage",
+      "label": "Renewable energy usage",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design",
+      "label": "Sustainable design",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable materials",
+      "label": "Sustainable materials",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable operations",
+      "label": "Sustainable operations",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable sourcing",
+      "label": "Sustainable sourcing",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation",
+      "label": "Sustainable transportation",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Waste reduction",
+      "label": "Waste reduction",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "label": "Water conservation",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Green manufacturing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Wildlife corridor conservation",
+    "label": "Wildlife corridor conservation",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures",
+      "label": "Barrier mitigation measures",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones",
+      "label": "Corridor buffer zones",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "label": "Ecosystem connectivity plans",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives",
+      "label": "Green corridor initiatives",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Habitat fragmentation reduction",
+      "label": "Habitat fragmentation reduction",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Landscape connectivity",
+      "label": "Landscape connectivity",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "label": "Road ecology measures",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Urban wildlife linkages",
+      "label": "Urban wildlife linkages",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 55
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor mapping",
+      "label": "Wildlife corridor mapping",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "label": "Wildlife corridor surveys",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife movement studies",
+      "label": "Wildlife movement studies",
+      "topicId": "Topic:Environment|Life on land|Wildlife corridor conservation",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "qnaCount": 14
+    }
+  ]
+}

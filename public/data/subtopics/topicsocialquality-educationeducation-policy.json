@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Education policy",
+    "label": "Education policy",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Education policy|Education governance",
+      "label": "Education governance",
+      "topicId": "Topic:Social|Quality education|Education policy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education policy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education policy|Equity measures",
+      "label": "Equity measures",
+      "topicId": "Topic:Social|Quality education|Education policy",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education policy",
+      "qnaCount": 2
+    }
+  ]
+}

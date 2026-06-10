@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+    "label": "Green manufacturing methods",
+    "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Sustainable consumption and production"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Continuous improvement in sustainability",
+      "label": "Continuous improvement in sustainability",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles",
+      "label": "Eco-design principles",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Energy-efficient machinery",
+      "label": "Energy-efficient machinery",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Environmental management systems",
+      "label": "Environmental management systems",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Environmental performance monitoring",
+      "label": "Environmental performance monitoring",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Green chemistry practices",
+      "label": "Green chemistry practices",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Life cycle assessment",
+      "label": "Life cycle assessment",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories",
+      "label": "Renewable energy-powered factories",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Waste reduction techniques",
+      "label": "Waste reduction techniques",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Worker safety enhancement",
+      "label": "Worker safety enhancement",
+      "topicId": "Topic:Environment|Sustainable consumption and production|Green manufacturing methods",
+      "macrotopicId": "Macrotopic:Environment|Sustainable consumption and production",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "qnaCount": 1
+    }
+  ]
+}

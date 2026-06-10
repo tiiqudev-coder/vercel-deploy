@@ -1,0 +1,122 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Gender equity",
+    "label": "Gender equity",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Gender equity|Child marriage",
+      "label": "Child marriage",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Cultural norms",
+      "label": "Cultural norms",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Equal economic opportunities",
+      "label": "Equal economic opportunities",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Equal health services",
+      "label": "Equal health services",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Family planning",
+      "label": "Family planning",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Female leadership roles",
+      "label": "Female leadership roles",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Female media representation",
+      "label": "Female media representation",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Female political representation",
+      "label": "Female political representation",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Gender identity",
+      "label": "Gender identity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Gender-based violence",
+      "label": "Gender-based violence",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Reproductive rights",
+      "label": "Reproductive rights",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Social stereotypes",
+      "label": "Social stereotypes",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Women in stem",
+      "label": "Women in stem",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    },
+    {
+      "id": "Topic:Social|Gender equity|Workforce equity",
+      "label": "Workforce equity",
+      "macrotopicId": "Macrotopic:Social|Gender equity",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity"
+    }
+  ]
+}

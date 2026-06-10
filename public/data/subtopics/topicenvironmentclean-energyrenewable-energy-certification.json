@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Renewable energy certification",
+    "label": "Renewable energy certification",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Clean energy credit rating",
+      "label": "Clean energy credit rating",
+      "topicId": "Topic:Environment|Clean energy|Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "label": "Environmental product declarations (epd)",
+      "topicId": "Topic:Environment|Clean energy|Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Fair trade certification for clean energy",
+      "label": "Fair trade certification for clean energy",
+      "topicId": "Topic:Environment|Clean energy|Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Renewable energy supply chain certification",
+      "label": "Renewable energy supply chain certification",
+      "topicId": "Topic:Environment|Clean energy|Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Sustainability standards for renewable energy",
+      "label": "Sustainability standards for renewable energy",
+      "topicId": "Topic:Environment|Clean energy|Renewable energy certification",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+    "label": "Public health interventions related to water",
+    "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean water and sanitation"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Behavior change initiatives",
+      "label": "Behavior change initiatives",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Cross-sectoral collaborations",
+      "label": "Cross-sectoral collaborations",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Disease outbreak public response",
+      "label": "Disease outbreak public response",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations",
+      "label": "Epidemiological investigations",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Health equity initiatives",
+      "label": "Health equity initiatives",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Health impact assessments",
+      "label": "Health impact assessments",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Water contamination mitigation",
+      "label": "Water contamination mitigation",
+      "topicId": "Topic:Environment|Clean water and sanitation|Public health interventions related to water",
+      "macrotopicId": "Macrotopic:Environment|Clean water and sanitation",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "qnaCount": 1
+    }
+  ]
+}

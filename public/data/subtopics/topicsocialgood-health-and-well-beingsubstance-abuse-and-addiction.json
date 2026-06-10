@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Substance abuse and addiction",
+    "label": "Substance abuse and addiction",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Substance abuse and addiction|Peer pressure effects",
+      "label": "Peer pressure effects",
+      "topicId": "Topic:Social|Good health and well-being|Substance abuse and addiction",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Substance abuse and addiction",
+      "qnaCount": 1
+    }
+  ]
+}

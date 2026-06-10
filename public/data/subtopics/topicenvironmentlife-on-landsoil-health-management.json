@@ -1,0 +1,254 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life on land|Soil health management",
+    "label": "Soil health management",
+    "macrotopicId": "Macrotopic:Environment|Life on land",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life on land"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil amendment application",
+      "label": "Soil amendment application",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation",
+      "label": "Soil biodiversity conservation",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration",
+      "label": "Soil carbon sequestration",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "label": "Soil compaction reduction",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil conservation policies",
+      "label": "Soil conservation policies",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil contamination remediation",
+      "label": "Soil contamination remediation",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil cover cropping",
+      "label": "Soil cover cropping",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control",
+      "label": "Soil erosion control",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fertility improvement",
+      "label": "Soil fertility improvement",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fertility testing",
+      "label": "Soil fertility testing",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "label": "Soil fungi promotion",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil health assessment",
+      "label": "Soil health assessment",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil health monitoring",
+      "label": "Soil health monitoring",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "label": "Soil microbial activity enhancement",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial diversity",
+      "label": "Soil microbial diversity",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 20
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "label": "Soil moisture retention",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement",
+      "label": "Soil organic matter enhancement",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "label": "Soil ph balancing",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "label": "Soil resilience building",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "label": "Soil structure improvement",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction",
+      "label": "Soil tillage reduction",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "label": "Soil water infiltration enhancement",
+      "topicId": "Topic:Environment|Life on land|Soil health management",
+      "macrotopicId": "Macrotopic:Environment|Life on land",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "qnaCount": 2
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Seafood promotion",
+    "label": "Seafood promotion",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Fishermen's markets",
+      "label": "Fishermen's markets",
+      "topicId": "Topic:Environment|Life below water|Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns",
+      "label": "Local fish campaigns",
+      "topicId": "Topic:Environment|Life below water|Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns",
+      "label": "Seafood awareness campaigns",
+      "topicId": "Topic:Environment|Life below water|Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood nutrition education",
+      "label": "Seafood nutrition education",
+      "topicId": "Topic:Environment|Life below water|Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood sustainability labels",
+      "label": "Seafood sustainability labels",
+      "topicId": "Topic:Environment|Life below water|Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Sustainable seafood",
+      "label": "Sustainable seafood",
+      "topicId": "Topic:Environment|Life below water|Seafood promotion",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "qnaCount": 1
+    }
+  ]
+}

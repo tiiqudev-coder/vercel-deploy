@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+    "label": "Resilient infrastructure",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Energy efficient buildings",
+      "label": "Energy efficient buildings",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Rural connectivity",
+      "label": "Rural connectivity",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Sewage treatment advances",
+      "label": "Sewage treatment advances",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology",
+      "label": "Smart grid technology",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Sustainable materials use",
+      "label": "Sustainable materials use",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Urban water management",
+      "label": "Urban water management",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions",
+      "label": "Waste management solutions",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Resilient infrastructure",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "qnaCount": 4
+    }
+  ]
+}

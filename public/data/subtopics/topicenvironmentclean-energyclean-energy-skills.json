@@ -1,0 +1,67 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Clean energy skills",
+    "label": "Clean energy skills",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy skills|Data analytics for energy efficiency",
+      "label": "Data analytics for energy efficiency",
+      "topicId": "Topic:Environment|Clean energy|Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy skills",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy skills|Energy policy and regulation understanding",
+      "label": "Energy policy and regulation understanding",
+      "topicId": "Topic:Environment|Clean energy|Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy skills",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy skills|Environmental impact assessment training",
+      "label": "Environmental impact assessment training",
+      "topicId": "Topic:Environment|Clean energy|Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy skills",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy skills|Geographic information system (gis) skills",
+      "label": "Geographic information system (gis) skills",
+      "topicId": "Topic:Environment|Clean energy|Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy skills",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy skills|Sustainable building design skills",
+      "label": "Sustainable building design skills",
+      "topicId": "Topic:Environment|Clean energy|Clean energy skills",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy skills",
+      "qnaCount": 2
+    }
+  ]
+}

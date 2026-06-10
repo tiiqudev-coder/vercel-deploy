@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Energy management systems",
+    "label": "Energy management systems",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Automated energy control systems",
+      "label": "Automated energy control systems",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Demand response systems",
+      "label": "Demand response systems",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Demand-side management",
+      "label": "Demand-side management",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Energy efficiency monitoring",
+      "label": "Energy efficiency monitoring",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Grid optimization technologies",
+      "label": "Grid optimization technologies",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "label": "Home energy management systems",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Industrial energy management",
+      "label": "Industrial energy management",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms",
+      "label": "Intelligent energy management algorithms",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics",
+      "label": "Predictive energy analytics",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "label": "Real-time energy analytics",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|User interface and user experience in ems",
+      "label": "User interface and user experience in ems",
+      "topicId": "Topic:Environment|Clean energy|Energy management systems",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "qnaCount": 11
+    }
+  ]
+}

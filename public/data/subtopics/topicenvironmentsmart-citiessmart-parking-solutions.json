@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|Smart parking solutions",
+    "label": "Smart parking solutions",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "label": "Collaboration with ride-sharing services",
+      "topicId": "Topic:Environment|Smart cities|Smart parking solutions",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Integration with urban planning for parking optimization",
+      "label": "Integration with urban planning for parking optimization",
+      "topicId": "Topic:Environment|Smart cities|Smart parking solutions",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access",
+      "label": "License plate recognition for parking access",
+      "topicId": "Topic:Environment|Smart cities|Smart parking solutions",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data",
+      "label": "Parking space utilization data",
+      "topicId": "Topic:Environment|Smart cities|Smart parking solutions",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "qnaCount": 1
+    }
+  ]
+}

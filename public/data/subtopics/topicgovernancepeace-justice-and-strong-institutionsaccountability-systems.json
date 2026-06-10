@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+    "label": "Accountability systems",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Accountability systems|Accountability reporting frameworks",
+      "label": "Accountability reporting frameworks",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Accountability systems",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Accountability systems|Corporate accountability standards",
+      "label": "Corporate accountability standards",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Accountability systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Accountability systems|Independent oversight bodies",
+      "label": "Independent oversight bodies",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Accountability systems",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Accountability systems|Performance evaluation systems",
+      "label": "Performance evaluation systems",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Accountability systems",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Accountability systems",
+      "qnaCount": 1
+    }
+  ]
+}

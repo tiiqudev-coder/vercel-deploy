@@ -1,0 +1,138 @@
+{
+  "macrotopic": {
+    "id": "Macrotopic:Social|Decent work and economic growth",
+    "label": "Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social"
+  },
+  "topics": [
+    {
+      "id": "Topic:Social|Decent work and economic growth|Decent work",
+      "label": "Decent work",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Economic growth",
+      "label": "Economic growth",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Economic stability",
+      "label": "Economic stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Employment stability",
+      "label": "Employment stability",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Entrepreneurship",
+      "label": "Entrepreneurship",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Equal opportunities",
+      "label": "Equal opportunities",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Fair wages",
+      "label": "Fair wages",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Financial inclusion",
+      "label": "Financial inclusion",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Full employment",
+      "label": "Full employment",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Gender equality",
+      "label": "Gender equality",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Job security",
+      "label": "Job security",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Labor rights",
+      "label": "Labor rights",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Quality jobs",
+      "label": "Quality jobs",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Safe working conditions",
+      "label": "Safe working conditions",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Social protection",
+      "label": "Social protection",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    },
+    {
+      "id": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "label": "Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth"
+    }
+  ]
+}

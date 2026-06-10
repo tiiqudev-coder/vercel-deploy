@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Access to education",
+    "label": "Access to education",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Indigenous education initiatives",
+      "label": "Indigenous education initiatives",
+      "topicId": "Topic:Social|No poverty|Access to education",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment",
+      "label": "Secondary school enrollment",
+      "topicId": "Topic:Social|No poverty|Access to education",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Teacher training programs",
+      "label": "Teacher training programs",
+      "topicId": "Topic:Social|No poverty|Access to education",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "qnaCount": 3
+    }
+  ]
+}

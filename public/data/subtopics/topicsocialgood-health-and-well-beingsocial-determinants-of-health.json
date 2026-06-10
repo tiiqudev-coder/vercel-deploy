@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Social determinants of health",
+    "label": "Social determinants of health",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Aging and social health",
+      "label": "Aging and social health",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Climate change & health",
+      "label": "Climate change & health",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "label": "Environmental quality",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition",
+      "label": "Food security & nutrition",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Global health inequities",
+      "label": "Global health inequities",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access",
+      "label": "Public transportation access",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Racial health disparities",
+      "label": "Racial health disparities",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Rural health challenges",
+      "label": "Rural health challenges",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Technology & health access",
+      "label": "Technology & health access",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health",
+      "label": "Urbanization and health",
+      "topicId": "Topic:Social|Good health and well-being|Social determinants of health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "qnaCount": 2
+    }
+  ]
+}

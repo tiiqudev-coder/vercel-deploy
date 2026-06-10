@@ -1,0 +1,133 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+    "label": "Greenhouse gas emission reduction",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)",
+      "label": "Carbon capture and storage (ccs)",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon trading and market mechanisms",
+      "label": "Carbon trading and market mechanisms",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 24
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems",
+      "label": "Decentralized renewable energy systems",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Energy conservation in manufacturing",
+      "label": "Energy conservation in manufacturing",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Energy efficiency measures",
+      "label": "Energy efficiency measures",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Green finance for ghg reduction projects",
+      "label": "Green finance for ghg reduction projects",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 19
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Livestock methane reduction",
+      "label": "Livestock methane reduction",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Low-carbon agriculture practices",
+      "label": "Low-carbon agriculture practices",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies",
+      "label": "Methane emission reduction strategies",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Renewable energy transition",
+      "label": "Renewable energy transition",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 17
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Sustainable transportation solutions",
+      "label": "Sustainable transportation solutions",
+      "topicId": "Topic:Environment|Climate action|Greenhouse gas emission reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "qnaCount": 9
+    }
+  ]
+}

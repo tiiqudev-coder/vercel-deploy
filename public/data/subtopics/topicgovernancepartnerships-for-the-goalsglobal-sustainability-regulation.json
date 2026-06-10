@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+    "label": "Global sustainability regulation",
+    "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Partnerships for the goals"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Climate change agreements",
+      "label": "Climate change agreements",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "label": "Conservation treaties",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations",
+      "label": "Ecological regulations",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols",
+      "label": "Emission reduction protocols",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Environmental policy frameworks",
+      "label": "Environmental policy frameworks",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Waste management guidelines",
+      "label": "Waste management guidelines",
+      "topicId": "Topic:Governance|Partnerships for the goals|Global sustainability regulation",
+      "macrotopicId": "Macrotopic:Governance|Partnerships for the goals",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "qnaCount": 3
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Governance|Peace, justice and strong institutions|Human rights",
+    "label": "Human rights",
+    "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+    "macroareaId": "MacroArea:Governance",
+    "macroArea": "Governance",
+    "macrotopic": "Peace, justice and strong institutions"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Freedom of expression",
+      "label": "Freedom of expression",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Human rights",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Human rights",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Indigenous rights advocacy",
+      "label": "Indigenous rights advocacy",
+      "topicId": "Topic:Governance|Peace, justice and strong institutions|Human rights",
+      "macrotopicId": "Macrotopic:Governance|Peace, justice and strong institutions",
+      "macroareaId": "MacroArea:Governance",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Human rights",
+      "qnaCount": 1
+    }
+  ]
+}

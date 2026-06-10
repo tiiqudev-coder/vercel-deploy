@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Aquaculture practices",
+    "label": "Aquaculture practices",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology",
+      "label": "Biofloc technology",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture",
+      "label": "Cage culture",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Closed-loop aquaculture",
+      "label": "Closed-loop aquaculture",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Mariculture techniques",
+      "label": "Mariculture techniques",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Microalgae cultivation",
+      "label": "Microalgae cultivation",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 37
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "label": "Polyculture systems",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming",
+      "label": "Seaweed farming",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "label": "Shellfish hatcheries",
+      "topicId": "Topic:Environment|Life below water|Aquaculture practices",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "qnaCount": 3
+    }
+  ]
+}

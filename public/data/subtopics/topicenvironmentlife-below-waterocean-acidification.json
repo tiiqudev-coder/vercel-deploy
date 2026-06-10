@@ -1,0 +1,144 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Ocean acidification",
+    "label": "Ocean acidification",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic conditions",
+      "label": "Acidic conditions",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "label": "Acidic ecosystems",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "label": "Acidic seawater",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts",
+      "label": "Acidification impacts",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "label": "Acidification modeling",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Calcifying plankton",
+      "label": "Calcifying plankton",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Carbon dioxide",
+      "label": "Carbon dioxide",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Carbon emissions",
+      "label": "Carbon emissions",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Carbonic acid",
+      "label": "Carbonic acid",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Coral bleaching",
+      "label": "Coral bleaching",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "label": "Ocean acidification effects",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification research",
+      "label": "Ocean acidification research",
+      "topicId": "Topic:Environment|Life below water|Ocean acidification",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "qnaCount": 1
+    }
+  ]
+}

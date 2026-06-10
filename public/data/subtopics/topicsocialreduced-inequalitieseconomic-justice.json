@@ -1,0 +1,45 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Economic justice",
+    "label": "Economic justice",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Community involvement",
+      "label": "Community involvement",
+      "topicId": "Topic:Social|Reduced inequalities|Economic justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Inclusive development",
+      "label": "Inclusive development",
+      "topicId": "Topic:Social|Reduced inequalities|Economic justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Social integration",
+      "label": "Social integration",
+      "topicId": "Topic:Social|Reduced inequalities|Economic justice",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice",
+      "qnaCount": 1
+    }
+  ]
+}

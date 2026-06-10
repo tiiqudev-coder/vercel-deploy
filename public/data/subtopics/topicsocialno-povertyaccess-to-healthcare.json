@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Access to healthcare",
+    "label": "Access to healthcare",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Access to healthcare|Rural healthcare access",
+      "label": "Rural healthcare access",
+      "topicId": "Topic:Social|No poverty|Access to healthcare",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to healthcare",
+      "qnaCount": 1
+    }
+  ]
+}

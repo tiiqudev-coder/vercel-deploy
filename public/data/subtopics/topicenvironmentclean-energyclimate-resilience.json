@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Climate resilience",
+    "label": "Climate resilience",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes",
+      "label": "Climate-resilient building codes",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "label": "Climate-resilient energy systems",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities",
+      "label": "Disaster preparedness for energy facilities",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "label": "Extreme weather preparedness for energy",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems",
+      "label": "Heatwave resilience in energy systems",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "label": "Renewable energy for remote and vulnerable areas",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Resilience planning for energy infrastructure",
+      "label": "Resilience planning for energy infrastructure",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning",
+      "label": "Social equity in climate resilience planning",
+      "topicId": "Topic:Environment|Clean energy|Climate resilience",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "qnaCount": 2
+    }
+  ]
+}

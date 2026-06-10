@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+    "label": "Sustainable enterprises",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Biodiversity preservation measures",
+      "label": "Biodiversity preservation measures",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Carbon footprint reduction",
+      "label": "Carbon footprint reduction",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Corporate social responsibility",
+      "label": "Corporate social responsibility",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Eco-friendly product design",
+      "label": "Eco-friendly product design",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "label": "Green procurement practices",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Sustainable supply chain management",
+      "label": "Sustainable supply chain management",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Waste management strategies",
+      "label": "Waste management strategies",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts",
+      "label": "Water conservation efforts",
+      "topicId": "Topic:Social|Decent work and economic growth|Sustainable enterprises",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "qnaCount": 3
+    }
+  ]
+}

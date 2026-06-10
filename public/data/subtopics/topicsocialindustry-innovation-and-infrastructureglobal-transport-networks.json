@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+    "label": "Global transport networks",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport",
+      "label": "Cross-regional transport",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Freight transport",
+      "label": "Freight transport",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Global supply chains",
+      "label": "Global supply chains",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Global trade routes",
+      "label": "Global trade routes",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade",
+      "label": "International trade",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Maritime routes",
+      "label": "Maritime routes",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "label": "Multimodal freight",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Trade corridors",
+      "label": "Trade corridors",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Transnational transport",
+      "label": "Transnational transport",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Global transport networks",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "qnaCount": 3
+    }
+  ]
+}

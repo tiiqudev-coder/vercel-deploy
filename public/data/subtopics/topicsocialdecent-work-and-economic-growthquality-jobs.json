@@ -1,0 +1,34 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Quality jobs",
+    "label": "Quality jobs",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Quality jobs|Living wages",
+      "label": "Living wages",
+      "topicId": "Topic:Social|Decent work and economic growth|Quality jobs",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Quality jobs",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Quality jobs|Work-life balance",
+      "label": "Work-life balance",
+      "topicId": "Topic:Social|Decent work and economic growth|Quality jobs",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Quality jobs",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Child and adolescent health",
+    "label": "Child and adolescent health",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child dental care",
+      "label": "Child dental care",
+      "topicId": "Topic:Social|Good health and well-being|Child and adolescent health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages",
+      "label": "Child development stages",
+      "topicId": "Topic:Social|Good health and well-being|Child and adolescent health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Pediatric infectious diseases",
+      "label": "Pediatric infectious diseases",
+      "topicId": "Topic:Social|Good health and well-being|Child and adolescent health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Youth tobacco prevention",
+      "label": "Youth tobacco prevention",
+      "topicId": "Topic:Social|Good health and well-being|Child and adolescent health",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "topic": {
+    "id": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+    "label": "Infrastructure financing",
+    "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Industry, innovation and infrastructure"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants",
+      "label": "Infrastructure grants",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Public subsidies",
+      "label": "Public subsidies",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Public-private partnerships",
+      "label": "Public-private partnerships",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Special purpose vehicles",
+      "label": "Special purpose vehicles",
+      "topicId": "Topic:Social|Industry, innovation and infrastructure|Infrastructure financing",
+      "macrotopicId": "Macrotopic:Social|Industry, innovation and infrastructure",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing",
+      "qnaCount": 1
+    }
+  ]
+}

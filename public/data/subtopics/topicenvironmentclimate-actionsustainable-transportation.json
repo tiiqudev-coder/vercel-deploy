@@ -1,0 +1,232 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Sustainable transportation",
+    "label": "Sustainable transportation",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Adoption of electric vehicles",
+      "label": "Adoption of electric vehicles",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Adoption of green vehicle technologies",
+      "label": "Adoption of green vehicle technologies",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Carpooling and ridesharing initiatives",
+      "label": "Carpooling and ridesharing initiatives",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Development of multi-modal transportation hubs",
+      "label": "Development of multi-modal transportation hubs",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Development of pedestrian-friendly cities",
+      "label": "Development of pedestrian-friendly cities",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Eco-friendly last-mile delivery solutions",
+      "label": "Eco-friendly last-mile delivery solutions",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Eco-friendly transportation policies",
+      "label": "Eco-friendly transportation policies",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 42
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Eco-friendly urban design",
+      "label": "Eco-friendly urban design",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Electrification of public transportation",
+      "label": "Electrification of public transportation",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport",
+      "label": "Green shipping and maritime transport",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green transportation finance and investment",
+      "label": "Green transportation finance and investment",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green urban logistics",
+      "label": "Green urban logistics",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Implementation of high-speed rail",
+      "label": "Implementation of high-speed rail",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Integration of renewable energy in transportation",
+      "label": "Integration of renewable energy in transportation",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 16
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Integration of smart transportation systems",
+      "label": "Integration of smart transportation systems",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Low-emission public fleets",
+      "label": "Low-emission public fleets",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Promotion of eco-friendly commuting options",
+      "label": "Promotion of eco-friendly commuting options",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Reduction of traffic congestion",
+      "label": "Reduction of traffic congestion",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 23
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles",
+      "label": "Sustainable infrastructure for electric vehicles",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "label": "Use of sustainable materials in transportation",
+      "topicId": "Topic:Environment|Climate action|Sustainable transportation",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "qnaCount": 2
+    }
+  ]
+}

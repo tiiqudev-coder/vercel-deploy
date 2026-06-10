@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Reduced inequalities|Equal access to opportunities",
+    "label": "Equal access to opportunities",
+    "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Reduced inequalities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Equal access to opportunities|Access to resources",
+      "label": "Access to resources",
+      "topicId": "Topic:Social|Reduced inequalities|Equal access to opportunities",
+      "macrotopicId": "Macrotopic:Social|Reduced inequalities",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Equal access to opportunities",
+      "qnaCount": 1
+    }
+  ]
+}

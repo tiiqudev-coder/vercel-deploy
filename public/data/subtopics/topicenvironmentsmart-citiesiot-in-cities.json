@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Smart cities|IoT in cities",
+    "label": "IoT in cities",
+    "macrotopicId": "Macrotopic:Environment|Smart cities",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Smart cities"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Asset tracking and management",
+      "label": "Asset tracking and management",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Connected fleet management",
+      "label": "Connected fleet management",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Industrial IoT (iIoT) for smart manufacturing",
+      "label": "Industrial IoT (iIoT) for smart manufacturing",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT for social inclusion",
+      "label": "IoT for social inclusion",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in healthcare for smart cities",
+      "label": "IoT in healthcare for smart cities",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping",
+      "label": "IoT in retail for smart shopping",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in urban agriculture",
+      "label": "IoT in urban agriculture",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Precision agriculture using IoT",
+      "label": "Precision agriculture using IoT",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Smart grids and IoT integration",
+      "label": "Smart grids and IoT integration",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Smart waste management",
+      "label": "Smart waste management",
+      "topicId": "Topic:Environment|Smart cities|IoT in cities",
+      "macrotopicId": "Macrotopic:Environment|Smart cities",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "qnaCount": 1
+    }
+  ]
+}

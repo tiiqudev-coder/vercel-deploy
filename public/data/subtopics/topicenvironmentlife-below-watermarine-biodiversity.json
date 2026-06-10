@@ -1,0 +1,320 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Marine biodiversity",
+    "label": "Marine biodiversity",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "label": "Algal diversity",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities",
+      "label": "Benthic communities",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Biogeographic patterns",
+      "label": "Biogeographic patterns",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 23
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Climate change effects",
+      "label": "Climate change effects",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Coral diversity",
+      "label": "Coral diversity",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Cryptic biodiversity",
+      "label": "Cryptic biodiversity",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity",
+      "label": "Deep sea biodiversity",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Ecosystem variety",
+      "label": "Ecosystem variety",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Endangered fauna",
+      "label": "Endangered fauna",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Estuarine habitats",
+      "label": "Estuarine habitats",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "label": "Fauna abundance",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "label": "Fish species",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Genetic variation",
+      "label": "Genetic variation",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 23
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Habitat richness",
+      "label": "Habitat richness",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invasive species impact",
+      "label": "Invasive species impact",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "label": "Invertebrate abundance",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "label": "Keystone species",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Mangrove species",
+      "label": "Mangrove species",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 30
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Marine flora",
+      "label": "Marine flora",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Marine mammals",
+      "label": "Marine mammals",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Marine microbes",
+      "label": "Marine microbes",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties",
+      "label": "Plankton varieties",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "label": "Rare flora",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems",
+      "label": "Reef ecosystems",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity",
+      "label": "Seabird diversity",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seagrass diversity",
+      "label": "Seagrass diversity",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Symbiotic relationships",
+      "label": "Symbiotic relationships",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 10
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "label": "Trophic interactions",
+      "topicId": "Topic:Environment|Life below water|Marine biodiversity",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "qnaCount": 3
+    }
+  ]
+}

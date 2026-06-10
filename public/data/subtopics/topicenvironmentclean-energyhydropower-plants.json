@@ -1,0 +1,111 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Clean energy|Hydropower plants",
+    "label": "Hydropower plants",
+    "macrotopicId": "Macrotopic:Environment|Clean energy",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Clean energy"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology",
+      "label": "Advances in hydropower technology",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower",
+      "label": "Environmental impact of hydropower",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies",
+      "label": "Fish-friendly hydropower technologies",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and flood control",
+      "label": "Hydropower and flood control",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management",
+      "label": "Hydropower and water resource management",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "label": "Hydropower plant design",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types",
+      "label": "Hydropower plant types",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Reservoir hydropower",
+      "label": "Reservoir hydropower",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Turbine technologies",
+      "label": "Turbine technologies",
+      "topicId": "Topic:Environment|Clean energy|Hydropower plants",
+      "macrotopicId": "Macrotopic:Environment|Clean energy",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "qnaCount": 4
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Rural development",
+    "label": "Rural development",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Agricultural extension",
+      "label": "Agricultural extension",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Agricultural productivity",
+      "label": "Agricultural productivity",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Education in rural areas",
+      "label": "Education in rural areas",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Land access and security",
+      "label": "Land access and security",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural finance",
+      "label": "Rural finance",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural infrastructure",
+      "label": "Rural infrastructure",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "label": "Rural tourism",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "label": "Sustainable farming",
+      "topicId": "Topic:Social|No poverty|Rural development",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "qnaCount": 9
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Carbon capture and storage",
+    "label": "Carbon capture and storage",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "label": "Bioenergy with carbon capture and storage (beccs)",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture and utilization (ccu)",
+      "label": "Carbon capture and utilization (ccu)",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants",
+      "label": "Carbon capture from power plants",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "label": "Carbon capture in industrial processes",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in the cement industry",
+      "label": "Carbon capture in the cement industry",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 26
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture retrofitting",
+      "label": "Carbon capture retrofitting",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "label": "Carbon capture utilization and storage (ccus)",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon dioxide removal (cdr) technologies",
+      "label": "Carbon dioxide removal (cdr) technologies",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon mineralization and storage",
+      "label": "Carbon mineralization and storage",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests",
+      "label": "Carbon sequestration in forests",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs for greenhouse gas emission reduction",
+      "label": "Ccs for greenhouse gas emission reduction",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy",
+      "label": "Ccs in conjunction with renewable energy",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in developing countries",
+      "label": "Ccs in developing countries",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 9
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in the context of climate mitigation",
+      "label": "Ccs in the context of climate mitigation",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "label": "Direct air capture technologies",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Enhanced oil recovery with carbon capture",
+      "label": "Enhanced oil recovery with carbon capture",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Financial viability of ccs",
+      "label": "Financial viability of ccs",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects",
+      "label": "Funding mechanisms for ccs projects",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Geological storage of captured carbon",
+      "label": "Geological storage of captured carbon",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Integration of ccs in sustainable development",
+      "label": "Integration of ccs in sustainable development",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 15
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|International collaboration on ccs research",
+      "label": "International collaboration on ccs research",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs",
+      "label": "Leak detection and monitoring in ccs",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Microbial carbon capture technologies",
+      "label": "Microbial carbon capture technologies",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 25
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "label": "Ocean-based carbon capture methods",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Policy incentives for ccs deployment",
+      "label": "Policy incentives for ccs deployment",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Public perception and acceptance of ccs",
+      "label": "Public perception and acceptance of ccs",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 18
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "label": "Regulatory frameworks for carbon capture",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Technological innovation in ccs",
+      "label": "Technological innovation in ccs",
+      "topicId": "Topic:Environment|Climate action|Carbon capture and storage",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "qnaCount": 9
+    }
+  ]
+}

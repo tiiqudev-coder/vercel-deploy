@@ -1,0 +1,122 @@
+{
+  "topic": {
+    "id": "Topic:Social|Good health and well-being|Nutrition and food security",
+    "label": "Nutrition and food security",
+    "macrotopicId": "Macrotopic:Social|Good health and well-being",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Good health and well-being"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Child nutrition",
+      "label": "Child nutrition",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Cultural food & mental",
+      "label": "Cultural food & mental",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "label": "Diet effects",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Food security & wellbeing",
+      "label": "Food security & wellbeing",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming",
+      "label": "Mental health in farming",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Nutrition psychiatry",
+      "label": "Nutrition psychiatry",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress",
+      "label": "Poverty, diet & stress",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Public health & lifestyle",
+      "label": "Public health & lifestyle",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Sustainable diet & mind",
+      "label": "Sustainable diet & mind",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Urban food & mental",
+      "label": "Urban food & mental",
+      "topicId": "Topic:Social|Good health and well-being|Nutrition and food security",
+      "macrotopicId": "Macrotopic:Social|Good health and well-being",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "qnaCount": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Blue economy",
+    "label": "Blue economy",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "label": "Blue carbon sequestration",
+      "topicId": "Topic:Environment|Life below water|Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Marine conservation",
+      "label": "Marine conservation",
+      "topicId": "Topic:Environment|Life below water|Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Marine education",
+      "label": "Marine education",
+      "topicId": "Topic:Environment|Life below water|Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Marine fisheries",
+      "label": "Marine fisheries",
+      "topicId": "Topic:Environment|Life below water|Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "label": "Ocean data services",
+      "topicId": "Topic:Environment|Life below water|Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "qnaCount": 12
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Seafood processing",
+      "label": "Seafood processing",
+      "topicId": "Topic:Environment|Life below water|Blue economy",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "qnaCount": 3
+    }
+  ]
+}

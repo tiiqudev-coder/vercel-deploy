@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|No poverty|Livelihood opportunities",
+    "label": "Livelihood opportunities",
+    "macrotopicId": "Macrotopic:Social|No poverty",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "No poverty"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|No poverty|Livelihood opportunities|Work-from-home opportunities",
+      "label": "Work-from-home opportunities",
+      "topicId": "Topic:Social|No poverty|Livelihood opportunities",
+      "macrotopicId": "Macrotopic:Social|No poverty",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Livelihood opportunities",
+      "qnaCount": 1
+    }
+  ]
+}

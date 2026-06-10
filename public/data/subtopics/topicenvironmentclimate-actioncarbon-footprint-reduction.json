@@ -1,0 +1,177 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Climate action|Carbon footprint reduction",
+    "label": "Carbon footprint reduction",
+    "macrotopicId": "Macrotopic:Environment|Climate action",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Climate action"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation",
+      "label": "Afforestation and reforestation",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Carbon offset programs",
+      "label": "Carbon offset programs",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Carbon pricing mechanisms",
+      "label": "Carbon pricing mechanisms",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 20
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Corporate sustainability initiatives",
+      "label": "Corporate sustainability initiatives",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-conscious education and awareness",
+      "label": "Eco-conscious education and awareness",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 8
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly consumer choices",
+      "label": "Eco-friendly consumer choices",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 26
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism",
+      "label": "Eco-friendly travel and tourism",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Green technology innovation",
+      "label": "Green technology innovation",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Low-carbon manufacturing processes",
+      "label": "Low-carbon manufacturing processes",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 14
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "label": "Promotion of renewable energy policies",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 5
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Public transportation promotion",
+      "label": "Public transportation promotion",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 6
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption",
+      "label": "Renewable energy adoption",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable agriculture practices",
+      "label": "Sustainable agriculture practices",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 13
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable supply chain practices",
+      "label": "Sustainable supply chain practices",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 11
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable waste management",
+      "label": "Sustainable waste management",
+      "topicId": "Topic:Environment|Climate action|Carbon footprint reduction",
+      "macrotopicId": "Macrotopic:Environment|Climate action",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "qnaCount": 1
+    }
+  ]
+}

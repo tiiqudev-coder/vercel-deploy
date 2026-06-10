@@ -1,0 +1,89 @@
+{
+  "topic": {
+    "id": "Topic:Social|Quality education|Global citizenship",
+    "label": "Global citizenship",
+    "macrotopicId": "Macrotopic:Social|Quality education",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Quality education"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Citizenship education",
+      "label": "Citizenship education",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Environmental conservation",
+      "label": "Environmental conservation",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "label": "Ethical decision-making",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Global awareness",
+      "label": "Global awareness",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Multiculturalism",
+      "label": "Multiculturalism",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Responsible consumption",
+      "label": "Responsible consumption",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 47
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "label": "Social responsibility",
+      "topicId": "Topic:Social|Quality education|Global citizenship",
+      "macrotopicId": "Macrotopic:Social|Quality education",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "qnaCount": 2
+    }
+  ]
+}

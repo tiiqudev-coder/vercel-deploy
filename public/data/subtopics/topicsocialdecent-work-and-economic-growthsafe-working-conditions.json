@@ -1,0 +1,23 @@
+{
+  "topic": {
+    "id": "Topic:Social|Decent work and economic growth|Safe working conditions",
+    "label": "Safe working conditions",
+    "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+    "macroareaId": "MacroArea:Social",
+    "macroArea": "Social",
+    "macrotopic": "Decent work and economic growth"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "label": "Chemical exposure monitoring",
+      "topicId": "Topic:Social|Decent work and economic growth|Safe working conditions",
+      "macrotopicId": "Macrotopic:Social|Decent work and economic growth",
+      "macroareaId": "MacroArea:Social",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions",
+      "qnaCount": 2
+    }
+  ]
+}

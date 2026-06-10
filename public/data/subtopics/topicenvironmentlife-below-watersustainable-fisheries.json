@@ -1,0 +1,166 @@
+{
+  "topic": {
+    "id": "Topic:Environment|Life below water|Sustainable fisheries",
+    "label": "Sustainable fisheries",
+    "macrotopicId": "Macrotopic:Environment|Life below water",
+    "macroareaId": "MacroArea:Environment",
+    "macroArea": "Environment",
+    "macrotopic": "Life below water"
+  },
+  "subtopics": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Alternative livelihoods",
+      "label": "Alternative livelihoods",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 7
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Community fisheries",
+      "label": "Community fisheries",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection",
+      "label": "Data collection",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management",
+      "label": "Ecosystem-based management",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 4
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fish stock assessment",
+      "label": "Fish stock assessment",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "label": "Fishery cooperatives",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "label": "Fishery improvement",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 2
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas",
+      "label": "Fishing quotas",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "label": "Harvesting practices",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "label": "Market access",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 3
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Responsible fishing",
+      "label": "Responsible fishing",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Seasonal closures",
+      "label": "Seasonal closures",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Small-scale fisheries",
+      "label": "Small-scale fisheries",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 1
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Sustainable harvesting",
+      "label": "Sustainable harvesting",
+      "topicId": "Topic:Environment|Life below water|Sustainable fisheries",
+      "macrotopicId": "Macrotopic:Environment|Life below water",
+      "macroareaId": "MacroArea:Environment",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "qnaCount": 1
+    }
+  ]
+}
