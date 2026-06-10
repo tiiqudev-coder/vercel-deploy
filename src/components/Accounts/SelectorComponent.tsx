@@ -1,6 +1,6 @@
 import SolidPortrait from "#/components/Icons/SolidPortrait"
 
-import Selector from "#/components/Account/subcomponents/Selector"
+import Selector from "#/components/Accounts/subcomponents/Selector"
 
 const SelectorComponent = ({
   sideSelect,

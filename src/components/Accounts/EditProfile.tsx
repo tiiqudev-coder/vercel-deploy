@@ -1,5 +1,5 @@
-import Profile from '#/components/Account/subcomponents/Profile'
-import Picture from '#/components/Account/subcomponents/Picture'
+import Profile from '#/components/Accounts/subcomponents/Profile'
+import Picture from '#/components/Accounts/subcomponents/Picture'
 import type { AccountResponse } from '#/utils/account'
 
 interface EditProfileProps {

@@ -1,4 +1,4 @@
-import ProfileForm from '#/components/Account/subcomponents/ProfileForm'
+import ProfileForm from '#/components/Accounts/subcomponents/ProfileForm'
 import Button from '#/components/ui/Button'
 import type { AccountResponse } from '#/utils/account'
 
