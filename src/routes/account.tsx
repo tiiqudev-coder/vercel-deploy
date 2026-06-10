@@ -4,9 +4,9 @@ import { useEffect, useState } from 'react'
 //API imports
 import { fetchAccount, type AccountResponse } from '#/utils/account'
 //Component imports
-import SelectorComponent from '#/components/Account/SelectorComponent'
-import EditProfile from '#/components/Account/EditProfile'
-import AccountSettings from '#/components/Account/AccountSettings'
+import SelectorComponent from '#/components/Accounts/SelectorComponent'
+import EditProfile from '#/components/Accounts/EditProfile'
+import AccountSettings from '#/components/Accounts/AccountSettings'
 
 export const Route = createFileRoute('/account')({
   component: RouteComponent,
